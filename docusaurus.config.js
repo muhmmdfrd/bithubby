@@ -40,7 +40,7 @@ const config = {
           customCss: require.resolve("./src/css/custom.css"),
         },
         googleTagManager: {
-          containerId: "GTM-WT9HL7J",
+          containerId: "G-YSZ4SVHFBS",
         },
         sitemap: {
           changefreq: "weekly",
