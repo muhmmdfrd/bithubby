@@ -52,6 +52,14 @@ const config = {
     ],
   ],
   themeConfig: {
+    announcementBar: {
+      id: "announcement_upgrade",
+      content:
+        "Bithubby akan membuat konten ekslusif untuk spesifik orang/pembaca. Anda adalah orang yang dituju <i>Author? Stay tuned</i>",
+      backgroundColor: "#fafbfc",
+      textColor: "#091E42",
+      isCloseable: false,
+    },
     statCounter: {
       projectId: "12857747",
       securityCode: "a7909409",
@@ -68,25 +76,78 @@ const config = {
     },
     footer: {
       style: "dark",
+      logo: {
+        alt: "Docusaurus logo",
+        src: "img/logo.svg",
+        href: "https://bithubby.com",
+        width: 300,
+        height: 100,
+      },
       links: [
         {
-          title: "Keep in touch with me",
+          title: "Collaborate with me at:",
           items: [
             {
               label: "Github",
               href: "https://github.com/muhmmdfrd",
             },
             {
-              label: "Facebook",
-              href: "https://web.facebook.com/muhmmdfrd",
+              html: `
+                  <a href="https://github.com" target="_blank" rel="noreferrer noopener" aria-label="Stored at Github">
+                    <img src="img/github-white.png" alt="Github Logo" width="128" />
+                  </a>
+                `,
             },
+          ],
+        },
+        {
+          title: "Mini Blog",
+          items: [
             {
               label: "Twitter",
               href: "https://twitter.com/bithubby",
             },
             {
+              html: `
+                  <div style="margin-bottom: 8px"></div>
+                  <a href="https://twitter.com" target="_blank" rel="noreferrer noopener" aria-label="twitter">
+                    <img src="img/twitter-white.png" alt="Twitter Logo" width="44" />
+                  </a>
+                `,
+            },
+          ],
+        },
+        {
+          title: "My Favorite Social Media",
+          items: [
+            {
+              label: "Facebook",
+              href: "https://web.facebook.com/muhmmdfrd",
+            },
+            {
+              html: `
+                  <div style="margin-bottom: 8px"></div>
+                  <a href="https://facebook.com" target="_blank" rel="noreferrer noopener" aria-label="fb">
+                    <img src="img/fb-white.png" alt="Facebook Logo" width="44" />
+                  </a>
+                `,
+            },
+          ],
+        },
+        {
+          title: "We can follow each other at:",
+          items: [
+            {
               label: "Instagram",
               href: "https://www.instagram.com/muhmmdfrd_",
+            },
+            {
+              html: `
+                  <div style="margin-bottom: 8px"></div>
+                  <a href="https://instagram.com" target="_blank" rel="noreferrer noopener" aria-label="ig">
+                    <img src="img/ig-white.png" alt="Instagram Logo" width="44" />
+                  </a>
+                `,
             },
           ],
         },
