@@ -55,7 +55,7 @@ const config = {
     announcementBar: {
       id: "announcement_upgrade",
       content:
-        "Bithubby sudah membuat fitur pemberitahuan update post ke Telegram. Silakan cek postingan terbaru untuk integrasi. Untuk email masih dalam proses pembuata. <i>So, stay tuned :)</i>",
+        "Bithubby sudah membuat fitur pemberitahuan update post ke Telegram. Silakan cek postingan terbaru untuk integrasi. Untuk email masih dalam proses pembuatan. <i>So, stay tuned :)</i>",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: false,
