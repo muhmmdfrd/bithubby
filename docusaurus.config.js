@@ -55,7 +55,7 @@ const config = {
     announcementBar: {
       id: "announcement_upgrade",
       content:
-        "Bithubby akan membuat konten eksklusif untuk spesifik orang/pembaca. Anda adalah orang yang dituju <i>Author? Stay tuned</i>",
+        "Bithubby akan membuat fitur pemberitahuan update post ke email ataupun ke Telegram. <i>So, stay tuned :)</i>",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: false,
