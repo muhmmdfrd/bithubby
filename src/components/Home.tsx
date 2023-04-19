@@ -5,6 +5,7 @@ import { Content } from "@theme/BlogPostPage";
 // @ts-ignore
 import { BlogPostProvider } from "@docusaurus/theme-common/internal";
 import FingerprintJS from "@fingerprintjs/fingerprintjs";
+import axios from "axios";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
@@ -19,20 +20,11 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
       const { components, visitorId } = result;
       const { platform } = components;
 
-      var xmlHttp = new XMLHttpRequest();
-      xmlHttp.open(
-        "POST",
-        "https://url.bithubby.com/api/subscribers/enter",
-        true
-      ); // true for asynchronous
-      xmlHttp.setRequestHeader("Content-Type", "application/json");
-      xmlHttp.send(
-        JSON.stringify({
-          userAgent: navigator.userAgent,
-          platform: platform.value,
-          visitorId: visitorId,
-        })
-      );
+      await axios.post("https://url.bithubby.com/api/subscribers/enter", {
+        userAgent: navigator.userAgent,
+        platform: platform.value,
+        visitorId: visitorId,
+      });
     };
 
     getClient();
