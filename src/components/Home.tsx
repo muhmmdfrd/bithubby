@@ -20,7 +20,11 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
       const { platform } = components;
 
       var xmlHttp = new XMLHttpRequest();
-      xmlHttp.open("POST", "https://url.bithubby.com/api/enter", true); // true for asynchronous
+      xmlHttp.open(
+        "POST",
+        "https://url.bithubby.com/api/subscribers/enter",
+        true
+      ); // true for asynchronous
       xmlHttp.setRequestHeader("Content-Type", "application/json");
       xmlHttp.send(
         JSON.stringify({
