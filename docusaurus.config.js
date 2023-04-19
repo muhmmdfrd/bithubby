@@ -41,7 +41,7 @@ const config = {
           customCss: require.resolve("./src/css/custom.css"),
         },
         googleTagManager: {
-          containerId: "G-YSZ4SVHFBS1",
+          containerId: "G-YSZ4SVHFBS",
         },
         sitemap: {
           changefreq: "weekly",
@@ -62,8 +62,8 @@ const config = {
       isCloseable: true,
     },
     statCounter: {
-      projectId: "128577471",
-      securityCode: "a79094091",
+      projectId: "12857747",
+      securityCode: "a7909409",
     },
     metadata: [
       { name: "keywords", content: "blog, story, article about life" },
