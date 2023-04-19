@@ -21,6 +21,7 @@ const config = {
   },
   plugins: [
     "@jsplumb/docusaurus-plugin-statcounter",
+    // "./plugins/fp-plugin",
     [
       "./plugins/blog-plugin",
       {
@@ -40,7 +41,7 @@ const config = {
           customCss: require.resolve("./src/css/custom.css"),
         },
         googleTagManager: {
-          containerId: "G-YSZ4SVHFBS",
+          containerId: "G-YSZ4SVHFBS1",
         },
         sitemap: {
           changefreq: "weekly",
@@ -61,8 +62,8 @@ const config = {
       isCloseable: true,
     },
     statCounter: {
-      projectId: "12857747",
-      securityCode: "a7909409",
+      projectId: "128577471",
+      securityCode: "a79094091",
     },
     metadata: [
       { name: "keywords", content: "blog, story, article about life" },
