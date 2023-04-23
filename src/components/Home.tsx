@@ -6,6 +6,7 @@ import { Content } from "@theme/BlogPostPage";
 import { BlogPostProvider } from "@docusaurus/theme-common/internal";
 import FingerprintJS from "@fingerprintjs/fingerprintjs";
 import axios from "axios";
+import { inject } from "@vercel/analytics";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
@@ -27,6 +28,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
       });
     };
 
+    inject();
     getClient();
   }, []);
 
