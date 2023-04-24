@@ -4,9 +4,8 @@ import BlogPostItem from "@theme/BlogPostItem";
 import { Content } from "@theme/BlogPostPage";
 // @ts-ignore
 import { BlogPostProvider } from "@docusaurus/theme-common/internal";
-import FingerprintJS from "@fingerprintjs/fingerprintjs";
-import axios from "axios";
 import { inject } from "@vercel/analytics";
+import { getClient } from "../services";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
@@ -14,20 +13,6 @@ interface HomeProps {
 
 export function Home({ recentPosts }: HomeProps): JSX.Element {
   React.useEffect(() => {
-    const getClient = async () => {
-      const fpPromise = FingerprintJS.load({ monitoring: false });
-      const fp = await fpPromise;
-      const result = await fp.get();
-      const { components, visitorId } = result;
-      const { platform } = components;
-
-      await axios.post("https://url.bithubby.com/api/subscribers/enter", {
-        userAgent: navigator.userAgent,
-        platform: platform.value,
-        visitorId: visitorId,
-      });
-    };
-
     inject();
     getClient();
   }, []);

@@ -1,0 +1,22 @@
+{
+  "name": "Bithubby",
+  "short_name": "Bithubby",
+  "description": "A bit story from the future hubby",
+  "icons": [
+    {
+      "src": "./img/docusaurus.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/docusaurus.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#ffffff",
+  "theme_color": "rgb(37, 194, 160)"
+}

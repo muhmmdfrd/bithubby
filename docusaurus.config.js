@@ -29,6 +29,30 @@ const config = {
         path: "./blog",
       },
     ],
+    [
+      "@docusaurus/plugin-pwa",
+      {
+        debug: true,
+        offlineModeActivationStrategies: ["appInstalled", "standalone"],
+        pwaHead: [
+          {
+            tagName: "link",
+            rel: "icon",
+            href: "img/docusaurus.png",
+          },
+          {
+            tagName: "link",
+            rel: "manifest",
+            href: "manifest.json",
+          },
+          {
+            tagName: "meta",
+            name: "theme-color",
+            content: "rgb(37, 194, 160)",
+          },
+        ],
+      },
+    ],
   ],
   presets: [
     [
@@ -40,7 +64,7 @@ const config = {
           customCss: require.resolve("./src/css/custom.css"),
         },
         googleTagManager: {
-          containerId: "G-YSZ4SVHFBS",
+          containerId: "G-YSZ4SVHFBS1",
         },
         sitemap: {
           changefreq: "weekly",
@@ -61,8 +85,8 @@ const config = {
       isCloseable: true,
     },
     statCounter: {
-      projectId: "12857747",
-      securityCode: "a7909409",
+      projectId: "128577471",
+      securityCode: "a79094091",
     },
     metadata: [
       { name: "keywords", content: "blog, story, article about life" },
