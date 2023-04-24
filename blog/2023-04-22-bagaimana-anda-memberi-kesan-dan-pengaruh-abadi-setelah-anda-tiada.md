@@ -9,6 +9,8 @@ description: Bagaimana saya ingin dikenang setelah kematianku
 
 Idul Fitri kali ini aku merasakan hal yang berbeda, terasa sedikit sepi dan sunyi. Bagaimana tidak? Aku kehilangan kakek dan bibi dari keluarga ayah dalam waktu yang berdekatan, sehingga sepupu perempuan akupun tidak lagi berada di Bandung. Ia memilih untuk Idul Fitri bersama kakak iparnya di Riau. Kakekku yang umurnya tidak menghalangi beliau untuk tetap eksis dan narsis. Juga bibi ku yang sangat baik dan dermawan mengisi kehangatan di hari raya.
 
+<!-- truncate -->
+
 > “Ayo ayo kita berfoto satu keluarga besar”.
 
 Celetuk kakakku mengajak semua yang berkumpul disana. Nenekku menimpalinya seraya berkata:
@@ -16,8 +18,6 @@ Celetuk kakakku mengajak semua yang berkumpul disana. Nenekku menimpalinya seray
 > “Foto terus, ingat Pak Ii (panggilan kakek ku) yang tiap pergi tiap ada acara foto-foto mulu. Padahal udah tua sering tidak ingat umur.
 
 Akupun terlintas sosok kakek dan bibiku ini terus melekat di dalam diriku sebagai orang yang hangat dan mengisi keramaian walau mereka sudah tenang beristirahat di sana. Lantas, bagaimana kalau diriku yang pergi terlebih dahulu? Apa yang akan mereka katakan tentangku? Beginilah aku ingin dikenang.
-
-<!-- truncate -->
 
 ## Dear My Family, Aku Dewasa yang Masih Manja
 
