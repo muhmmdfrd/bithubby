@@ -6,6 +6,7 @@ import { Content } from "@theme/BlogPostPage";
 import { BlogPostProvider } from "@docusaurus/theme-common/internal";
 import { inject } from "@vercel/analytics";
 import { getClient } from "../services";
+import Head from "@docusaurus/Head";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
@@ -19,6 +20,12 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
 
   return (
     <Layout>
+      <Head>
+        <meta
+          name="google-site-verification"
+          content="Hz32EOSPsM2PPGqD21hcTrx9oeYT0wYCeA_8nCcBCeg"
+        />
+      </Head>
       <div className="hero hero--dark hero--home shadow--lw">
         <div className="container">
           <div className="row">
