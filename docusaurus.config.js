@@ -118,7 +118,7 @@ const config = {
             {
               html: `
                   <a href="https://github.com" target="_blank" rel="noreferrer noopener" aria-label="Stored at Github">
-                    <img src="img/github-white.png" alt="Github Logo" width="128" />
+                    <img src="/img/github-white.png" alt="Github Logo" width="128" />
                   </a>
                 `,
             },
@@ -135,7 +135,7 @@ const config = {
               html: `
                   <div style="margin-bottom: 8px"></div>
                   <a href="https://twitter.com" target="_blank" rel="noreferrer noopener" aria-label="twitter">
-                    <img src="img/twitter-white.png" alt="Twitter Logo" width="44" />
+                    <img src="/img/twitter-white.png" alt="Twitter Logo" width="44" />
                   </a>
                 `,
             },
@@ -152,7 +152,7 @@ const config = {
               html: `
                   <div style="margin-bottom: 8px"></div>
                   <a href="https://facebook.com" target="_blank" rel="noreferrer noopener" aria-label="fb">
-                    <img src="img/fb-white.png" alt="Facebook Logo" width="44" />
+                    <img src="/img/fb-white.png" alt="Facebook Logo" width="44" />
                   </a>
                 `,
             },
@@ -169,7 +169,7 @@ const config = {
               html: `
                   <div style="margin-bottom: 8px"></div>
                   <a href="https://instagram.com" target="_blank" rel="noreferrer noopener" aria-label="ig">
-                    <img src="img/ig-white.png" alt="Instagram Logo" width="44" />
+                    <img src="/img/ig-white.png" alt="Instagram Logo" width="44" />
                   </a>
                 `,
             },
