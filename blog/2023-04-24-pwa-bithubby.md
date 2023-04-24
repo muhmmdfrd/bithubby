@@ -15,7 +15,7 @@ Halo, selamat pagi untuk pembaca Bithubby dari manapun kamu berada. Aku tiada he
 
 Untuk di laptop kamu hanya perlu meng-klik tombol _install_ yang akan muncul di kanan _address bar_ kamu.
 
-<img src="blog/2023-04-24-pwa-mobile.jpg" alt="install di laptop" width="240" />
+<img src="/blog/2023-04-24-pwa-mobile.jpg" alt="install di laptop" width="240" />
 
 Untuk di Android ataupun IOS, kamu bisa _install_ dengan cara klik saja "_add to homescreen_"
 
