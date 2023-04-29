@@ -8,6 +8,8 @@ import { inject } from "@vercel/analytics";
 import { getClient } from "../services";
 import Head from "@docusaurus/Head";
 import BlogSidebar from "@theme/BlogSidebar";
+// @ts-ignore
+import Image from "@theme/IdealImage";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
@@ -65,15 +67,16 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
               >
                 <BlogPostItem>
                   {BlogPostContent.frontMatter.image && (
-                    <img
-                      alt={BlogPostContent.frontMatter.description}
-                      src={BlogPostContent.frontMatter.image}
-                      style={{
-                        width: 100 + "%",
-                        maxWidth: 100 + "%",
-                        height: "auto",
-                      }}
-                    />
+                    <Image img={BlogPostContent.frontMatter.image} />
+                    // <img
+                    //   alt={BlogPostContent.frontMatter.description}
+                    //   src={BlogPostContent.frontMatter.image}
+                    //   style={{
+                    //     width: 100 + "%",
+                    //     maxWidth: 100 + "%",
+                    //     height: "auto",
+                    //   }}
+                    // />
                   )}
                   <BlogPostContent />
                 </BlogPostItem>
