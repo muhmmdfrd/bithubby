@@ -41,18 +41,33 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
         <div className="row">
           <aside className="col col--3">
             <nav
-              className="sidebar_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module thin-scrollbar"
+              className="thin-scrollbar"
               aria-label="Blog recent posts navigation"
+              style={{
+                position: "sticky",
+                overflowY: "auto",
+                maxHeight: "calc(100vh - (var(--ifm-navbar-height) + 2rem))",
+                top: "calc(var(--ifm-navbar-height) + 2rem)",
+              }}
             >
-              <div className="sidebarItemTitle_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module margin-bottom--md">
+              <div
+                className="margin-bottom--md"
+                style={{
+                  fontSize: "var(--ifm-h3-font-size)",
+                  fontWeight: "var(--ifm-font-weight-bold)",
+                }}
+              >
                 Recent posts
               </div>
-              <ul className="sidebarItemList_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module clean-list">
+              <ul className="clean-list" style={{ fontSize: "0.9rem" }}>
                 {recentPosts.slice(0, 10).map((v) => (
-                  <li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module">
+                  <li style={{ marginTop: "0.7rem" }}>
                     <a
                       aria-current="page"
-                      className="sidebarItemLink_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module"
+                      style={{
+                        display: "block",
+                        color: "var(--ifm-font-color-base)",
+                      }}
                       href={`/blog/${v.content.frontMatter.slug}`}
                     >
                       {v.content.frontMatter.title}
