@@ -16,7 +16,7 @@ Berkaitan dengan postingan sebelumnya yang ku katakan bahwa semua hal pasti ada 
 
 ## Kata Bithubby
 
-Bithubby sendiri seperti akronim dari _tagline_: "_A **bit** story from your future **hubby**_". Kata Bithubby sendiri berasal dari dua situs web yang terkenal di kalangan _developer_, yakni <a href="github.com">Github</a> dan <a href="bitbucket.com">Bitbucket</a>. Selain dua situs tersebut, inspirasi ku berasal dari kata _hubby_ atau suami. Github/Bitbucket adalah situs web manajemen projek, sistem _versioning code_, sekaligus _platform_ jaringal sosial untuk para _developer_ di seluruh dunia. _Code_ yang kita tulis bisa kita simpan disana sebagai portfolio dan penyimpanan.
+Bithubby sendiri seperti akronim dari _tagline_: "_A **bit** story from your future **hubby**_". Kata Bithubby sendiri berasal dari dua situs web yang terkenal di kalangan _developer_, yakni <a href="https://github.com">Github</a> dan <a href="https://bitbucket.com">Bitbucket</a>. Selain dua situs tersebut, inspirasi ku berasal dari kata _hubby_ atau suami. Github/Bitbucket adalah situs web manajemen projek, sistem _versioning code_, sekaligus _platform_ jaringal sosial untuk para _developer_ di seluruh dunia. _Code_ yang kita tulis bisa kita simpan disana sebagai portfolio dan penyimpanan.
 
 Aku berpikir, jika Github adalah kumpulan _code_, maka Githubby adalah kumpulan tentang hubby. Namun, nama Githubby agak kurang enak terdengarnya. Karena itu, aku teringat dengan web lain selain Github, yakni Bitbucket. Bagaimana jika Bitbucket aku ganti menjadi Bithubby. Terdengarnya lebih baik daripada Githubby. Maka aku pilih nama Bithubby.
 
