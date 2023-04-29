@@ -5,13 +5,16 @@ authors: [farid]
 tags: [story, relationship]
 keywords: [blog, Cerita saat ku kembali jatuh cinta seperti anak kecil]
 description: Cerita saat ku kembali jatuh cinta seperti anak kecil
+image: "/blog/children-817365_640.jpg"
 ---
 
+:::success _Summary_
 Kehidupan teruslah berjalan, umur semakin berkurang, dan kenangan serta cerita di dalamnya semakin lah banyak. Namun ada sesuatu hal
 yang mundur kembali ke masa lalu. Apakah itu? Yap, perasaan suka kepada seseorang yang telah lama tidak bertemu. Bahkan _lost contact_.
 Bukan hanya sekadar suka, aku sadar kalo aku sekarang mendambakan wanita seperti dia. Kalo bisa ya udah lah dia aja jadi pasanganku kelak😂.
 Selain itu, aku juga menyadari banyak hal yang kembali aku rasakan, perasaan disaat aku mulai puber saat remaja. Namun, sekarang kondisinya
 tidaklah sama.
+:::
 
 <!--truncate-->
 

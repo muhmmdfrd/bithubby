@@ -5,9 +5,12 @@ authors: [farid]
 tags: [life, opinion]
 keywords: [grey, world, cruel, bithubby]
 description: Dunia Ini Abu
+image: "/blog/dunia-ini-abu-cover.jpg"
 ---
 
+:::success _Summary_
 Tak sengaja aku teringat percakapan dengan seorang teman yang dimana teman tersebut sangat tidak suka akan perlakuan dari salah satu lelaki terhadap sahabat dekatnya. Bahkan, dirinya menyatakan bahwa lelaki itu sudah 100% jahat. Mengapa bisa demikian? Karena dirinya mengetahui semua tabiat lelaki tersebut dari cerita sahabatnya. Timbul tanya di bekakku, "apakah benar orang tersebut 100% jahat?". Aku berada di posisi abu-abu karena aku belum mengetahui secara utuh kronologinya. Selain itu, aku pun terbesit dunia ini memang abu-abu. Kamu ingin pilih hal tersebut hitam ataupun putih, itu tergantung persfektif dan sudut pandang yang kamu ambil. Dari hal tersebut, aku menyadari sesuatu yang lebih dari itu.
+:::
 
 <!-- truncate -->
 

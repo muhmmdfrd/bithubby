@@ -5,9 +5,12 @@ authors: [farid]
 tags: [story, life, love, her]
 keywords: [myself, feeling, blog, friend, life]
 description: Kamu bukan lagi pilihan
+image: "/blog/balloons-1046658_640.jpg"
 ---
 
+:::success _Summary_
 Diriku hanyalah seorang manusia biasa, yang memiliki keterbatasan fisik dan akal. Pengetahuan diriku juga mengenai orang lain tidaklah luas. Aku perlu sudut pandang dari orang lain agar bisa memahami bagaimana cara dan pola pikir orang lain. Walaupun orang yang aku ingin pahami tersebut tidaklah dapat ditanyakan secara personal, namun tidak ada salahnya jika menambah sudut pandang dari satu kaumnya. Yap, kaum perempuan. Aku perlu menambah pengetahuanku mengenai sudut pandang dari kaca mata perempuan agar dapat menyelesaikan konflik batin ini, _battle of symphony._ Akhirnya aku membuat keputusan besar.
+:::
 
 <!-- truncate -->
 

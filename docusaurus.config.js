@@ -53,6 +53,14 @@ const config = {
         ],
       },
     ],
+    [
+      "@docusaurus/plugin-ideal-image",
+      {
+        quality: 70,
+        steps: 2,
+        disableInDev: false,
+      },
+    ],
   ],
   presets: [
     [

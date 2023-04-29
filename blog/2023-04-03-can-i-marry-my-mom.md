@@ -5,11 +5,14 @@ authors: [farid]
 tags: [story, life, family, love]
 keywords: [marry, mom, love, blog, dream]
 description: Pikiran lugu nan naif saat masih kecil
+image: "/blog/wedding-2595862_640.jpg"
 ---
 
+:::success _Summary_
 Sudah jelas terlihat dari judulnya bahwa saat umurku menginjak 10 tahun, aku benar-benar mempunyai pikiran itu. Asumsi ku juga
 itu merupakan pertanyaan retoris karena tentu saja jawabannya tidak. Namun, pada saat umur yang masih tergolong anak kecil diriku
 sudah mempunyai pertanyaan hal yang demikian. Mengapa?
+:::
 
 <!--truncate-->
 

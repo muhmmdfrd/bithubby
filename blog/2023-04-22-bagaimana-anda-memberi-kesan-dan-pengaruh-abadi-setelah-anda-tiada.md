@@ -5,9 +5,12 @@ authors: [farid]
 tags: [life, love, family]
 keywords: [bithubby, death, afterlife]
 description: Bagaimana saya ingin dikenang setelah kematianku
+image: "/blog/kuburan.jpg"
 ---
 
+:::success _Summary_
 Idul Fitri kali ini aku merasakan hal yang berbeda, terasa sedikit sepi dan sunyi. Bagaimana tidak? Aku kehilangan kakek dan bibi dari keluarga ayah dalam waktu yang berdekatan, sehingga sepupu perempuan akupun tidak lagi berada di Bandung. Ia memilih untuk Idul Fitri bersama kakak iparnya di Riau. Kakekku yang umurnya tidak menghalangi beliau untuk tetap eksis dan narsis. Juga bibi ku yang sangat baik dan dermawan mengisi kehangatan di hari raya.
+:::
 
 <!-- truncate -->
 

@@ -5,11 +5,14 @@ authors: [farid]
 tags: [story, fiction, life]
 keywords: [blog, serigala, padang, savana, wolf, lone wolf]
 description: Cerita tentang serigala yang bertahan hidup di luar habitatnya
+image: "/blog/wolf-142173_640.jpg"
 ---
 
+:::success _Summary_
 Tak biasanya, seekor serigala pergi berkelana sendirian dimana serigala biasanya hidup berkelompok nan solid. Banyak kawanannya yang pergi
 menetap pada habitatnya, di tempat tak jauh dari tempat lahirnya. Namun, satu serigala ini memang keras kepala. Tak ayal jika dia selalu
 menghadapi semuanya sendirian. Namun, dia mendapat salah satu pengalaman yang tidak bisa dienyahkan begitu saja.
+:::
 
 <!--truncate-->
 

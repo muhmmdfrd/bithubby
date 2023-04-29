@@ -7,7 +7,9 @@ keywords: [feature, enhancement, pwa]
 description: Dapatkan Notifikasi Update Postingan dari Telegram
 ---
 
+:::success _Summary_
 Halo, selamat pagi untuk pembaca Bithubby dari manapun kamu berada. Aku tiada henti-hentinya mempersembahkan fitur terbaru dari blog Bithubby. Sekarang bithubby bisa di-_install_ lho di perangkat kamu, baik di Android, IOS, Tab, ataupun di laptop kamu.
+:::
 
 <!-- truncate -->
 

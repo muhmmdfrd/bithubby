@@ -5,10 +5,13 @@ authors: [farid]
 tags: [story, life]
 keywords: [seal, god, plan, love, blog]
 description: Kendali Tuhan atas apa yang aku lakukan
+image: "/blog/beach-4984023_640.jpg"
 ---
 
+:::success _Summary_
 Aku merasakan hal yang janggal belakangan ini. Dimana aku yang biasanya selalu melakukan apa saja yang aku inginkan, yang aku kehendaki,
 tiba-tiba aku merasa ada yang menahan diriku untuk melakukannya.
+:::
 
 <!--truncate-->
 

@@ -6,12 +6,15 @@ tags: [physics, life]
 keywords:
   [blog, physics, principle, uncertainly-principle, uncertainly, reality, love]
 description: Prinsip ketidakpastian dalam hidup
+image: "/blog/man-2037255_640.jpg"
 ---
 
+:::success _Summary_
 Kembali kepada mengenai Fisika Kuantum, dimana cabang ilmu fisika tersebut membahas mengenai partikel-partikel sub-atom. Ada yang
 menyatakan bahwa semua menyatakan semua hal di dunia ini adalah hal yang tidak nyata, karena manusia, langit, bulan, bahkan matahari adalah
 sebuah partikel yang sekaligus gelombang. Bagaimana bisa terjadi sebuah benda memiliki dua sifat yang berbeda dalam satu waktu? Hal inilah
 yang disebut dualisme gelombang-partikel. Apakah korelasi antara kehidupan ini dengan konsep-konsep dalam Fisika Kuantum yang disebutkan?
+:::
 
 <!--truncate-->
 

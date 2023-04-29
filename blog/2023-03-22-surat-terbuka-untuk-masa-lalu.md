@@ -5,11 +5,14 @@ authors: [farid]
 tags: [letter, message, love]
 keywords: [blog, love, surat, masa, lalu, masa lalu]
 description: Surat Terbuka untuk Masa Lalu
+image: "/blog/letter-1390463_640.jpg"
 ---
 
+:::success _Summary_
 Mengingat kembali kepada sosok dirimu yang pernah mewarnai hari-hari yang aku lewati bukanlah hal yang salah karena sosokmu pernah
 menjadi bagian dari hidupku dan akan selalu menjadi cerita dari diriku. Meski saat ini engkau sudah menemukan cinta yang tak bisa
 didapatkan dariku, memori tentang kita selalu ada.
+:::
 
 <!--truncate-->
 

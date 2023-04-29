@@ -5,13 +5,16 @@ authors: [farid]
 tags: [story, relationship]
 keywords: [blog, entanglement adalah panggilan sayang terbaru untuk si dia]
 description: entanglement adalah panggilan sayang terbaru untuk si dia
+image: "/blog/earth-1365995_640.jpg"
 ---
 
+:::success _Summary_
 Entanglement adalah sebuah sekelompok partikel pada cabang fisika kuantum yang dimana partikel tersebut saling berkaitan dan berkomunikasi
 tidak peduli seberapa jauh partikel tersebut dipisahkan bahkan sampai satu juta cahaya pun partikel tersebut akan tetap saling terhubung.
 Entanglement merupakan hal yang mustahil. Albert Einstein pun sampai membuat _paper_ mengenai ketidaksetujuan mengenai Entanglement ini
 karena fisika merupakan ilmu pasti. Sedangkan Entanglement adalah sesuatu yang ada, namun tidak pasti posisi keberadaannya. Lalu apa
 kaitannya Entanglement dengan si dia?
+:::
 
 <!--truncate-->
 

@@ -5,12 +5,15 @@ authors: [farid]
 tags: [story]
 keywords: [blog, story, cerita saat diriku mengacau pada satu hari]
 description: cerita saat diriku mengacau pada satu hari
+image: "/blog/emotion.jpg"
 ---
 
+:::success _Summary_
 Waktu berlalu begitu saja dengan beragam kejadian-kejadian yang sudah kita pernah lewati. Mustahil kita mengisi hari tanpa ada kejadian
 yang sangat diingat. Ya Setelah aku disibukan dengan lomba Pekan Kreatifitas Mahasiswa, lalu dengan pekerjaan beserta _deadline_-nya yang
 mepet, dan juga acara olahraga badminton di sela-sela pekerjaan yang membuat aku baru sempat lagi untu menulis. Disini akan aku jelaskan
 apa saja kejadian yang aku alami belakangan ini.
+:::
 
 <!--truncate-->
 

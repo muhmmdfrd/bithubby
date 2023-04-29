@@ -5,9 +5,12 @@ authors: [farid]
 tags: [physics, life, love, opinion]
 keywords: [physics, quantum zeno effect, love, life, bithubby]
 description: Korelasi Quantum Zeno Effect dengan Kehidupan
+image: "/blog/black-hole-6274731_640.jpg"
 ---
 
+:::success _Summary_
 Tentu di dunia ini terdapat bermacam-macam teori dan paradoks. Terlebih lagi jika kita menelaah lebih lanjut mengenai ilmu filsafat beserta para filsuf Yunani pada zaman dahulu, kita sebut saja Plato, Socrates, Pythagoras, Aristotle, dan Zeno. Pada kesempatan kali ini, aku akan membahas teori yang dikemukakan oleh Zeno mengenai teori anak panah. Namun, disini aku akan membeberkan ketidaksetujuan dengan teori tersebut. Bagaimana bisa aku tidak setuju dengan teori dari filsuf termahsyur tersebut?
+:::
 
 <!-- truncate -->
 

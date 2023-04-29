@@ -5,15 +5,13 @@ authors: [farid]
 tags: [reminder, motivation]
 keywords: [reminder, Allah SWT selalu senantiasa untuk hamba-Nya]
 description: Allah SWT selalu senantiasa untuk hamba-Nya
+image: "/blog/pray.jpg"
 ---
 
-Terdengar klise dan mungkin membosankan di kala kita diberi ujian, cobaan, ataupun musibah, lalu orang menasihati kita:
-
-> Sabar, sabar, sabar, banyak berdo'a
-
-Sejujurnya akupun setuju dengan hal itu, sampai aku berubah pikiran karena dengan pengalaman diriku sendiri, Allah SWT
-senantiasa menepati janji-Nya, membantu hamba-Nya dan tidak pernah menjauhi hamba-Nya.
+:::success _Summary_
+Terdengar klise dan mungkin membosankan di kala kita diberi ujian, cobaan, ataupun musibah, lalu orang menasihati kita, "Sabar, sabar, sabar, banyak berdo'a." Sejujurnya akupun setuju dengan hal itu, sampai aku berubah pikiran karena dengan pengalaman diriku sendiri, Allah SWT senantiasa menepati janji-Nya, membantu hamba-Nya dan tidak pernah menjauhi hamba-Nya.
 Jadi, disini aku ingin menceritakan pengalamanku melewati ujian dengan bantuan-Nya dan atas kekuasaan Allah SWT akupun dapat melewatinya.
+:::
 
 <!--truncate-->
 

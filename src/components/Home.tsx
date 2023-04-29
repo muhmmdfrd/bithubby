@@ -17,7 +17,6 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
     inject();
     getClient();
   }, []);
-
   return (
     <Layout>
       <Head>
@@ -40,18 +39,52 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
       </div>
       <div className="container margin-top--xl margin-bottom--lg">
         <div className="row">
-          <div className="col col--9 col--offset-1">
+          <aside className="col col--3">
+            <nav
+              className="sidebar_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module thin-scrollbar"
+              aria-label="Blog recent posts navigation"
+            >
+              <div className="sidebarItemTitle_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module margin-bottom--md">
+                Recent posts
+              </div>
+              <ul className="sidebarItemList_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module clean-list">
+                {recentPosts.slice(0, 10).map((v) => (
+                  <li className="sidebarItem_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module">
+                    <a
+                      aria-current="page"
+                      className="sidebarItemLink_node_modules-@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module"
+                      href={`/blog/${v.content.frontMatter.slug}`}
+                    >
+                      {v.content.frontMatter.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          </aside>
+          <main className="col col--7">
             {recentPosts.map(({ content: BlogPostContent }) => (
               <BlogPostProvider
                 key={BlogPostContent.metadata.permalink}
                 content={BlogPostContent}
               >
                 <BlogPostItem>
+                  {BlogPostContent.frontMatter.image && (
+                    <img
+                      alt={BlogPostContent.frontMatter.description}
+                      src={BlogPostContent.frontMatter.image}
+                      style={{
+                        width: 100 + "%",
+                        maxWidth: 100 + "%",
+                        height: "auto",
+                      }}
+                    />
+                  )}
                   <BlogPostContent />
                 </BlogPostItem>
               </BlogPostProvider>
             ))}
-          </div>
+          </main>
         </div>
         {/* <div className="row">
           <div className="col col--5 col--offset-5">
