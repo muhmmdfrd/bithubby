@@ -7,6 +7,7 @@ import { BlogPostProvider } from "@docusaurus/theme-common/internal";
 import { inject } from "@vercel/analytics";
 import { getClient } from "../services";
 import Head from "@docusaurus/Head";
+import BlogSidebar from "@theme/BlogSidebar";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
@@ -17,6 +18,16 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
     inject();
     getClient();
   }, []);
+
+  const posts = recentPosts.slice(0, 10).map((p) => p.content.frontMatter);
+
+  var items = posts.map(function ({ slug, title }) {
+    return {
+      permalink: `/blog/${slug}`,
+      title,
+    };
+  });
+
   return (
     <Layout>
       <Head>
@@ -39,44 +50,13 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
       </div>
       <div className="container margin-top--xl margin-bottom--lg">
         <div className="row">
-          <aside className="col col--3">
-            <nav
-              className="thin-scrollbar"
-              aria-label="Blog recent posts navigation"
-              style={{
-                position: "sticky",
-                overflowY: "auto",
-                maxHeight: "calc(100vh - (var(--ifm-navbar-height) + 2rem))",
-                top: "calc(var(--ifm-navbar-height) + 2rem)",
-              }}
-            >
-              <div
-                className="margin-bottom--md"
-                style={{
-                  fontSize: "var(--ifm-h3-font-size)",
-                  fontWeight: "var(--ifm-font-weight-bold)",
-                }}
-              >
-                Recent posts
-              </div>
-              <ul className="clean-list" style={{ fontSize: "0.9rem" }}>
-                {recentPosts.slice(0, 10).map((v) => (
-                  <li style={{ marginTop: "0.7rem" }}>
-                    <a
-                      aria-current="page"
-                      style={{
-                        display: "block",
-                        color: "var(--ifm-font-color-base)",
-                      }}
-                      href={`/blog/${v.content.frontMatter.slug}`}
-                    >
-                      {v.content.frontMatter.title}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </nav>
-          </aside>
+          <BlogSidebar
+            sidebar={{
+              items: items,
+              title: "Recents posts",
+            }}
+          />
+
           <main className="col col--7">
             {recentPosts.map(({ content: BlogPostContent }) => (
               <BlogPostProvider
