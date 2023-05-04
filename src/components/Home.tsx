@@ -37,6 +37,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
           name="google-site-verification"
           content="Hz32EOSPsM2PPGqD21hcTrx9oeYT0wYCeA_8nCcBCeg"
         />
+        <script type="module" src="/firebase.js"></script>
       </Head>
       <div className="hero hero--dark hero--home shadow--lw">
         <div className="container">
