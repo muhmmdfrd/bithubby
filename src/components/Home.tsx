@@ -69,15 +69,6 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
                 <BlogPostItem>
                   {BlogPostContent.frontMatter.image && (
                     <Image img={BlogPostContent.frontMatter.image} />
-                    // <img
-                    //   alt={BlogPostContent.frontMatter.description}
-                    //   src={BlogPostContent.frontMatter.image}
-                    //   style={{
-                    //     width: 100 + "%",
-                    //     maxWidth: 100 + "%",
-                    //     height: "auto",
-                    //   }}
-                    // />
                   )}
                   <BlogPostContent />
                 </BlogPostItem>

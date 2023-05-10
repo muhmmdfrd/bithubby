@@ -117,7 +117,7 @@ const config = {
       },
       links: [
         {
-          title: "Collaborate with me at:",
+          title: "Collaborate",
           items: [
             {
               label: "Github",
@@ -126,7 +126,7 @@ const config = {
             {
               html: `
                   <a href="https://github.com" target="_blank" rel="noreferrer noopener" aria-label="Stored at Github">
-                    <img src="/img/github-white.png" alt="Github Logo" width="128" />
+                    <img src="/img/github-white.png" alt="Github Logo" width="114" />
                   </a>
                 `,
             },
@@ -167,7 +167,7 @@ const config = {
           ],
         },
         {
-          title: "We can follow each other at:",
+          title: "Follow Me",
           items: [
             {
               label: "Instagram",

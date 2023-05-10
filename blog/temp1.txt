@@ -1,0 +1,15 @@
+---
+slug: pandangan-hidup-the-nomads
+title: Pandangan Hidup The Nomads
+authors: [farid]
+tags: [bithubby, life, learn]
+keywords: [bithubby, learn, life, gojek, grab, taxi, ojol, the nomads, jalanan]
+description: Aku belajar pelajaran dari orang-orang di perjalanan
+image: "/blog/taxi.jpg"
+---
+
+:::success _Summary_
+Bekerja di luar kota membuat aku harus berpergian menggunakan layanan transportasi, entah itu ojek motor, mobil, taxi, ataupun mobil _shuttle_. Saat aku berkendara dengan mereka, aku seringkali basa-basi hanya untuk sekadar menananyakan cuaca, kondisi lalu lintas, ataupun _order_-an yang didapati mereka. Dari percakapan ringan tersebut biasanya munculnya percakapan yang lebih panjang dan menjurus pada satu hal. Aku seringkali mendapat pengalaman hidup dan wejangan-wejangan yang dikemukakan oleh _driver_. Disini aku rangkum pesan-pesan yang aku ingat dan bepengaruh dalam hidupku.
+:::
+
+## Berbuat Baik Kepada Semua Orang
