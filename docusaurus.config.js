@@ -85,9 +85,9 @@ const config = {
   ],
   themeConfig: {
     announcementBar: {
-      id: "announcement_upgrade",
+      id: "announcement_bithubby",
       content:
-        "Bithubby mengucapkan <i>Taqabbalallahu Minna Wa Minkum Shiyamana Wa Shiyamakum</i>, Selamat Hari Raya Idul Fitri 1 Syawal 1444 Hijriyah✨",
+        "Terdapat penambahan dan perbaikan konten di postingan 'The Busy Man'. Silakan baca lagi ya. Karena kesibukan aku juga, update postingan akan terhambat. Jadi, kalian bisa tunggu sambil baca-baca postingan sebelumnya. Terima kasih, <i>Cheers</i>",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,

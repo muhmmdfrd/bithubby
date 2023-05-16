@@ -182,7 +182,7 @@ Take you to every party<br />
 Now my baby's dancing<br />
 :::
 
-Tunggu saja, akan aku sempurnakan kembali tulisan _draft_ yang belum aku publish. Kalau kamu suka nungguin aku, _stay tuned_ ya.
+Tunggu saja, akan aku sempurnakan kembali tulisan _draft_ yang belum aku publish. Kalau kamu suka nungguin aku, _stay tuned_ ya. Kamu bisa baca-baca kembali postinganku di masa lampau sembari menunggu aku menyempurnakan tulisanku.
 
 > Emang ada yang nungguin?
 
