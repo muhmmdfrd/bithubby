@@ -36,7 +36,7 @@ Halo diriku di usia remaja. Sangat seru bukan masa dimana dirimu sedang mencari 
 
 Betul, aku pun ingat saat dirimu merasa belajar tiada gunanya. 2015-2016 adalah tahun dimana kamu mulai menemukan hobi membaca. Media sosialmu saat itu adalah Facebook. Sejujurnya sekarang juga media sosial favoritmu di masa mendatang tetap Facebook. Facebook saat itu memang kaya akan konten artikel yang penuh dengan edukasi. Tak ayal dirimu sering mendapat postingan, berita-berita, artikel yang sarat akan makna. Kamu _screenshot_ semua yang anggap kamu penting dan akan berguna di masa depan. Aku ingin mengucapkan terima kasih akan hal itu. Karena dirimu di masa depan sering membaca kembali isi _screenshot_ yang berjumlah kurang lebih 700 foto.
 
-<img src="/blog/ss.jpg" alt="List screenshot" />
+<img src="/blog/ss.png" alt="List screenshot" />
 
 Selain membaca, kamu pun sering mengikuti tes kepribadian. Walau iseng, entah mengapa hasilnya selalu _related_. Kamu pun jadi lebih kenal dengan diri sendiri.
 
