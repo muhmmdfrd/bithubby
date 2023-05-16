@@ -12,6 +12,8 @@ image: "/blog/baby.jpg"
 Sudah dua dekade diriku menikmati perjalanan hidup sesuai dengan suratan nasib, mengikuti alur dan bentuk dari pintalan benang takdir yang dibuat-Nya. Ada penyesalan juga ada pencapaian. Ketika kita sudah sampai dengan apa-apa yang kita ingin capai, tanya lah pada diri sendiri, "apakah aku mau mengulang hidup saat sebelum tujuan itu tercapai?". Asumsiku mayoritas akan menjawab "tidak". Namun, dengan adanya penyesalan, jawaban dari pertanyaan yang tadi adalah "jika waktu bisa diputar, aku ingin kembali dan mengatakan kepada diriku di masa lalu tentang semua hal yang sekarang aku ketahui saat ini". Aku pun berpikiran seperti itu. Inilah kata-kata yang ingin ku sampaikan pada diriku di masa lalu.
 :::
 
+<!-- truncate -->
+
 ## SD
 
 Hai aku di usia SD. Kamu pasti ingat banget kalau kamu sangat ketakutan ketika kamu pulang sekolah ke rumah dan tidak menemukan siapa-siapa disana. Kamu akan langsung menangis di tempat. _It's okay if you afraid to be alone_, jangan khawatir karena kamu di masa depan adalah orang yang sudah bisa berteman dengan kesendirian dan bersahabat dengan rasa sepi karena dirimu di masa depan memilih untuk merantau pergi ke kota sebrang. Kamu disana mampu untuk menghadapi masalah dan menyelesaikannya sendiri. Walau kamu masih punya orang tua, kakak kandung, ataupun teman, kamu memilih untuk _deal with that_ sendirian. Bukannya apa-apa, kamu pasti enggan untuk terlihat lemah di mata keluargamu, teman-temanmu, bahkan sahabatmu. Kamu ingin terlihat kuat dan periang. Kamu akan membagikan rasa sedih itu dengan refleksimu di cermin dinding. Aku harap kamu mulai terbiasa dengan kesendirian.
