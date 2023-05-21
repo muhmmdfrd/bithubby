@@ -1,0 +1,12 @@
+---
+slug: story-of-me
+title: "Story of Me: When I'm in Love"
+authors: [farid]
+tags: [life, love]
+keywords: [seni, art, feeling, orang lain, memahami, understanding]
+description: Seni dalam memahami orang lain
+---
+
+:::success _Summary_
+Perjalanan hidup adalah kisah tentang melangkah maju, terkadang terjatuh, dan rehat sejenak. Seperti langit yang dipenuhi bintang-bintang, perjalanan hidup manusia pun penuh dengan kesalahan yang menjadi cahaya yang membimbing kita. Pembelajaran adalah kompas yang membantu kita menemukan arah yang tepat agar duka dan luka dapat terhindarkan. Setelah tumbuh dewasa
+:::

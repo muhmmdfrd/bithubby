@@ -1,6 +1,6 @@
 ---
 slug: battle-of-symphony-star
-title: Battle of Symphony Star. Bintang, Kau Bukanlah Pilihan
+title: "Battle of Symphony Star: Bintang, Kau Bukanlah Pilihan"
 authors: [farid]
 tags: [story, life, love, her]
 keywords: [myself, feeling, blog, friend, life]

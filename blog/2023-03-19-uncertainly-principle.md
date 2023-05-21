@@ -1,6 +1,6 @@
 ---
 slug: uncertainly-principle
-title: Uncertainly Principle, Hal yang Nyata Berasal dari Hal yang Tidak Nyata
+title: "Uncertainly Principle: Hal yang Nyata Berasal dari Hal yang Tidak Nyata"
 authors: [farid]
 tags: [physics, life]
 keywords:
