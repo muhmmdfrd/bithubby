@@ -8,7 +8,7 @@ async function blogPluginExtended(...pluginArgs) {
   return {
     ...blogPluginInstance,
     contentLoaded: async function (data) {
-      const recentPosts = [...data.content.blogPosts].splice(0, 30);
+      const recentPosts = data.content.blogPosts;
 
       data.actions.addRoute({
         path: "/",
