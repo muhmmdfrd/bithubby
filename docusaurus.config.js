@@ -87,7 +87,7 @@ const config = {
     announcementBar: {
       id: "announcement_bithubby",
       content:
-        "Terdapat penambahan dan perbaikan konten di postingan 'The Busy Man'. Silakan baca lagi ya. Karena kesibukan aku juga, update postingan akan terhambat. Jadi, kalian bisa tunggu sambil baca-baca postingan sebelumnya. Terima kasih, <i>Cheers</i>",
+        "Karena semakin banyaknya postingan yang dibuat Bithubby, maka aku menambahkan fitur membagi postingan per 10 postingan. Silakan nikmati kemudahan fitur yang aku buat. <i>Cheers</i>",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,

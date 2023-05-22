@@ -10,25 +10,44 @@ import Head from "@docusaurus/Head";
 import BlogSidebar from "@theme/BlogSidebar";
 // @ts-ignore
 import Image from "@theme/IdealImage";
+import PaginatorNavLink from "@theme/PaginatorNavLink";
+import P from "@theme/BlogPostPaginator";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
 }
 
 export function Home({ recentPosts }: HomeProps): JSX.Element {
+  const [page, setPage] = React.useState(1);
+  const [posts, setPosts] = React.useState([]);
+  const [pageSize] = React.useState(10);
+
+  const paginate = function (array: any, pageSize: number, pageNumber: number) {
+    const startIndex = (pageNumber - 1) * pageSize;
+    const endIndex = startIndex + pageSize;
+    return array.slice(startIndex, endIndex);
+  };
+
   React.useEffect(() => {
     inject();
     getClient();
-  }, []);
 
-  const posts = recentPosts.slice(0, 10).map((p) => p.content.frontMatter);
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("page");
 
-  var items = posts.map(function ({ slug, title }) {
-    return {
-      permalink: `/blog/${slug}`,
-      title,
-    };
-  });
+    setPage(id == null ? 1 : Number(id));
+    setPosts(paginate(recentPosts, pageSize, page));
+  }, [page]);
+
+  const items = recentPosts
+    .slice(0, 10)
+    .map((p) => p.content.frontMatter)
+    .map(function ({ slug, title }) {
+      return {
+        permalink: `/blog/${slug}`,
+        title,
+      };
+    });
 
   return (
     <Layout>
@@ -61,7 +80,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
           />
 
           <main className="col col--7">
-            {recentPosts.map(({ content: BlogPostContent }) => (
+            {posts.map(({ content: BlogPostContent }) => (
               <BlogPostProvider
                 key={BlogPostContent.metadata.permalink}
                 content={BlogPostContent}
@@ -74,17 +93,32 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
                 </BlogPostItem>
               </BlogPostProvider>
             ))}
+            <nav
+              className="pagination-nav"
+              aria-label="Blog list page navigation"
+            >
+              {page > 1 && (
+                <span onClick={() => setPage((p) => p - 1)}>
+                  <PaginatorNavLink
+                    isNext={false}
+                    permalink={`?page=${page - 1}`}
+                    title="Latest Post"
+                  />
+                </span>
+              )}
+
+              {Math.ceil(recentPosts.length / pageSize) != page && (
+                <span onClick={() => setPage((p) => p + 1)}>
+                  <PaginatorNavLink
+                    isNext={true}
+                    permalink={`?page=${page + 1}`}
+                    title="Older Post"
+                  />
+                </span>
+              )}
+            </nav>
           </main>
         </div>
-        {/* <div className="row">
-          <div className="col col--5 col--offset-5">
-            <PaginatorNavLink
-              isNext
-              permalink="/blog/page/2"
-              title="Older Post"
-            />
-          </div>
-        </div> */}
       </div>
     </Layout>
   );
