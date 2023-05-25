@@ -23,5 +23,3 @@ Cinta ini semakin hari semakin jelas, aku menyadari betul sosok seperti apa yang
 ## N.B
 
 _This is just my personal wish. I hope you would put yourself first. Whenever you make a decision, there are a lot of choices for your future, right? It would be better if you could make a decision for your own good, for your own career, to reach your own dream, and choose the path that will make you happy. Take care of the things that you need to take care of. I'm here just doing my own business and waiting for you to tell me, "I have the same feeling". Remember, you are the one and only one person that I'll adore. God, please tell her how much I love her and how much my power is to wait for her. Thanks and cheers for your own good day._
-
-~ _next_ aku berpikir untuk membuat postingan mengenai cita-citaku selain menjadi _programmer_; _clue_-nya adalah PNS dan orang yang paham tentang orang lain, tapi buta dengan diri sendiri. ~
