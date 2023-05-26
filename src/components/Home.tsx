@@ -5,7 +5,6 @@ import { Content } from "@theme/BlogPostPage";
 // @ts-ignore
 import { BlogPostProvider } from "@docusaurus/theme-common/internal";
 import { inject } from "@vercel/analytics";
-import { getClient } from "../services";
 import Head from "@docusaurus/Head";
 import BlogSidebar from "@theme/BlogSidebar";
 // @ts-ignore
@@ -29,7 +28,6 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
 
   React.useEffect(() => {
     inject();
-    getClient();
 
     const params = new URLSearchParams(window.location.search);
     const id = params.get("page");
