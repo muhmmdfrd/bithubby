@@ -11,7 +11,6 @@ import BlogSidebar from "@theme/BlogSidebar";
 // @ts-ignore
 import Image from "@theme/IdealImage";
 import PaginatorNavLink from "@theme/PaginatorNavLink";
-import P from "@theme/BlogPostPaginator";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
