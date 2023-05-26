@@ -87,7 +87,7 @@ const config = {
     announcementBar: {
       id: "announcement_bithubby",
       content:
-        "Karena semakin banyaknya postingan yang dibuat Bithubby, maka aku menambahkan fitur membagi postingan per 10 postingan. Silakan nikmati kemudahan fitur yang aku buat. <i>Cheers</i>",
+        "Update notifikasi <i>Browser</i>, detailnya ada di postingan terbaru.",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
