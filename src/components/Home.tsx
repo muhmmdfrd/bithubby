@@ -28,10 +28,11 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
 
   React.useEffect(() => {
     inject();
+  }, []);
 
+  React.useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const id = params.get("page");
-
     setPage(id == null ? 1 : Number(id));
     setPosts(paginate(recentPosts, pageSize, page));
   }, [page]);
