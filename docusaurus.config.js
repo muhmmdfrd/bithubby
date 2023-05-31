@@ -19,6 +19,12 @@ const config = {
     defaultLocale: "en",
     locales: ["en"],
   },
+  scripts: [
+    {
+      src: "/hotjar.js",
+      async: false,
+    },
+  ],
   plugins: [
     "@jsplumb/docusaurus-plugin-statcounter",
     [
