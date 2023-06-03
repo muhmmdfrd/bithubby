@@ -24,6 +24,14 @@ const config = {
       src: "/hotjar.js",
       async: false,
     },
+    {
+      src: "https://cdn.lr-ingest.com/LogRocket.min.js",
+      async: false,
+    },
+    {
+      src: "/logrocket.js",
+      async: false,
+    },
   ],
   plugins: [
     "@jsplumb/docusaurus-plugin-statcounter",
