@@ -101,7 +101,7 @@ const config = {
     announcementBar: {
       id: "announcement_bithubby",
       content:
-        "Update notifikasi <i>Browser</i>, detailnya ada di postingan terbaru.",
+        "Karena aku sedang tidak fit dari hari Sabtu dan akan menghadapi pekan UAS, maka postingan akan sedikit terhambat. <i>Please stay tuned.</i> Semoga kita semua diberi kesehatan oleh-Nya, Aamiin.",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
