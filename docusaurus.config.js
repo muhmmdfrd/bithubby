@@ -32,9 +32,12 @@ const config = {
       src: "/logrocket.js",
       async: false,
     },
+    {
+      src: "/stat.js",
+      async: false,
+    },
   ],
   plugins: [
-    "@jsplumb/docusaurus-plugin-statcounter",
     [
       "./plugins/blog-plugin",
       {
@@ -105,10 +108,6 @@ const config = {
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
-    },
-    statCounter: {
-      projectId: "12857747",
-      securityCode: "a7909409",
     },
     metadata: [
       { name: "keywords", content: "blog, story, article about life" },
