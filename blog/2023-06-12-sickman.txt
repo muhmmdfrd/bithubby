@@ -1,0 +1,17 @@
+---
+slug: sickman
+title: "The Sick Man Who Thinks About His World"
+authors: [farid]
+tags: [life, diary]
+keywords: [love, life, bithubby, sick, world]
+description: Orang yang sakit namun tetap memikirkan dunianya
+image: "/blog/healing.jpg"
+---
+
+:::success _Summary_
+TEST
+:::
+
+<!-- truncate -->
+
+## Waktu yang Tidak Tepat
