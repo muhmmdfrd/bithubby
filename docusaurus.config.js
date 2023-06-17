@@ -20,17 +20,17 @@ const config = {
     locales: ["en"],
   },
   scripts: [
-    // {
-    //   src: "/hotjar.js",
-    //   async: false,
-    // },
+    {
+      src: "/hotjar.js",
+      async: true,
+    },
     {
       src: "https://cdn.lr-ingest.com/LogRocket.min.js",
-      async: false,
+      async: true,
     },
     {
       src: "/logrocket.js",
-      async: false,
+      async: true,
     },
     // {
     //   src: "/stat.js",
