@@ -22,7 +22,11 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
 
   const paginate = function (array: any, pageSize: number, pageNumber: number) {
     const startIndex = (pageNumber - 1) * pageSize;
+    console.log(startIndex);
     const endIndex = startIndex + pageSize;
+    console.log(endIndex);
+    const res = array.slice(startIndex, endIndex);
+    console.log(res);
     return array.slice(startIndex, endIndex);
   };
 
@@ -32,9 +36,12 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
 
   React.useEffect(() => {
     const params = new URLSearchParams(window.location.search);
+    console.log(params);
     const id = params.get("page");
+    console.log(id);
     setPage(id == null ? 1 : Number(id));
     setPosts(paginate(recentPosts, pageSize, page));
+    console.log(recentPosts);
   }, [page]);
 
   const items = recentPosts
@@ -46,6 +53,8 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
         title,
       };
     });
+
+  console.log(items);
 
   return (
     <Layout>
