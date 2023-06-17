@@ -32,10 +32,10 @@ const config = {
       src: "/logrocket.js",
       async: false,
     },
-    {
-      src: "/stat.js",
-      async: false,
-    },
+    // {
+    //   src: "/stat.js",
+    //   async: false,
+    // },
   ],
   plugins: [
     [
@@ -101,6 +101,10 @@ const config = {
     ],
   ],
   themeConfig: {
+    statCounter: {
+      projectId: "12857747",
+      securityCode: "a7909409",
+    },
     announcementBar: {
       id: "announcement_bithubby",
       content:
