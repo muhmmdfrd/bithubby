@@ -32,13 +32,13 @@ const config = {
       src: "/logrocket.js",
       async: true,
     },
-    // {
-    //   src: "/stat.js",
-    //   async: false,
-    // },
+    {
+      src: "/stat.js",
+      async: false,
+    },
   ],
   plugins: [
-    "@jsplumb/docusaurus-plugin-statcounter",
+    // "@jsplumb/docusaurus-plugin-statcounter",
     [
       "./plugins/blog-plugin",
       {
