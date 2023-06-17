@@ -31,13 +31,12 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
   }, []);
 
   React.useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-
-    if (params) {
-      const id = params.get("page");
-      setPage(id == null ? 1 : Number(id));
+    try {
+      const uri = window.location.search;
+      const id = Number(uri.replace(/\D+/g, ""));
+      setPage(id == null || id == 0 ? 1 : id);
       setPosts(paginate(recentPosts, pageSize, page));
-    } else {
+    } catch (error) {
       setPage(1);
       setPosts(paginate(recentPosts, 1000, page));
     }
