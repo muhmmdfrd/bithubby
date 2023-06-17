@@ -108,7 +108,7 @@ const config = {
     announcementBar: {
       id: "announcement_bithubby",
       content:
-        "<i>Hello</i>, kabar untuk kalian semua bahwa Bithubby sebentar lagi ada <i>update</i> lhooo!. <i>Keep stay tuned</i> yaaa✨",
+        "Disarankan untuk menggunakan Chrome. Aku sempat coba di beberapa browser ada yang error (Mozilla, Opera, dan UC). Jangan lupa matikan adblock (gaada iklan kok, hanya ada script untuk mengirim notifikasi saja). Thanks",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
