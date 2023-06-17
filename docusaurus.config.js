@@ -108,7 +108,7 @@ const config = {
     announcementBar: {
       id: "announcement_bithubby",
       content:
-        "Disarankan untuk menggunakan Chrome. Aku sempat coba di beberapa browser ada yang error (Mozilla, Opera, dan UC). Jangan lupa matikan adblock (gaada iklan kok, hanya ada script untuk mengirim notifikasi saja). Thanks",
+        "Maaf telah terjadi kendala sebelumnya dan baru aku perbaiki sekarang, maklum masih UAS dan meler hehe. Tetap semangat dan cheer!",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
