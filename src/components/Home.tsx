@@ -16,16 +16,18 @@ interface HomeProps {
 }
 
 export function Home({ recentPosts }: HomeProps): JSX.Element {
-  const [page, setPage] = React.useState(1);
-  const [posts, setPosts] = React.useState(recentPosts);
-  const [pageSize] = React.useState(10);
-  const [usePaging, setUsePaging] = React.useState(true);
-
   const paginate = function (array: any, pageSize: number, pageNumber: number) {
     const startIndex = (pageNumber - 1) * pageSize;
     const endIndex = startIndex + pageSize;
     return array.slice(startIndex, endIndex);
   };
+
+  const [pageSize] = React.useState(10);
+  const [page, setPage] = React.useState(1);
+  const [posts, setPosts] = React.useState(
+    paginate(recentPosts, pageSize, page)
+  );
+  const [usePaging, setUsePaging] = React.useState(true);
 
   React.useEffect(() => {
     inject();
