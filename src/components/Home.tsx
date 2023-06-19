@@ -17,9 +17,9 @@ interface HomeProps {
 
 export function Home({ recentPosts }: HomeProps): JSX.Element {
   const [page, setPage] = React.useState(1);
-  const [posts, setPosts] = React.useState([]);
+  const [posts, setPosts] = React.useState(recentPosts);
   const [pageSize] = React.useState(10);
-  const [usePaging, setUsePaging] = React.useState(false);
+  const [usePaging, setUsePaging] = React.useState(true);
 
   const paginate = function (array: any, pageSize: number, pageNumber: number) {
     const startIndex = (pageNumber - 1) * pageSize;
@@ -84,7 +84,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
           />
 
           <main className="col col--7">
-            {recentPosts.map(({ content: BlogPostContent }) => (
+            {posts.map(({ content: BlogPostContent }) => (
               <BlogPostProvider
                 key={BlogPostContent.metadata.permalink}
                 content={BlogPostContent}
