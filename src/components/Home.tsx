@@ -84,7 +84,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
           />
 
           <main className="col col--7">
-            {posts.map(({ content: BlogPostContent }) => (
+            {posts?.map(({ content: BlogPostContent }) => (
               <BlogPostProvider
                 key={BlogPostContent.metadata.permalink}
                 content={BlogPostContent}
