@@ -19,6 +19,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
   const [page, setPage] = React.useState(1);
   const [posts, setPosts] = React.useState([]);
   const [pageSize] = React.useState(10);
+  const [usePaging, setUsePaging] = React.useState(true);
 
   const paginate = function (array: any, pageSize: number, pageNumber: number) {
     const startIndex = (pageNumber - 1) * pageSize;
@@ -39,6 +40,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
     } catch (error) {
       setPage(1);
       setPosts(paginate(recentPosts, 1000, page));
+      setUsePaging(false);
     }
   }, [page]);
 
@@ -82,7 +84,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
           />
 
           <main className="col col--7">
-            {recentPosts.map(({ content: BlogPostContent }) => (
+            {posts.map(({ content: BlogPostContent }) => (
               <BlogPostProvider
                 key={BlogPostContent.metadata.permalink}
                 content={BlogPostContent}
@@ -99,7 +101,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
               className="pagination-nav"
               aria-label="Blog list page navigation"
             >
-              {page > 1 && (
+              {page > 1 && usePaging && (
                 <span onClick={() => setPage((p) => p - 1)}>
                   <PaginatorNavLink
                     isNext={false}
@@ -109,15 +111,16 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
                 </span>
               )}
 
-              {Math.ceil(recentPosts.length / pageSize) != page && (
-                <span onClick={() => setPage((p) => p + 1)}>
-                  <PaginatorNavLink
-                    isNext={true}
-                    permalink={`?page=${page + 1}`}
-                    title="Older Post"
-                  />
-                </span>
-              )}
+              {Math.ceil(recentPosts.length / pageSize) != page &&
+                usePaging && (
+                  <span onClick={() => setPage((p) => p + 1)}>
+                    <PaginatorNavLink
+                      isNext={true}
+                      permalink={`?page=${page + 1}`}
+                      title="Older Post"
+                    />
+                  </span>
+                )}
             </nav>
           </main>
         </div>
