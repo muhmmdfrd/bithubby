@@ -7,3 +7,5 @@ keywords: [bithubby, learn, life, god, takdir, benang]
 description: Memahami logika Tuhan dalam dunia ini
 image: "/blog/yarn.jpg"
 ---
+
+<!-- truncate -->

@@ -8,7 +8,9 @@ description: Orang yang tak lelah dengan belajar memahami orang
 image: "/blog/learn.jpg"
 ---
 
+:::success _Summary_
 Sudut pandang yang sempit membuatku terus ingin untuk memperluasnya. Aku yang tak tahu apapun tentang perasaan seseorang, membuatku terus ingin memahami semuanya, karena terus terang itu membuatku bingung, hingga akhirnya aku berusaha menambah persepsi akan hal itu. Namun, keputusanku tetap seperti semula.
+:::
 
 <!-- truncate -->
 
