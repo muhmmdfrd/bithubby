@@ -19,7 +19,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
   const [pageSize] = React.useState(10);
   const [page, setPage] = React.useState(1);
   const [posts, setPosts] = React.useState(recentPosts);
-  const [usePaging, setUsePaging] = React.useState(false);
+  const [usePaging, setUsePaging] = React.useState(true);
 
   const paginate = function (array: any, pageSize: number, pageNumber: number) {
     const startIndex = (pageNumber - 1) * pageSize;
@@ -37,6 +37,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
       const id = Number(uri.replace(/\D+/g, ""));
       setPage(id == null || id == 0 ? 1 : id);
       setPosts(paginate(recentPosts, pageSize, page));
+      setUsePaging(true);
     } catch (error) {
       setPage(1);
       setPosts(paginate(recentPosts, 1000, page));
