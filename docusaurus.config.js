@@ -109,8 +109,7 @@ const config = {
     },
     announcementBar: {
       id: "announcement_bithubby",
-      content:
-        "Maaf telah terjadi kendala sebelumnya dan baru aku perbaiki sekarang, maklum masih UAS dan meler hehe. Tetap semangat dan cheer!",
+      content: "I'm back everybody!",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,

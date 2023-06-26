@@ -18,12 +18,12 @@ Di dalam gelap, bayangan-bayangan berputar-putar, mistis yang terjalin dengan ny
 
 Di tengah malam saat aku sedang bergelut dengan tugas, urusan perut tak bisa ditinggalkan. Bagaimana tidak, aku sudah memiliki penyakit maag akut dan aku tak mau mengulangi kesalahan yang sama. Ingin memakan warteg? Sudah tutup mas; Mau indomie? Abis juga mas. Oleh karenanya aku pun memesan makanan melalui _delivery online_ dan akhirnya aku mendapatkan _driver_ yang mengantarkan makananku seorang wanita. Sudah tidak hal yang aneh lagi jika seorang wanita pun di Jakarta menjadi _driver_ ojek _online_. Selain itu, aku pun merasa biasa saja memesan makanan pukul 00:40 WIB karena di Jakarta jam tersebut masih bisa dikategorikan sebagai waktu yang normal untuk melakukan aktivitas, beda halnya ketika di Bandung. Selang beberapa menit, wanita itu pun hampir tiba di indekosku. Namun, karena sudah larut malam, pagar depan indekosku sudah dikunci oleh pemilik rumah. Mau tidak mau aku harus menggunakan pintu "rahasia". Kebetulan saat itu suasana sudah sepi, ditambah lagi indekosku dekat sekali dengan kuburan menambah suasana yang mencekam. _Celingak celinguk_, aku pun mencari keberadaan _driver_ tersebut. Ahh, akhirnya aku melihat wanita menggunakan motor dari kejauhan. Namun, sepertinya raut wajahnya menunjukkan rasa takut dan khawatir. Saat sudah hampir melewatiku dan karena aku melewati pintu "rahasia" sehingga tempat tersebut gelap, jadi aku agak tersembunyi sehingga aku pun memanggil _driver_ tersebut.
 
-👦🏻: "Mbak, mbak, mbak!"
-👩🏻: "ASTAGFIRULLAH MAS!!!"
-👩🏻: "Ehh maaf mas, saya kaget masnya diem di tempat gelap. Kirain siapa."
-👦🏻: "Wahh _sorry_ mbak, ini pagernya udah dikunci jadi saya muter lewat pintu belakang."
-👩🏻: "Iya syukur ternyata (ada) masnya. Saya jujur takut mas, tau lewatin kuburan sepi gini. Emangnya mas gatakut?"
-👦🏻: "Biasa aja mbak, saya gatakut hal begituan hahah. BTW makasih ya mbak, hati-hati."
+👦🏻: "Mbak, mbak, mbak!" <br />
+👩🏻: "ASTAGFIRULLAH MAS!!!" <br />
+👩🏻: "Ehh maaf mas, saya kaget masnya diem di tempat gelap. Kirain siapa." <br />
+👦🏻: "Wahh _sorry_ mbak, ini pagernya udah dikunci jadi saya muter lewat pintu belakang." <br />
+👩🏻: "Iya syukur ternyata (ada) masnya. Saya jujur takut mas, tau lewatin kuburan sepi gini. Emangnya mas gatakut?" <br />
+👦🏻: "Biasa aja mbak, saya gatakut hal begituan hahah. BTW makasih ya mbak, hati-hati." <br />
 
 Betul, aku tidak takut hal yang seperti itu karena aku sudah kebal dengan hal supranatural. Pada awalnya, aku tidak percaya semua hal yang teman ceritakan kepadaku karena aku cenderung tidak percaya semua yang orang katakan sampai aku mengalaminya sendiri. Aku percaya Jakarta macet hingga terdapat perbedaan saat berangkat 06:30 sampai 07:00 di tujuan, namun jika berangkat 06:31 sampai 07:20 di tujuan, aku bisa katakan itu valid karena aku mengalaminya sendiri. Aku tidak tahu bagaimana beratnya rasa depresi hingga muncul rasa ingin _suicide_, hingga aku mengalaminya sendiri tahun lalu. Termasuk kejadian supranatural. Aku percaya kejadian mistis itu ada, karena aku sudah mengalaminya sendiri dan itu akan aku ingat hingga waktu yang tak dapat ditentukan.
 
@@ -43,9 +43,9 @@ Sambil menunggu ibuku pulang yang diperkirakan akan tiba jam 3-5 pagi, aku pun k
 
 Tidak, yang medengar pagar bukan hanya aku seorang, tapi ayahku pun mendengarnya.
 
-👨🏻: "Tadi yang buka pager mama bukan?"
-🧑🏻: "Gatau pah, tadi emang ada yang buka cuma gada orang"
-👨🏻: "Kita tanya Pak Marna (tetangga)"
+👨🏻: "Tadi yang buka pager mama bukan?" <br />
+🧑🏻: "Gatau pah, tadi emang ada yang buka cuma gada orang" <br />
+👨🏻: "Kita tanya Pak Marna (tetangga)" <br />
 
 Ayahku pun bergegas keluar dan menanyakan kepada tetangga yang juga istrinya pergi bersama ibuku. Namun, ayahku mendapati jawaban bahwa istrinya belum lah sampai rumah, masih jauh di perjalanan sana. Lantas, siapa yang membuka pagar? Orang yang iseng? Aku bersikap seolah tidak tahu apa-apa. Yang sebenarnya aku rasakan adalah takut akan teror yang aku alami dari sosok bayangan itu, benar-benar malam yang mencekam hingga aku percaya jika memang terdapat orang-orang yang mengalami hal mistis, karena aku pun sudah mengalaminya sendiri.
 
