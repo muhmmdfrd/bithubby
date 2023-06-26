@@ -138,7 +138,7 @@ _Chat_-nya stop sihh. Tapi perasaannya belum stop🤣. Coba liat percakapan aku,
 
 👧🏻: "Ohh ini mbak SY tuhh, btw fotonya juga udah keliatan banget sihh Jang dia dewasa." <br />
 👧🏻: "OMG, ini lucu bgt dikasih pap sama dia" <br />
-🧑🏻: "Iya kan? Padahal aku minta. Aahhhhhh itu bikin aku _melted_" <br />
+🧑🏻: "Iya kan? Padahal aku gaminta. Aahhhhhh itu bikin aku _melted_" <br />
 👧🏻: "Kamu bilang apa Jang abis dikasih foto dia? Cantik? Apa bales ngasih foto?" <br />
 🧑🏻: "AHHH BEGO, IYA JUGA KENAPA AKU GAKASIH DIA FOTO JUGAA!!" <br />
 🧑🏻: "Tapi aku mau ngasih foto juga takut _ilfeel_ gitu lho, apaansi cowo kirim-kirim foto. Dan aku mau bilang cantik juga agak canggung gitu lho karena takut dikira buaya. Sejujurnya emang cantik" <br />
@@ -189,4 +189,4 @@ dengan ilmu yang kau perjuangkan sangat gigih dan mendapat semua hal yang kau im
 
 ## Note
 
-Akhirnya bisa nulis lagi, terus terang minggu yang berat setelah menghadapi Ujian Akhir Semester dibarengi dengan pekerjaan. Belum lagi sakit wkwkwk. Namun, ya ini bukan kali pertama. Aku bisa nulis yaa walaupun masih ada satu UAS yang belum aku kerjakan. Harusnya malam ini sihh, cuma karena ingat hari Kamis dan hari Kamis Merupakan _Tumblr Day Starbucks_, jadi tak mengapa lahh aku meluangkan waktu untuk menyelesaikan tulisan ini setelah sekian lama sudah menjadi _draft_, sebelum hal-hal yang tak terduga terjadi. Oke Rid atau Ujang, sampai bertemu di tulisan berikutnya yaa. Selalu gaungkan lirik lagu yang _savage_ dan favoritmu, _I like proving perople wrong, I'll do what they say I can't, so cheers_.
+Akhirnya bisa nulis lagi, terus terang minggu yang berat setelah menghadapi Ujian Akhir Semester dibarengi dengan pekerjaan. Belum lagi sakit wkwkwk. Namun, ya ini bukan kali pertama. Aku bisa nulis yaa walaupun masih ada satu UAS yang belum aku kerjakan. Harusnya malam ini sihh, cuma karena ingat hari Kamis dan hari Kamis Merupakan _Tumblr Day Starbucks_, jadi tak mengapa lahh aku meluangkan waktu untuk menyelesaikan tulisan ini setelah sekian lama sudah menjadi _draft_, sebelum hal-hal yang tak terduga terjadi. Oke Rid atau Ujang, sampai bertemu di tulisan berikutnya yaa. Selalu gaungkan lirik lagu yang _savage_ dan favoritmu, _I like proving people wrong, I'll do what they say I can't, so cheers_.
