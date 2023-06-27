@@ -1,6 +1,6 @@
 ---
 slug: from-you-5-years-ago-to-you-in-2000-years
-title: From You, 5 years ago. To You, In 2000 years
+title: From You, 5 Years Ago. To You, In 2000 Years
 authors: [farid]
 tags: [life, love, opinion]
 keywords: [love, life, bithubby]
