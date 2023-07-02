@@ -5,6 +5,7 @@ authors: [farid]
 tags: [life, love, tips]
 keywords: [seni, art, feeling, orang lain, memahami, understanding]
 description: Seni dalam memahami orang lain
+draft: true
 ---
 
 :::success _Summary_
