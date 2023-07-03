@@ -12,6 +12,8 @@ image: "/blog/cant-sleep.jpg"
 Ketika keheningan malam menutupi jagad, bintang-bintang berkumpul di langit gelap. Seperti titik-titik cahaya yang tak terhitung jumlahnya, mereka menjadi saksi bisu dari pikiran-pikiran yang tengah dirajut oleh jiwa yang terbuai. Aku berusaha untuk memejamkan mata, namun pikiran-pikiran berkecamuk di kepala, merayap seperti binatang liar yang tak terkendali.
 :::
 
+<!-- truncate -->
+
 ## Why?
 
 Aku rasa memang setelah perkuliahan berakhir, aku merasa ada yang hilang. Stagnan kembali menghampiri dan menemani keseharianku. Walau lelah menerka, perkuliahan mengisi bagian dari diriku yang kosong. Di pekerjaan saat sudah santai, bukannya beristirahat, aku malah membuka LMS. Jikalau sempat, aku bahkan langsung menyelesaikannya tugas pada saat itu juga. Memang benar selepas diriku menyelesaikan 19 SKS dengan sempurna, aku bisa kembali menonton film; membaca buku; menulis postingan yang inspiratif; atau bahkan hanya bisa bersantai sejenak melepas penat. Pikirku itu akan sangat menyenangkan. Namun, entah mengapa aku terjaga sepanjang malam. Apakah karena udara yang panas? Tidak juga, apakah karena kafein? Aku malam tidak meminum apapun selain air putih. Lantas mengapa? Aku belum menemukan jawaban pastinya.
