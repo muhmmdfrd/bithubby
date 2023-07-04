@@ -1,6 +1,6 @@
 ---
-slug: i-cant-sleep-but-i-tired
-title: "I Can't Sleep, But I Tired"
+slug: i-cant-sleep-but-i-am-tired
+title: "I Can't Sleep, But I'm Tired"
 authors: [farid]
 tags: [life, love, story]
 keywords: [cant, sleep, tired, love, bithubby]

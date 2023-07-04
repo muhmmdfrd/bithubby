@@ -109,7 +109,7 @@ const config = {
     },
     announcementBar: {
       id: "announcement_bithubby",
-      content: "Welcome July, please stay tuned✨",
+      content: "Welcome July, please stay tuned while I recharge✨",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
