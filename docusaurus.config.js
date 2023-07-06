@@ -22,15 +22,15 @@ const config = {
   scripts: [
     {
       src: "/hotjar.js",
-      async: true,
+      async: false,
     },
     {
       src: "https://cdn.lr-ingest.com/LogRocket.min.js",
-      async: true,
+      async: false,
     },
     {
       src: "/logrocket.js",
-      async: true,
+      async: false,
     },
     {
       src: "/stat.js",
@@ -38,8 +38,6 @@ const config = {
     },
   ],
   plugins: [
-    // "@jsplumb/docusaurus-plugin-statcounter",
-    // INIMAH REMARK AJA
     [
       "./plugins/blog-plugin",
       {
@@ -103,10 +101,6 @@ const config = {
     ],
   ],
   themeConfig: {
-    statCounter: {
-      projectId: "12857747",
-      securityCode: "a7909409",
-    },
     announcementBar: {
       id: "announcement_bithubby",
       content: "Welcome July, please stay tuned while I recharge✨",
