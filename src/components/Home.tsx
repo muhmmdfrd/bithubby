@@ -1,15 +1,13 @@
 import React from "react";
 import Layout from "@theme/Layout";
-import BlogPostItem from "@theme/BlogPostItem";
 import { Content } from "@theme/BlogPostPage";
 // @ts-ignore
 import { BlogPostProvider } from "@docusaurus/theme-common/internal";
 import { inject } from "@vercel/analytics";
 import Head from "@docusaurus/Head";
 import BlogSidebar from "@theme/BlogSidebar";
-// @ts-ignore
-import Image from "@theme/IdealImage";
 import PaginatorNavLink from "@theme/PaginatorNavLink";
+import BlogPostItem from "../theme/BlogPostItem";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
@@ -90,10 +88,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
                 key={BlogPostContent.metadata.permalink}
                 content={BlogPostContent}
               >
-                <BlogPostItem>
-                  {BlogPostContent.frontMatter.image && (
-                    <Image img={BlogPostContent.frontMatter.image} />
-                  )}
+                <BlogPostItem className={""}>
                   <BlogPostContent />
                 </BlogPostItem>
               </BlogPostProvider>
