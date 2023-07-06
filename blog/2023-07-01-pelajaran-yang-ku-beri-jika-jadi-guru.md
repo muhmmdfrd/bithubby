@@ -6,6 +6,7 @@ tags: [story, life]
 keywords: [teacher, guru, school, life, bithubby, blog]
 description: Pelajaran yang tidak akan ada di sekolah
 image: "/blog/teacher.jpg"
+date: "2023-06-30T17:04:00"
 ---
 
 :::success _Summary_

@@ -6,6 +6,7 @@ tags: [bithubby, introduction]
 keywords: [bithubby, blog]
 description: Sejarah Bithubby
 image: https://heromode.app/assets/images/banner-d77f91b212b16296e965eb279b2b4246.png
+date: "2023-04-29T12:51:00"
 ---
 
 :::success _Summary_

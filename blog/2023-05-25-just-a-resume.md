@@ -6,6 +6,7 @@ tags: [love]
 keywords: [resume, love, bithubby, blog, feeling]
 description: Catatan Saja
 image: "/blog/paper.jpg"
+date: "2023-05-25T13:22:00"
 ---
 
 :::success _Summary_

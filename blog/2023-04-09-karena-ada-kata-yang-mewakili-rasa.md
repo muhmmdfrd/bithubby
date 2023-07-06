@@ -6,6 +6,7 @@ tags: [story, life, love]
 keywords: [word, feeling, love, blog]
 description: Pasti ada kata-kata yang bisa diungkapkan untuk mengekspresikan rasa
 image: "/blog/heart-762564_640.jpg"
+date: "2023-04-08T18:16:00"
 ---
 
 :::success _Summary_

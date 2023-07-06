@@ -6,6 +6,7 @@ tags: [live, love, motivation]
 keywords: [first time, first, time, love, blog, bithubby]
 description: Karena semua ini pernah kau hadapi sebelumnya
 image: "/blog/daydreamer.jpg"
+date: "2023-05-30T16:20:00"
 ---
 
 :::success _Summary_

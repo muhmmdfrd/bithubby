@@ -6,6 +6,7 @@ tags: [life, love, opinion]
 keywords: [love, life, bithubby]
 description: Orang yang tak lelah dengan belajar memahami orang
 image: "/blog/learn.jpg"
+date: "2023-06-21T18:11:00"
 ---
 
 :::success _Summary_

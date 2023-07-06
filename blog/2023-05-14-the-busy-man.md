@@ -6,6 +6,7 @@ tags: [story, life]
 keywords: [vacation, holiday, friend, work, busy]
 description: Cerita keseharian ku setelah lama tidak update Bithubby
 image: "/blog/main/banner.jpg"
+date: "2023-05-14T02:24:00"
 ---
 
 :::success _Summary_

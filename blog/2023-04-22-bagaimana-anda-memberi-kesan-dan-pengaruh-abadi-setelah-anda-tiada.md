@@ -6,6 +6,7 @@ tags: [life, love, family]
 keywords: [bithubby, death, afterlife]
 description: Bagaimana saya ingin dikenang setelah kematianku
 image: "/blog/kuburan.jpg"
+date: "2023-04-21T16:13:00"
 ---
 
 :::success _Summary_

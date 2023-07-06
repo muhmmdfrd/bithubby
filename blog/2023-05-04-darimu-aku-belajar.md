@@ -6,6 +6,7 @@ tags: [bithubby, life]
 keywords: [bithubby, blog, learn, marcus aurelius, philosophy, life]
 description: Aku belajar banyak hal dari banyak orang
 image: "/blog/darimu-aku-belajar.jpg"
+date: "2023-05-04T02:18:00"
 ---
 
 :::success _Summary_

@@ -6,6 +6,7 @@ tags: [story]
 keywords: [haunted, house, ghost]
 description: Cerita saat aku mengalami kejadian supranatural
 image: "/blog/haunted.jpg"
+date: "2023-06-26T04:08:00"
 ---
 
 :::success _Summary_

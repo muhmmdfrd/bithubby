@@ -6,6 +6,7 @@ tags: [story, relationship]
 keywords: [blog, entanglement adalah panggilan sayang terbaru untuk si dia]
 description: entanglement adalah panggilan sayang terbaru untuk si dia
 image: "/blog/earth-1365995_640.jpg"
+date: "2023-02-21T10:41:00"
 ---
 
 :::success _Summary_

@@ -6,6 +6,7 @@ tags: [story, life, love, her]
 keywords: [myself, feeling, blog, friend, life]
 description: Kamu bukan lagi pilihan
 image: "/blog/balloons-1046658_640.jpg"
+date: "2023-04-16T03:03:00"
 ---
 
 :::success _Summary_

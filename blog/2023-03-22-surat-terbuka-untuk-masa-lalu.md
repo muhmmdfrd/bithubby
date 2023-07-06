@@ -6,6 +6,7 @@ tags: [letter, message, love]
 keywords: [blog, love, surat, masa, lalu, masa lalu]
 description: Surat Terbuka untuk Masa Lalu
 image: "/blog/letter-1390463_640.jpg"
+date: "2023-03-22T04:37:00"
 ---
 
 :::success _Summary_

@@ -6,6 +6,7 @@ tags: [story]
 keywords: [all the bright places, bright places, love, young]
 description: Review Film All The Bright Places
 image: "/blog/field.jpg"
+date: "2023-06-27T05:47:00"
 ---
 
 :::success _Summary_

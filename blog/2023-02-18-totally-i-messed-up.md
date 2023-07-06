@@ -6,6 +6,7 @@ tags: [story]
 keywords: [blog, story, cerita saat diriku mengacau pada satu hari]
 description: cerita saat diriku mengacau pada satu hari
 image: "/blog/emotion.jpg"
+date: "2023-02-18T12:57:00"
 ---
 
 :::success _Summary_

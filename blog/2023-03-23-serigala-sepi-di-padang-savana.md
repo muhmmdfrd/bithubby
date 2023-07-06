@@ -6,6 +6,7 @@ tags: [story, fiction, life]
 keywords: [blog, serigala, padang, savana, wolf, lone wolf]
 description: Cerita tentang serigala yang bertahan hidup di luar habitatnya
 image: "/blog/wolf-142173_640.jpg"
+date: "2023-03-23T16:57:00"
 ---
 
 :::success _Summary_

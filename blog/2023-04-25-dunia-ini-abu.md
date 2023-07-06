@@ -6,6 +6,7 @@ tags: [life, opinion]
 keywords: [grey, world, cruel, bithubby]
 description: Dunia Ini Abu
 image: "/blog/dunia-ini-abu-cover.jpg"
+date: "2023-04-24T16:03:00"
 ---
 
 :::success _Summary_

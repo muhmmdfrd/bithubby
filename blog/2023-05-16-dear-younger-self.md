@@ -6,6 +6,7 @@ tags: [story, life]
 keywords: [baby, young, myself, life, blog, bithubby]
 description: Pesan untuk diriku di masa lalu
 image: "/blog/baby.jpg"
+date: "2023-05-16T04:45:00"
 ---
 
 :::success _Summary_

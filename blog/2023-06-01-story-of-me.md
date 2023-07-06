@@ -6,6 +6,7 @@ tags: [life, love]
 keywords: [love, life, bithubby, fall in love, bucin, cinta]
 description: Renungan untuk diri sendiri saat jatuh cinta
 image: "/blog/mirror.jpg"
+date: "2023-06-01T12:26:00"
 ---
 
 :::success _Summary_

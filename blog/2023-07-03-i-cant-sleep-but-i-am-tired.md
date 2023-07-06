@@ -6,6 +6,7 @@ tags: [life, love, story]
 keywords: [cant, sleep, tired, love, bithubby]
 description: Aku tidak bisa tidur memikirkannya
 image: "/blog/cant-sleep.jpg"
+date: "2023-07-02T21:05:00"
 ---
 
 :::success _Summary_

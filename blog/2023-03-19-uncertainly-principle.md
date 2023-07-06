@@ -7,6 +7,7 @@ keywords:
   [blog, physics, principle, uncertainly-principle, uncertainly, reality, love]
 description: Prinsip ketidakpastian dalam hidup
 image: "/blog/man-2037255_640.jpg"
+date: "2023-03-19T20:42:00"
 ---
 
 :::success _Summary_

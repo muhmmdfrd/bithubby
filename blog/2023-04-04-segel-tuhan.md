@@ -6,6 +6,7 @@ tags: [story, life]
 keywords: [seal, god, plan, love, blog]
 description: Kendali Tuhan atas apa yang aku lakukan
 image: "/blog/beach-4984023_640.jpg"
+date: "2023-04-03T17:52:00"
 ---
 
 :::success _Summary_

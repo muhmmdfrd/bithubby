@@ -6,6 +6,7 @@ tags: [story, life, family, love]
 keywords: [marry, mom, love, blog, dream]
 description: Pikiran lugu nan naif saat masih kecil
 image: "/blog/wedding-2595862_640.jpg"
+date: "2023-04-01T18:30:00"
 ---
 
 :::success _Summary_

@@ -6,6 +6,7 @@ tags: [physics, life, love, opinion]
 keywords: [physics, quantum zeno effect, love, life, bithubby]
 description: Korelasi Quantum Zeno Effect dengan Kehidupan
 image: "/blog/black-hole-6274731_640.jpg"
+date: "2023-04-23T15:06:00"
 ---
 
 :::success _Summary_

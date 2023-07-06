@@ -6,6 +6,7 @@ tags: [story, life, love, religion]
 keywords: [pray, god, allah, believe life, blog, bithubby]
 description: Keyakinan doa kepada Allah pasti terkabul
 image: "/blog/half-moon.jpg"
+date: "2023-05-21T17:29:00"
 ---
 
 :::success _Summary_

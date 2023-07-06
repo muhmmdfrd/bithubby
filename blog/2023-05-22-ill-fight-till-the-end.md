@@ -6,6 +6,7 @@ tags: [story, life, love]
 keywords: [dream, nightmare, love, believe life, blog, bithubby]
 description: Mimpi Buruk
 image: "/blog/nightmare.jpg"
+date: "2023-05-22T00:32:00"
 ---
 
 :::success _Summary_

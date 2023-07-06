@@ -6,6 +6,7 @@ tags: [reminder, motivation]
 keywords: [reminder, Allah SWT selalu senantiasa untuk hamba-Nya]
 description: Allah SWT selalu senantiasa untuk hamba-Nya
 image: "/blog/pray.jpg"
+date: "2023-02-09T15:56:00"
 ---
 
 :::success _Summary_
