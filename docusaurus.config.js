@@ -103,7 +103,7 @@ const config = {
   themeConfig: {
     announcementBar: {
       id: "announcement_bithubby",
-      content: "Welcome July, please stay tuned while I recharge✨",
+      content: "Let's write. Thanks for stay tuned✨",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
