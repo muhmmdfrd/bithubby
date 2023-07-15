@@ -111,4 +111,4 @@ cinta mu mencuri atma ku yang memendam rasa
 
 source: Tiktok
 
-Bagus aja siihh hahhaa. Dah yu kita ngopi dan sarapan, _and cheers_.
+Bagus aja siihh hahhaa. Jadi mending sendiri dulu, karena aku ingin orang yang bisa memahami diriku, ingat diriku, dan menganggap aku "ada". Dah yu ngarepnya, kita ngopi dan sarapan, _and cheers_.
