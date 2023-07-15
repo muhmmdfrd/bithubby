@@ -93,3 +93,22 @@ Benar-benar aku mendapatkan saran yang berharga. Yaa, pengalaman 5 tahun serasa 
 Selain karena kesibukan dan kecapean, aku jadi jarang ke Starbucks karena bawaannya pengen cepat-cepat pulang. Niat mau menyelesaikan tulisan, malah kebawa asyik chat doi wkwkwk. Kembali lagi ke perasaan dagdigdug nan nano-nano, aku belum siap rasa _roller coaster_ itu. Sumpah, paling takut kalau bete gara-gara aku:). Masalah yang emot yaampun bikin tremor. Tapi ya Rid, jangan geer dulu _please_, belum tentu nama kamu yang sering terlintas di pikirannya. Jadi ya pokoknya jalanin dulu saja semua saran-saran dari temanmu, jangan lupakan tetap ikuti intuisi kamu, dan selalu libatkan Allah SWT.
 
 Ya Allah, tolong bimbing diriku menuju pilihan yang tepat. Tolong tambahkan tanda-tanda atau petunjuk yang semakin menguatkan bahwa dirinya benar-benar baik untukku. Kalau bukan, tolong segera hapus perasaan ini agar aku tidak merasakan sakit yang mendalam seperti yang sudah-sudah. Sejujurnya, aku masih mengambang ya Allah terkait semua langkah yang harus aku ambil. Terakhir, tulisan ini aku selesaikan sembari menunggu dirinya pulang bekerja. Asalnya mau dijemput, tapi jawabannya abu-abu. Sudah dibilang, kalau abu-abu jawaban sebenarnya adalah tidak (secara halus). Setelah pulang kerja, ternyata masih ada rapat karta. Jadi aku selesaikan tulisan ini sambil dengerin _playlist_ dari doi. _Any road_, makasih Cala untuk _playlist_-nya, benar-benar enak dan membantu aku banget buat nulis ini dengan tenang _and you are the only one who gave me playlist like this, so thanks and cheers_.
+
+## Tambahan
+
+Minggu, 16 Juli 2023 05:11.
+Aku belum siap untuk menjalin hubungan, karena aku selalu menaruh ekspetasi yang tinggi pada pasanganku. Lupa dikit pada hal kecil, tidak menganggapku "ada", hingga tak terdapat apa-apa yang aku inginkan, itu selalu membuatku sedih. Aku tahu manusia tidaklah bisa sesempurna itu tanpa kesalahan, tapi tetap saja aku merasa sulit menerima kekurangan-kekurangan dari pasangan. Yapp, aku ingin belajar untuk tidak menaruh ekspetasi dan standar terlalu tinggi pada pasanganku. Bagaimana caranya? _I don't know_, paling untung-untungan saja. Maka dari itu ya Allah, di pagi hari ini dan untuk hal ini, aku meminta untuk Kau terus membimbingku menuju jalan yang benar akan membawa kebahagiaan, menuju jalan yang engkau ridhai, jalan yang menyebarkan kebahagiaan juga untuk orang-orang di dekatku.
+
+> Kenapa tiba-tiba nulis lagi?
+
+Sedih aja coy, lagi dan lagi dan lagi udah berapa kali ini, aku ketiduran nunggu seseorang. Bisa dibilang aku kebangun saat notifikasi dia berdering. Aku balas dan aku tunggu beberapa saat dengan harapan dia masih terbangun dan menimpali kembali pesanku. Namun, aku tak kuasa menahannya karena mata udah perih mantengin laptop dari Isya, nulis ini di laptop sambil tiduran jadi ya aku kembali tertidur. Lalu, mungkin dia lupa kalau dia akan bercerita tentang harinya. Padahal itu yang aku tunggu:). Mau aku ingetin, malah ngga ngerasa _surprise_. Mau ngga diingetin, udah pasti lupa. Ahhhh:( serba salah. Memang paling benar sih kalo aku gaperlu menjalin hubungan dulu, untuk menghindari hal sepele semacam ini. Kalau sekarang mah masih bisa diakalin dengan menanamkan pada diriku, "Lu itu cuma teman inget! Kalau dia lupa ya wajar cape banget ga sihh abis kerja terus ikut rapat. Terus ada waktu main sama _bestie_ ya dia main lah. _So_, gausah dulu banyak berharap yaa.". Baiklah itu saja tambahannya karena jatuh cinta kadang bikin melayang, kadang bikin rese sendiri juga wkwkwk. Udah lama juga aku ngga merasakan hal semacam ini, bete karena hal kecil. Udah yo. Ehh tiba-tiba aku kepikiran sesuatu.
+
+Lirikan mata mu adiwarna,
+ditatap pancaindera,
+wahai adiratna,
+sungguh kau tahu,
+cinta mu mencuri atma ku yang memendam rasa
+
+source: Tiktok
+
+Bagus aja siihh hahhaa. Dah yu kita ngopi dan sarapan, _and cheers_.
