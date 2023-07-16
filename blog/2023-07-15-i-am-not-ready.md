@@ -96,7 +96,7 @@ Ya Allah, tolong bimbing diriku menuju pilihan yang tepat. Tolong tambahkan tand
 
 ## Tambahan
 
-Minggu, 16 Juli 2023 05:11.
+Minggu, 16 Juli 2023. 05:11.
 Aku belum siap untuk menjalin hubungan, karena aku selalu menaruh ekspetasi yang tinggi pada pasanganku. Lupa dikit pada hal kecil, tidak menganggapku "ada", hingga tak terdapat apa-apa yang aku inginkan, itu selalu membuatku sedih. Aku tahu manusia tidaklah bisa sesempurna itu tanpa kesalahan, tapi tetap saja aku merasa sulit menerima kekurangan-kekurangan dari pasangan. Yapp, aku ingin belajar untuk tidak menaruh ekspetasi dan standar terlalu tinggi pada pasanganku. Bagaimana caranya? _I don't know_, paling untung-untungan saja. Maka dari itu ya Allah, di pagi hari ini dan untuk hal ini, aku meminta untuk Kau terus membimbingku menuju jalan yang benar akan membawa kebahagiaan, menuju jalan yang engkau ridhai, jalan yang menyebarkan kebahagiaan juga untuk orang-orang di dekatku.
 
 > Kenapa tiba-tiba nulis lagi?
@@ -112,3 +112,9 @@ cinta mu mencuri atma ku yang memendam rasa
 source: Tiktok
 
 Bagus aja siihh hahhaa. Jadi mending sendiri dulu, karena aku ingin orang yang bisa memahami diriku, ingat diriku, dan menganggap aku "ada". Dah yu ngarepnya, kita ngopi dan sarapan, _and cheers_.
+
+## Breaking News
+
+Minggu, 16 Juli 2023. 07:33.
+
+Gajadi sedih gengs, ternyata dia inget kalo dia ingin bercerita ke aku. Yaa walaupun sederhana dan ceritanya singkat, _overall_ sihh _it makes me happy_ 🥰. Jadi keknya dia baru bangun, terus inget aku AHHHHHHHH. Tapi, harus mawas diri jangan terjebak ya Rid karena itu belum pasti. Ya Allah, berikanlah petunjuk-petunjuk yang lebih banyak untuk diriku jika memang dia orangnya. Udah gengs gaboleh terlalu senang dan terlalu berbunga-bunga untuk hal yang belum pasti wkwkwkwk. Kembali _chat_ dengan dia sambil ngopi sambil Spotify dan _cheers_.
