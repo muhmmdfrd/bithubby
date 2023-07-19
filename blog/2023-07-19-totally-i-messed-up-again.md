@@ -1,5 +1,5 @@
 ---
-slug: totally-i-messed-up-again.md
+slug: totally-i-messed-up-again
 title: Totally I Messed Up Again
 authors: [farid]
 tags: [life, story]
@@ -38,3 +38,9 @@ Aku butuh seseorang yang dapat mengerti kondisiku. Aku butuh seseorang yang dapa
 Belum tuntas apa yang aku pikirkan mengenai karirku, pendidikanku, pernikahanku, dan lain-lain. Malah ini yang menambah beban pikiranku. Ya Allah, kuatkanlah diri ini untuk menghadapi pekerjaan yang rumit. Aku berada di posisi yang tidak menyenangkan. Berikanlah kekuatan, ketabahan, dan kesabaran. Berikanlah kepadaku ilmu yang Kau punya agar aku dapat menyelesaikan setiap tantangan di dunia ini. Ya Allah, saat ini aku kesepian, walau begitu jangan biarkan aku sendirian. Kirimkan lah bantuan-Mu untukku agar aku tidak terus-terusan mengalami sepi. Tetaplah jaga hati ini, pandangan, lisan, dan seluruh anggota badanku dari maksiat yang dapat menjauhkanku.
 
 Yap, aku tertidur berusaha untuk menghilang dari dunia ini. Namun syukurlah aku tidak merasakan sampai benar-benar ingin mati. Aku rasa hal itu sudah hilang lama. Aku ingin seseorang dapat benar-benar memahamiku, sehingga aku dapat meluapkan emosi ini dan dapat membuatku tenang. Aku berkaca, muka ini tak bisa menyembunyikan kesedihan yang aku alami. Namun, aku harus tetap semangat bukan? Ya Allah, sertailah diri-Mu dalam setiap langkahku. Ya Allah, kirimkan lah seseorang yang dapat membuatku tenang. Ya Allah, bantulah diriku untuk masa depan karirku yang lebih baik. Walau sedih, kecewa, dan marah, aku tak boleh meluapkannya kepada temanku. Hanya aku sendiri yang harus menanggungnya. Maaf teman-teman, maaf kamu yang istimewa, aku sudah dua hari menghilang karena aku butuh waktu untuk bisa _re-heal_. Aku harus bersikap seolah tidak terjadi apa-apa. Tetap semangat dan _cheers_.
+
+## Update
+
+Rabu, 19 Juli 2023. 14:03.
+
+Seperti layaknya aku meminta dan langsung terkabul. Setelah aku menulis ini, tak lama ia pun menawarkan diriku untuk bercerita. Karena sudah dua hari aku menghilang dari dunia untuk sementara jadi aku baru sempat untuk menghubungi dirinya kembali. Apakah dia membaca tulisan ini? Ataukah anda-tanda yang langsung Engkau beri kepada dirinya ya Allah? Aku tak tahu bagaimana caranya namun perlakuan dirinya membuatku lebih tenang. Dirinya juga membuatku lebih percaya diri dan memberikan sedikit harapan dariku kepadanya. Aku sangat berterima kasih kepada Engkau dan kepada dirinya. Namun, perlakuan baik kepada dirinya berbanding lurus dengan ketakutan diriku akan kehilangan dirinya. Memang benar, aku tidak boleh FOMO terhadap seorang wanita. Tapi sekarang aku benar-benar semakin menginginkannya dirinya. Bagaimana ini ya Allah, apa ini tanda dari Engkau bahwa dirinya memang yang tepat untukku? Jika iya aku mohon bimbingannya ya Allah agar diriku menjadi orang yang lebih baik dari sekarang, aku yang lebih mapan dari sekarang, aku yang lebih beriman dan bertakwa kepada Engkau agar aku dapat membimbingnya kelak. Teruslah pelihara dan jaga perasaan ini ya Allah hal yang tidak Engkau ridhai. Mampukanlah diriku untuk bisa bersama dan berbahagia dengannya kelak. Alhamdulillah ya Allah, aku merasa lebih baik sekarang. Tetap _cheers_ ya Rid.
