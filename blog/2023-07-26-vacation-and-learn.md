@@ -154,7 +154,7 @@ Wahahaha tentu saja jawabannya sudah pasti Syara. Tak sampai disitu, aku pun har
 
 > "jujur aja kenapa bisa baru bales, soalnya cewe tuh gasuka ditarik ulur. Kalau pun pengen sendiri dulu, oke oke aja kita mah. Tapi kalau kelamaan juga jatuhnya mikir lagi, ini cowo serius ga sihh. Selain itu kan kalo tarik ulur gitu jatohnya kamu ngehubungin dia pasti ada maunya kan? Kalau udah pacaran mah malah bisa lebih parah, kita mikirnya ini cowo udah ngelakuin kesalahan apa sampai baik bgt. Jadi yang paling bener selalu ada weh Rid buat cewe tuh."
 
-Ohh tidak, aku melakukan kesalahan lagi karena memang pada dasarnya aku kembali buta arah tentang bagaimana memperlakukan wanita:). Berhubung sangat banyak kekuranganku, aku pun mengeluarkan semua pertanyaan yang aku simpan dan berhubungan dengannya. Aku sekarang ini tak malu lagi untuk mengakui di hadapan teman lelaku bahwa aku sedang suka dengan seseorang. Sialnya, Reihan si cepu malah bertanya:
+Ohh tidak, aku melakukan kesalahan lagi karena memang pada dasarnya aku kembali buta arah tentang bagaimana memperlakukan wanita:). Berhubung sangat banyak kekuranganku, aku pun mengeluarkan semua pertanyaan yang aku simpan dan berhubungan dengannya. Aku sekarang ini tak malu lagi untuk mengakui di hadapan teman lelaki bahwa aku sedang suka dengan seseorang. Sialnya, Reihan si cepu malah bertanya:
 
 > "Lho Rid, kok cewenya beda sama yang foto berdua di PIK kemarin??" <br />
 > "Wahh Rid, lu bener-bener (parah) ya"
