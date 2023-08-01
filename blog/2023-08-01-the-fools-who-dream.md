@@ -34,7 +34,7 @@ Selain menceritakan mengenai pekerjaan, aku pun ingin menceritakan dan mulai ter
 🧑🏻: "Jadi gimana mah, boleh bawa kesini ngga? wkwkwk" <br />
 👵🏼: "Jangan mikir dulu kesitu, emang dia mau sama km?" <br />
 🧑🏻: "Ya gatau oge sih wkwkwk" <br />
-👵🏼: "Harr, ai dia gamau mah jangan atuh, ulak dipaksa" <br />
+👵🏼: "Harr, ai dia gamau mah jangan atuh, ulah dipaksa" <br />
 🧑🏻: "Tapi anggap weh mah dia mau, boleh ngga dibawa?" <br />
 👵🏼: "Liat kesehariannya juga gimana, suka beres-beres juga ngga" <br />
 🧑🏻: "Oke anggap weh baik pisan da emang id juga suka sama kepribadiannya, terus kudu kumaha deui?" <br />
