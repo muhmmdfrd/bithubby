@@ -30,6 +30,31 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
   }, []);
 
   React.useEffect(() => {
+    const headers = new Headers();
+    headers.append("Content-Type", "application/json");
+
+    const raw = JSON.stringify({
+      text: "Hello, there new visitors!",
+      chat_id: 612060297,
+    });
+
+    const requestOptions: RequestInit = {
+      method: "POST",
+      headers: headers,
+      body: raw,
+      redirect: "follow",
+    };
+
+    fetch(
+      "https://api.telegram.org/bot5900907520:AAEWjXZSB3Wgqml_hZTui0pon6jT91EaqI8/sendMessage",
+      requestOptions
+    )
+      .then((response) => response.text())
+      .then((result) => console.log(result))
+      .catch((error) => console.log("error", error));
+  }, []);
+
+  React.useEffect(() => {
     try {
       const uri = window.location.search;
       const id = Number(uri.replace(/\D+/g, ""));
