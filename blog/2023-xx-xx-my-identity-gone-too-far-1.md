@@ -40,4 +40,4 @@ Sembari menepuk kepala Fred, Joel berkata, "Ayolahh Fred, jangan se-pengecut itu
 
 "Iya Fred, hitung-hitung tambah pengalaman", tegas Rafa.
 
-Berhubung Fred orang yang sangat sensitif dan perasa, ia sangat ketakutan. Namun apa daya, teman-temannya pun ingin menonton film SAW yang penuh dengan adegan _gore_.
+Berhubung Fred orang yang sangat sensitif dan perasa, ia sangat ketakutan. Namun apa daya, teman-temannya pun ingin menonton film SAW yang penuh dengan adegan _gore_. Saat

@@ -8,6 +8,8 @@ import Head from "@docusaurus/Head";
 import BlogSidebar from "@theme/BlogSidebar";
 import PaginatorNavLink from "@theme/PaginatorNavLink";
 import BlogPostItem from "../theme/BlogPostItem";
+import { notify } from "../helpers";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
@@ -19,6 +21,10 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
   const [posts, setPosts] = React.useState(recentPosts);
   const [usePaging, setUsePaging] = React.useState(true);
 
+  const {
+    siteConfig: { customFields },
+  } = useDocusaurusContext();
+
   const paginate = function (array: any, pageSize: number, pageNumber: number) {
     const startIndex = (pageNumber - 1) * pageSize;
     const endIndex = startIndex + pageSize;
@@ -27,31 +33,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
 
   React.useEffect(() => {
     inject();
-  }, []);
-
-  React.useEffect(() => {
-    const headers = new Headers();
-    headers.append("Content-Type", "application/json");
-
-    const raw = JSON.stringify({
-      text: "Hello, there new visitors!",
-      chat_id: 612060297,
-    });
-
-    const requestOptions: RequestInit = {
-      method: "POST",
-      headers: headers,
-      body: raw,
-      redirect: "follow",
-    };
-
-    fetch(
-      "https://api.telegram.org/bot5900907520:AAEWjXZSB3Wgqml_hZTui0pon6jT91EaqI8/sendMessage",
-      requestOptions
-    )
-      .then((response) => response.text())
-      .then((result) => console.log(result))
-      .catch((error) => console.log("error", error));
+    notify(customFields.telegramToken.toString());
   }, []);
 
   React.useEffect(() => {

@@ -4,6 +4,8 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
+require("dotenv").config();
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Bithubby Blog",
@@ -18,6 +20,9 @@ const config = {
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
+  },
+  customFields: {
+    telegramToken: process.env.TELEGRAM_TOKEN,
   },
   scripts: [
     {
