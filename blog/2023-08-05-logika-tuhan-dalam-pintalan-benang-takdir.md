@@ -56,3 +56,11 @@ Aduh hahaha ini sebenarnya tulisan jadul, lihat aja kejadian yang aku ambil adal
 Minggu, 6 Agustus 2023. 06:53
 
 _My God, my mood still unstable_. Aku tetap percaya bahwa rasa tak nyaman ini ada ujungnya. Namun, kuatkanlah Ya Allah, _I can't resist it anymore_. Suka pergi keluar bersama teman tapi itu sangat menguras energiku, diam sendirian itu menjaga energiku, tapi menguras emosiku sendiri. Hufttt, pagi yang buruk bagiku. Kenapa aku tidak se-_happy_ di tahun-tahun lalu ya? _Please_ ya Allah, kuatkanlah aku. Tegarkanlah diriku untuk menghadapi takdir ini dengan segala yang Engkau anggap baik. Tunjukilah jalan, aku harus berbuat apa lagi untuk memperbaiki _mood_-ku ini? _Please, don't leave me like this. I've walked a fragile line, and I've fallen down. Please don't leave me_...
+
+## Update Again
+
+Minggu, 6 Agustus 2023. 15:15
+
+_Mood_-ku yang tidak stabil ini aku jalani dengan super duper kesal. Namun, aku pun tidak bisa meluapkannya. Entah apa ada yang salah dengan diriku. Ditambah lagi kangen, pengen cerita ini itu. Tapi dia bener-bener sibuk 24/7 :(. Pengen kesel gabisa, pengen marah gabisa, pengen nge-spam pun gabisa. Pengen banting hp ketika liat status pesan belum centang biru juga gabisa. Serba ngerasain sendiri. Siklusnya main hp, liat chat, masih _deliv_, kesel, main hp lagi, dan tidur. Bangun, liat chat masih deliv, kesel, main hp lagi. Ditambah aku gabisa cerita dengan leluasa. Tadinya aku akan balas saja _chat_ dari dirinya dengan cuek, tapi gabisa juga huhuu, karena tiap ada balasan dari dirinya _mood_-ku langsung baikan. Menurun lagi ketika menyadari bahwa dia bakal _slowresp_ lagi. Selain itu, karena _mood_ ngga stabil ini aku juga males banget buat makan. Biasanya kan pagi-pagi dah mandi, dah beres-beres, lanjut beli sarapan, yaa dari awal udah bete sihh jadi ya sampe sekarang aku belum makan apapun.
+
+Tapi, ketika dirinya mengatakan sudah _free_, aku yang tadinya cuma balas "iya"... Gabisa!!! Gimana ya bilangnya kalau aku tuh _to be honest_ udah ngerasa kangen dan pengen cerita. Kalau ngga diungkapin, dia gakan pernah tahu. Kalau terlalu frontal, _ilfeel_ ngga sih?? Hufttt. Karena _chat_ dia udah agak cepet sih responsenya, walau sekarang nananinu lagi pasti bakal slowresp lagi, _mood_ aku udah baikan. Yo ah pesen makan hehehe. _Cheers_.
