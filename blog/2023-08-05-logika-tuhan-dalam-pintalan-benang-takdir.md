@@ -64,3 +64,10 @@ Minggu, 6 Agustus 2023. 15:15
 _Mood_-ku yang tidak stabil ini aku jalani dengan super duper kesal. Namun, aku pun tidak bisa meluapkannya. Entah apa ada yang salah dengan diriku. Ditambah lagi kangen, pengen cerita ini itu. Tapi dia bener-bener sibuk 24/7 :(. Pengen kesel gabisa, pengen marah gabisa, pengen nge-spam pun gabisa. Pengen banting hp ketika liat status pesan belum centang biru juga gabisa. Serba ngerasain sendiri. Siklusnya main hp, liat chat, masih _deliv_, kesel, main hp lagi, dan tidur. Bangun, liat chat masih deliv, kesel, main hp lagi. Ditambah aku gabisa cerita dengan leluasa. Tadinya aku akan balas saja _chat_ dari dirinya dengan cuek, tapi gabisa juga huhuu, karena tiap ada balasan dari dirinya _mood_-ku langsung baikan. Menurun lagi ketika menyadari bahwa dia bakal _slowresp_ lagi. Selain itu, karena _mood_ ngga stabil ini aku juga males banget buat makan. Biasanya kan pagi-pagi dah mandi, dah beres-beres, lanjut beli sarapan, yaa dari awal udah bete sihh jadi ya sampe sekarang aku belum makan apapun.
 
 Tapi, ketika dirinya mengatakan sudah _free_, aku yang tadinya cuma balas "iya"... Gabisa!!! Gimana ya bilangnya kalau aku tuh _to be honest_ udah ngerasa kangen dan pengen cerita. Kalau ngga diungkapin, dia gakan pernah tahu. Kalau terlalu frontal, _ilfeel_ ngga sih?? Hufttt. Karena _chat_ dia udah agak cepet sih responsenya, walau sekarang nananinu lagi pasti bakal slowresp lagi, _mood_ aku udah baikan. Yo ah pesen makan hehehe. _Cheers_.
+
+## Regret
+
+Minggu, 6 Agustus 2023. 17:00
+
+Kenapa belakangan ini aku seringkali salah dalam melangkah ya? Aku pilih main kode-kode pas _chat_ sama dia, ehh dianya kurang peka. Main frontal malah balik lagi ke _slowresp_. Pasti _ilfeel_. :)
+_Piye iki_. Hufttt. Emang bener _the fools who dream_.
