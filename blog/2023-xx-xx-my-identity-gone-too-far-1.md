@@ -40,4 +40,12 @@ Sembari menepuk kepala Fred, Joel berkata, "Ayolahh Fred, jangan se-pengecut itu
 
 "Iya Fred, hitung-hitung tambah pengalaman", tegas Rafa.
 
-Berhubung Fred orang yang sangat sensitif dan perasa, ia sangat ketakutan. Namun apa daya, teman-temannya pun ingin menonton film SAW yang penuh dengan adegan _gore_. Saat
+Berhubung Fred orang yang sangat sensitif dan perasa, ia sangat ketakutan. Namun apa daya, teman-temannya pun ingin menonton film SAW yang penuh dengan adegan _gore_. Mereka pun segera memasuki studio yang sudah ditentukan. Fred yang sudah ketakutan dari awal dia hanya bisa terdiam pasrah mengikuti alur. Bahkan di tengah-tengah film, hanya Fred seorang diri yang berteriak ngeri saat layar kaca sedang menampilkan yang mengerikan.
+
+"Ohhh tidak, ini terlalu sadis. Itu itu itu lidah masa dibaut gitu digantung pula."
+"Arghhh sakit banget itu"
+"Hufttt setega itukah dia?"
+
+Fred terus saja mengoceh sambil menutup mata sembari curi-curi pandang terhadap layar bioskop.
+
+"Sttt..berisik sekali kau"
