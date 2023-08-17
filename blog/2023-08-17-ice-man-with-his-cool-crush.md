@@ -23,6 +23,8 @@ Tak biasanya aku merasa _excited_ dengan sebuah film, apalagi _anime_. Rasanya k
 
 Yupp, di atas adalah contoh saat Himuro senang mendapat hadiah dari Fuyutsaki dan terjadi badai salju di sekitarnya. Seperti yang sudah disebutkan, Fuyutsaki adalah wanita normal karena dirinya hanyalah manusia biasa. Fuyutsaki digambar sebagai seorang wanita dewasa yang cantik, tidak pernah menunjukkan ekspresi yang berlebihan, dan kalem.
 
+<img src="https://images2.alphacoders.com/129/1296656.png" alt="Fuyutsuki" />
+
 > "Kenapa aku lebih antusias untuk film ini?"
 
 Karena aku melihat bias diriku, dirinya serta kejadian yang aku alami sekarang itu pada film ini. Serius, aku tak menyangka ada anime yang sangat-sangat _relate_ dengan kehidupanku. Dan baru kali ini ada film yang benar-benar mengoyak hati ini karena ke-_uwuan_ mereka. Tiap episode pasti ada hal yang bikin _greget_. Bukannya mau mengaku-ngaku, tapi aku melihat diriku yang sekarang pada Himuro. Aku tidak terlalu suka untuk menunjukkan ekspresiku ketika aku senang. Aku lebih suka hanya tersenyum saja sebagai respons dari hal yang menyenangkan di luar. Tapi kalau di rumah atau di kost atau di kamar, jangankan _jaim_, aku pasti teriak-teriak tidak jelas, selebrasi-selebrasi bak pemain bola yang telah menjebol gawang lawan, dan guling-guling kasur yang paling aku lakukan wkwkwk. Aku pernah saking senangnya mendapat pesan yang "uwu" darinya, aku bahkan sampai loncat-loncat di kasur hahahaha. Mungkin, jika aku benar menjadi Himuro, aku sudah mengeluarkan badai salju setiap saat.
