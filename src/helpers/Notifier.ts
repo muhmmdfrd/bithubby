@@ -5,9 +5,9 @@ const notify = (telegramToken: string) => {
 
   (async () => {
     const fp = await fpPromise;
-    const result = await fp.get();
-    const { components } = result;
-    const { platform } = components;
+    const {
+      components: { platform },
+    } = await fp.get();
 
     const headers = new Headers();
     headers.append("Content-Type", "application/json");
