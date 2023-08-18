@@ -19,7 +19,7 @@ Dalam suatu malam yang sunyi, aku menemukan diriku terdampar di depan layar. Fil
 
 Tak biasanya aku merasa _excited_ dengan sebuah film, apalagi _anime_. Rasanya kisah dalam _anime_ ini lebih _relate_ daripada kisah-kisah cinta yang terdapat pada film yang aku tonton, apalagi kisah cinta anak sekolah yang kemarin aku tonton, itu sama sekali tidak _relate_ untuk diriku pada masa kini. Singkat cerita _anime_ ini menceritakan tentang pria yang kalem dan "dingin" bernama Himuro. Kenapa dinginnya menggunakan tanda kutip? Karena dirinya memang bersikap dingin. Namun, ketika dirinya mengalami lonjakan emosi, suasana di sekitarnya pun akan dingin. Misalnya saat Himuro gugup, maka dirinya akan membeku yang dimulai dari ujung kaki (benar-benar membeku secara harfiah). Semakin gugup semakin dirinya membeku sampai ujung kepala. Jika dirinya senang, maka akan muncul badai salju dan boneka salju di sekitarnya. Memang Himuro tidak memperlihatkan ekspresi saat terjadi lonjakan emosionalnya, tapi salju lahh yang menampakan emosinya.
 
-<img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/01/ice-guy-cool-female-colleague-ep-2-Himuro-kun-ice-power.jpg" alt="Himuro" />
+<img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/01/ice-guy-cool-female-colleague-ep-2-himuro-kun-ice-power.jpg" alt="Himuro" />
 
 Yupp, di atas adalah contoh saat Himuro senang mendapat hadiah dari Fuyutsuki dan terjadi badai salju di sekitarnya. Seperti yang sudah disebutkan, Fuyutsuki adalah wanita normal karena dirinya hanyalah manusia biasa. Fuyutsuki digambar sebagai seorang wanita dewasa yang cantik, tidak pernah menunjukkan ekspresi yang berlebihan, dan kalem.
 
