@@ -18,4 +18,18 @@ Saat senja menyapa di tengah kota, cinta datang menghampiriku dengan cara yang t
 
 ## First, Let Me Take a Selfie
 
+17 Agustus 2023, 17:44.
+
+Seperti hari-hari libur biasanya, aku pun selalu menyempatkan untuk beristirahat dengan tidur siang. Selain karena mengantuk, aku melakukan itu agar jam biologis terutama jam tidurku teratur. Syukurlah aku sudah tidak pernah lagi untuk tidur pagi, terutama di hari libur.
+
 ## Pick Up
+
+## D-Day: Date Day
+
+## Nightmare, Spoiled and Clingy
+
+## Talking to Myself
+
+## Note
+
+## Merdeka Cinta dari Tulisan Teteh
