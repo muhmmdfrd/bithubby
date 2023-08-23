@@ -116,7 +116,29 @@ Pagi yang begitu hebat telah datang. Dari malam yang begitu penuh dengan penyesa
   </a>
 </p>
 
-HAHAHAHAHAHAHA YESSSSSSS AKHIRNYA BOLEH JEMPUT DIA OMG OMG OMG. Aku pun tak ingin menyia-nyiakan kesempatan itu. Selain itu, aku pun ingin menebus kesalahanku pada malam tadi ketika aku tidak ada untuknya. Akan aku kerahkan semua hal yang bisa membuatnya dirinya _mood_ setiap saat, aman, dan senang tanpa ada rasa sedih sedikitpun. Sembari menunggu dirinya pulang, aku pun menonton YouTube lewat televisi dan lagu pun memutar lagu "_Girls like me don't cry..._". Terbesit ide bagaimana kalau aku menyemangati dirinya melalui sebuah lagu? Ide yang bagus bukan? Lagu itu memang mengingatkanku kepadanya saat dirinya bahwa dirinya adalah wanit yang kuat, terutama saat dirinya bikin _story_ dengan efek _headphone_ biru wkwkwk. Langsung saja aku cari tutorial bagaimana cara memainkan melodi lagu _girls like me don't cry_, tanpa ba bi bu walau rada _kagok_, aku langsung mempelajarinya. Kalau belum direkam sihh lancar jaya. Begitu direkam yaampun lupa nada wkwkwk. Belum lagi memposisikan diriku agar tidak terlihat muka. Aku tahu kan aku belom mandi juga masih menggunakan baju tidur. Kalau orang kata sih cowo walaupun jelek banget baru bangun, kalau dirinya pap, cewe pasti suka. Ahhh tidak aku tidak tahu bagaimana kalau saat di hadapan dia.
+HAHAHAHAHAHAHA YESSSSSSS AKHIRNYA BOLEH JEMPUT DIA OMG OMG OMG. Aku pun tak ingin menyia-nyiakan kesempatan itu. Selain itu, aku pun ingin menebus kesalahanku pada malam tadi ketika aku tidak ada untuknya. Akan aku kerahkan semua hal yang bisa membuatnya dirinya _mood_ setiap saat, aman, dan senang tanpa ada rasa sedih sedikitpun. Sembari menunggu dirinya pulang, aku pun menonton YouTube lewat televisi dan lagu pun memutar lagu "_Girls like me don't cry..._". Terbesit ide bagaimana kalau aku menyemangati dirinya melalui sebuah lagu? Ide yang bagus bukan? Lagu itu memang mengingatkanku kepadanya saat dirinya bahwa dirinya adalah wanit yang kuat, terutama saat dirinya bikin _story_ dengan efek _headphone_ biru wkwkwk. Langsung saja aku cari tutorial bagaimana cara memainkan melodi lagu _girls like me don't cry_, tanpa ba bi bu walau rada _kagok_, aku langsung mempelajarinya. Kalau belum direkam sihh lancar jaya. Begitu direkam yaampun lupa nada wkwkwk. Belum lagi memposisikan diriku agar tidak terlihat muka. Aku tahu kan aku belom mandi juga masih menggunakan baju tidur. Kalau orang kata sih cowo walaupun jelek banget baru bangun, kalau dirinya pap, cewe pasti suka. Ahhh tidak aku tidak tahu bagaimana kalau saat di hadapan dia. Karena aku tidak percaya diri, aku pun menutup wajah di videoku dengan stiker. _I dunno_, aku belum terlalu percaya diri menunjukkan wajah dengan ekspresi aneh ini wkwkwk. Setelah aku kirim dan mendapat balasan, yeayyy dia senang dengan itu. Aku harap dia tidak sedih lagi. Selain itu, aku pun ingin menyemangatinya dengan cara lain. Aku memanggil keponakanku.
+
+👦🏻: "Kak, sini _gera_ liat." <br />
+👶🏻: "Apa om?" <br />
+👦🏻: "Kamu mau punya _aunty_ ini? (menunjukkan foto _doi_)" <br />
+👶🏻: "Ihh pacar om?" <br />
+👦🏻: "Ngga, masih temenan. Mau ngga punya _aunty_ kaya ini?" <br />
+👶🏻: "Mauu" <br />
+👦🏻: "Cantik ngga?" <br />
+👶🏻: "Heeh cantik" <br />
+👦🏻: "Sok atuh semangatin, si _aunty_-nya lagi kerja. Bilang semangat gitu kerjanya" <br />
+
+Aku pun memvideokan dan mengirimkan video tersebut padanya. Sekali lagi aku berharap dia sangat senang mendapat video dari ponakanku dan juga video gitarku sehingga melupakan semua masalah yang dia hadapi. _I wish_. Karena waktu malam masih lama, aku pun terus saja belajar bermain gitar lagu lama yang telah aku kuasai. Namun kini aku lupa nada-nadanya sehingga aku mengingat kembali. Judulnya _One_ dari Depapepe. Aku ingin menyiratkan bahwa dirinya adalah _one_ bagiku, tidak ada lagi kata "_You're options_", hanya kau satu-satunya. Sekali lagi aku pun mengirim video potongan dari lagu itu dan aku mengirim lagunya melalui Spotify. Karena ingin lengkap, aku pun memanggil keponakan yang lain yang tiada lain adalah adiknya. Adiknya pun menyemangati dan aku berharap dirinya semakin senang dengan semua hal yang aku lakukan. Mungkin kali ini dirinya benar-benar sibuk sehingga tidak membalas pesanku. Tak mengapa, aku hanya tinggal menunggu dirinya pulang. Ohh iya, aku sudah mandi dan sudah bersiap-siap sejak sore karena aku tak tahu jam kerja dirinya sampai kapan karena seringkali tak tentu. Main gitar bosen, YouTube-an bosen, ahh yasudah aku rebahan saja sambil menunggu dirinya mengatakan, "Hai aku pulang".
+
+Cek medsos -> Cek WA -> Cek medsos -> Cek WA -> shalat -> _repeat_.
+
+dann Tengtengtengteng...
+
+"Aku udah keluar kantor"
+
+Wahh gelasihhh wahhh langsung babibu ambil helm dua, ambil kunci, takutnya lama jadi aku bawa basreng, terus aku bawa minuman supaya dia _mood_. Andai kalau dia masih lama pulangnya tapi udah ngabarin, masih sempat tuhh aku pergi beli Chatime dulu, _less ice_ karena dia lagi meler wkwkwk. Tapi yasudahlah dirinya sudah di luar kantor dan aku tak mau membuat dia menunggu lama. Langsung saja aku berpamitan kepada kedua orang tuaku dan mengaktifkan mode pembalap alias ngebut hahaha. Benar-benar cepat hingga aku melihat lampu kuning bukannya makin pelan malah makin ngebut karena tidak mau dirinya menunggu lama:(. Perumahan perumahan, dimana ya perumahan. Aku melihat lokasinya ternyata aku kejauhan, maaf _gais_. Setelah tiba di tujuan, _I see her_. Wehhh *my dream comes true and I'm touched*🥹. Bukan aku kalau pura-pura santai aslinya tremor hahaha, aku pun merasakan saat saat memberikan helm dan minuman kepadanya. Ahh iya disana juga ada satpam (mungkin) yang menemani dirinya dan berkata, "Awas jang bapakna galak". Apa? Benarkah itu? Tapi aku tak masalah dengan itu karena aku kan "_I'll do what they say I can't_". Kalau orang lain anggap menaklukan hati orang tuanya sangat sulit, maka aku akan berani untuk membuktikan bahwa aku bisa menaklukan hati beliau-beliau ini. Lalu aku pun bertanya, masa iya mau langsung pulang. Aku sebenarnya ingin mengajak dirinya makan nasi goreng kan biar sekalian makan malem, berhubung aku belom makan juga sekalian bisa ngobrol hehehe. Tapi dirinya mengatakan sudah kenyang. Yaa aku pun mengajak ke MCD karena itu yang aku idamkan sejak lama dan dia pun mengiyakan. Sekali lagi, ASYYIKKKKK! (bacanya pakai lagu Bento). Saat di perjalanan, dirinya pun benar-benar lepas menceritakan harinya. Wahh memang ya benar-benar ekstrover. Aku sangat senang dirinya sangat leluasa bercerita kepadaku. Kalau aja ngebut dan nabrak orang gaakan sakit, maka aku akan melakukan itu saking senangnya. Di dalam hati pun aku bergumam, "Jangan lupa minta foto, jangan lupa minta foto berdua".
+
+Singkatnya, kami pun sampai disana dan kami pun lantas memesan makanan. Ya dirinya memesan McFlurry, sudah ku duga karena aku ingat McFlurry aku ingat dirinya. Aku pun sebenarnya tidak terlalu lapar sihh, walau belum makan nasi. Hanya makan ketoprak, basreng karedok 2 bungkus, dan udah. Aku pesan saja menu andalanku: Burger, kentang goreng, dan Coca-Cola. Ahh tambahan akupun ingin McFlurry biar samaan gitu. Kami disana berbincang banyak hal, ini yang aku suka, kami dapat berbincang tentang apapun disana. Aku bahkan tak ingat apa saja yang kami bahas disana. Ya iyalahh yang penting kan bisa sama dirinya hehe. Mau bahas yang lebih _deep_ mah ngga cocok karena kan masih ada hari esok. Jadi ya obrolannya santai saja. Ohh iya saat dirinya menggunakan kaca matanya. AHHHHHHHHHHHHHHH CANTIKKKKKK BANGETTTTTTT!!!. Aku tak ingat bagaimana awalnya, aku pun mencoba kaca matanya. Yaa aku tak terbiasa menggunakan kaca mata jadi agak asing dan pusing rasanya. Tapi lama kelamaan nyaman juga kok. Aku tak tau saat itu apakah dirinya suka dengan pria berkacamata? Jam pun sudah menunjukkan pukul 21:30. Karena sudah malam kami pun memutuskan untuk pulang (Tumben ibuku tak mengomel, "Id gera uih tos wengi"). Akhirnya aku mengantarkannya dia pulang. Sepanjang perjalanan kami pun masih berbincang banyak hal dan aku ingin melambatkan waktu untuk terus bersamanya. Walau aku tak bisa melambatkan waktu, tapi aku bisa melambatkan motorku hahahaha. Aku harus menghafal jalan menuju rumahnya agar besok siang aku bisa langsung datang. Saat sudah sampai depan rumahnya kami pun berpamitan. Ohh iya, aku selama perjalanan pun mencoba menggunakan kaca mata dan jujur agak silau juga karena aku silindris. Tapi ya untungnya, saat itu walau gelap (Heeh anjir Bandung teh poek ningan, efek lila teuing di Jakarta da Jakarta mah caang) tapi kendaraan sepi jadi aku masih bisa leluasa dalam melihat jalan walau agak kagok. Aku meminta dirinya untuk melepaskan kaca mata dariku (Hmmm modus...), DAN EMANG MODUS LAGIPULA SUKSES MEMBUATKU SALTING WKWKWK. _After we say bye_, aku pun pulang dengan perasaan senang. Aku malah teringat bagaimana senangnya ketika pertama kali membonceng dirinya di tanggal 5 Februari 2023 setelah kita tidak bertemu selama 7 tahun lamanya. Ya Tuhan, bolehkah aku merasakan ini selamanya? Semoga Engkau mengabulkan doaku. BTW LUPA FOTO AHHHHHHHHHH.
 
 ## D-Day: Date Day
 
@@ -130,12 +152,41 @@ _Nope_, karena aku sering menggunakan jam tangan bahkan ketika aku tidur, di jam
 
 <img src="https://pbs.twimg.com/media/F388EMXaYAA5SqP?format=jpg&name=large" alt="indikator heart rate di jam" />
 
-_See?_ Aku pun memang tidak menyangka dengan hal tersebut. Malah aku ingin saja tertidur agar cepat siang. Benar-benar menyebalkan, perasaan gugupku menghalangi diriku untuk tertidur. Ditambah lagi rasa nyaman di perut, apa namanya? _Butterfly in stomache_. Ahh sudahlah aku main medsos saja sampai...
+_See?_ Aku pun memang tidak menyangka dengan hal tersebut. Malah aku ingin saja tertidur agar cepat siang. Benar-benar menyebalkan, perasaan gugupku menghalangi diriku untuk tertidur. Ditambah lagi rasa nyaman di perut, apa namanya? _Butterfly in stomache_. Ahh sudahlah aku main medsos saja sampai siang. Lagipula tidak ada yang aku harus kerjakan. Tak lama sedang rebahan aku pun dipanggil oleh orang tua. Wahh apa nihh? Pasti ada yang penting. Aku langsung saja menemui orang tuaku.
+
+👨🏻: "Aidd, kadieu sakedap" <br />
+👦🏻: "Hah naon?" <br />
+👨🏻: "Id ceuk si mamah geus boga kabogoh orang dieu" <br />
+👦🏻: "Hah naon teu da" <br />
+👨🏻: "Bae atuh jang tong era da geus gede" <br />
+👦🏻: "Nya maksudna teh lain kabogoh, acan. Babaturan keneh" <br />
+👨🏻: "Ahh heeh atuh syukur ai kitumah. Nu mana cik tempo" <br />
+👦🏻: "Ihh engke weh atuh (aku yang semakin canggung)" <br />
+👨🏻: "Bawa atuh tepangkeun ka bapak jeung ka si mamah" <br />
+👦🏻: "Heeh engke mun daekeun. Ayeuna siang da papanggih deui" <br />
+👨🏻: "Ohh kamari teh ulin jeung eta? Sugan teh jeung baturan sakola" <br />
+👦🏻: "Hehe (Udah atuh Pak urang teh era euyy)" <br />
+👨🏻: "Heeh sok atuh ku bapak doakeun cing alus milik" <br />
+
+WOIII LAHHH MALU DAN CANGGUNG BANGET PERTAMA KALII DICENGCENGIN AYAH SENDIRII😭😭😭. Aku hanya bercerita ke ibu karena aku baru nyaman bercerita kepadanya, malah disebar ke seluruh penjuru negeri🫠. Kakak pun jadi tahu.
+
+👩🏻: "Id mana cenah ceuk si mamah kabogoh anyar" <br />
+👦🏻: "Kepooo, engke weh ku Id bawa kadieu sore mun daekeun" <br />
+
+Benar-benar seluruh penjuru negeri. Bagaimana kalau ibuku cerita ke temannya? Ayahku pun demikian? Bagaimana kalau Kakakku yang terkenal cerewet juga menyebarkannya pada saudaraku? Ahhhh. Oke oke tenang, kamu harus serius pada kali ini. Karena aku belum makan apapun sedari pagi, aku pun sarapan lontong kari yang dibelikan kakakku. Aku memakan lontong tersebut di ruang tamu sambil menonton YouTube. Ayahku pun tiba-tiba datang sambil membawa makanannya juga dan membicarakan pembangunan rumah di lantai 2.
+
+👨🏻: "Tuhh si Tiara keur ngebangun kamar di atas. Maneh kudu jaga-jaga oge nyieun kamar di luhur" <br />
+👦🏻: "Moal, moal didieu. Geus nikah mah rek misah" <br />
+👨🏻: "Tah heeh alus kitu meh mikir. Tong jeung kolot atau mitoha wae" <br />
+👦🏻: "Heeh ayeuna ge karasa pas kost" <br />
+👨🏻: "Tah eta. Bae jang bogoh ka awewena da maneh geus gede geus mejehna neangan pamajikan. Nya mudah-mudahan weh nu ieu mah jodoh. Engke bawa weh kadieu bapak hayang apal" <br />
+
+Jujur, ini adalah obrolan pertama kali dengan ayahku membahas wanita. Aku memang ingin sekali memperkenalkan dirinya kepada orang tua. Kita lihat saja nanti. Okee kita siap-siap dulu. Mandi pakai sabun yang sudah aku beli di Jakarta, tak lupa sabun cuci muka. Setelah itu pakai _body lotion_, pelembap muka, dan mari keluarkan baju barunya hehehe. Tak lupa parfum. Shalat dan berpamitan bahwa aku akan bermain bersama doi. Ahhh Tuhan, tak lama aku akan bertemu dirinya. Aku langsung saja pergi menuju rumahnya, pokoknya jam setengah 2 sampai. Setelah tiba aku pun mengabarinya bahwa aku sudah sampai. Sialan ceklis:). Aku meneduh dulu karena saat itu cuacanya agak panas. Aku takut keringetan sampai bikin baju baru baru, apalagi kan mau nge-_date_. Karena masih ceklis dan gabut, aku pun menghubungi Jihan supaya menemaniku menunggu doi.
+
+<img src="/blog/jian_menemani.jpg"  alt="chat dari jihan" />
+
+Ahh gimana ini? Masa iya ngilang:(. Ahhh tak mengapa mungkin doi lagi dandan sebaik mungkin, siap-siap ketemu aku (GEER YA ALLAH).
 
 ## Nightmare, Spoiled and Clingy
 
-## Talking to Myself
-
 ## Note
-
-## Merdeka Cinta dari Tulisan Teteh
