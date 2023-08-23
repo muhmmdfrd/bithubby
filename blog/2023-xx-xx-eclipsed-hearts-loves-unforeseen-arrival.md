@@ -120,6 +120,18 @@ HAHAHAHAHAHAHA YESSSSSSS AKHIRNYA BOLEH JEMPUT DIA OMG OMG OMG. Aku pun tak ingi
 
 ## D-Day: Date Day
 
+Minggu, 20 Agustus 2023.
+
+D-Day atau Hari-H. D-Day yang aku maksud bukanlah D-Day pertempuran Normandia tanggal 6 Juni 1944 antara Blok Sekutu dan Blok Fasis di pantai Prancis. D-Day ini adalah _Date Day_. Hari yang sudah aku tunggu-tunggu. Bahkan hari ini aku sangat semangat. Namun, semangatku juga berbanding lurus dengan rasa gugupku. Terus terang, jantung tidak bisa berhenti berdebar. Rasa tidak nyaman saking gugupnya tidak bisa aku hindari.
+
+> "Ahh itumah perasaanmu saja"
+
+_Nope_, karena aku sering menggunakan jam tangan bahkan ketika aku tidur, di jamku pun menunjukkan indikator bahwa sebanyak 29% _heart rate_ ku ada di tingkatan _light_. Wahh, aku yang sedang bekerja saja hanya 2% - 5% dengan tingkatan _light_, selebihnya ada di tingkatan _relaxed_. Bahkan ketika aku berolahraga saja hanya mencapai 15% ada di tingkatan _light_.
+
+<img src="https://pbs.twimg.com/media/F388EMXaYAA5SqP?format=jpg&name=large" alt="indikator heart rate di jam" />
+
+_See?_ Aku pun memang tidak menyangka dengan hal tersebut. Malah aku ingin saja tertidur agar cepat siang. Benar-benar menyebalkan, perasaan gugupku menghalangi diriku untuk tertidur. Ditambah lagi rasa nyaman di perut, apa namanya? _Butterfly in stomache_. Ahh sudahlah aku main medsos saja sampai...
+
 ## Nightmare, Spoiled and Clingy
 
 ## Talking to Myself
