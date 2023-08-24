@@ -6,8 +6,7 @@ tags: [story, life, love]
 keywords: [bithubby, eclipsed, hearts, love, unforeseen, arrival]
 description: Kedatangan cinta yang tak terduga
 image: "/blog/siblings.jpg"
-date: "2023-08-21T06:30:00"
-draft: true
+date: "2023-08-24T07:30:00"
 ---
 
 :::success _Summary_
@@ -185,8 +184,69 @@ Jujur, ini adalah obrolan pertama kali dengan ayahku membahas wanita. Aku memang
 
 <img src="/blog/jian_menemani.jpg"  alt="chat dari jihan" />
 
-Ahh gimana ini? Masa iya ngilang:(. Ahhh tak mengapa mungkin doi lagi dandan sebaik mungkin, siap-siap ketemu aku (GEER YA ALLAH).
+Ahh gimana ini? Masa iya ngilang:(. Ahhh tak mengapa mungkin doi lagi dandan sebaik mungkin untuk siap-siap ketemu aku (GEER YA ALLAH). Setelah menunggu kurang lebih 30 menit, aku pun melihat dirinya dari spion. _Wow, she's comes and as usually, she's looks fantastic_. Saking terpananya aku lupa bahwa aku akan mem-videokan dirinya datang (kenapa sihh Rid yaampun lupaan mulu dahhh), dan tau kah kalian apa yang membuat dia lama? DIAAA MASAKKIN AKU DIMSUM!!!😭😭
 
-## Nightmare, Spoiled and Clingy
+<div
+  style={{
+    width: "100%",
+    height: 0,
+    paddingBottom: "56%",
+    position: "relative"
+  }}
+>
+  <iframe
+    src="https://giphy.com/embed/55HQwAImZQWxPDc8xU"
+    width="100%"
+    height="100%"
+    style={{ position: "absolute" }}
+    frameBorder={0}
+    className="giphy-embed"
+    allowFullScreen=""
+  />
+</div>
+<p>
+  <a href="https://giphy.com/gifs/nbcthevoice-singing-the-voice-season-23-55HQwAImZQWxPDc8xU">
+    via GIPHY
+  </a>
+</p>
+
+KOK BISA INGET SIHH? AKU AJA LUPAAA LHOOO?? IHH KENAPA BISA DIINGET KAYA GITU? SOMETHING SPECIAL FOR MEEE AHHHH MELEYOTTT ASLIII. Kalau aku ingat sesuatu tentang orang lain sihh aku udah biasa, karena aku cenderung suka ingat hal detail tentang orang lain. Tapi orang lain ingat tentang detail aku? Itu membuatku spesial. PASTI DAN PEGANG KATA-KATAKU, ORANG LAIN YANG INGAT DETAIL TENTANG DIRIKU, AKAN KU INGAT SELALU DIRINYA. Belum juga jalan dah leleh aku wkwkwk. _Speechless_ sumpah deminyaaa. Andai aja aku kuat, pasti akan aku lempar motorku saking senengnya. Ayolahh kita gas berangkat ya Rayy. Sepanjang perjalanan pun aku tak ingat apa saja yang dibahas saking serunya dan sampailah kita di tempat ramen & sushi. DAMN DAMN LAGI DAN LAGI TREMOR, aku berkamuflase dengan menyembunyikan tanganku. Aku keluarkan gawaiku untuk melihat _list detail_ apa saja yang akan aku tanyakan, karena ini kan konteksnya _date_, jadi boleh dong bahas tentang kelanjutan di masa depan kita seperti apa.
+
+<img src="/blog/chat-signal.jpg" alt="chat signal" />
+
+_January February_ adalah _January, February, March, April, May I go with u to my home? wkwkwk_. Intinya aku yang banyak bercerita ini itu.
+Aku senang bisa diberi kesempatan untuk bercerita banyak hal. Sebenarnya, yang aku ceritakan kepadanya adalah cerita yang aku ceritakan kepada diri sendiri secara berulang. Baru kali ini pertama kali aku bisa bercerita secara langsung tatap muka, apalagi dengan seseorang yang spesial yang aku sukai. Aku hargai itu karena selama ini aku juga memendam cerita tersebut. Terima kasih dirimu telah membuatku tidak lagi merasa sendirian, sudah meluangkan sedikit waktunya hanya untuk mendengar ceritaku yang panjang. Singkat cerita aku mengajak dirinya untuk bertemu kedua orang tuaku, namun dirinya belum menyanggupinya karena terlalu cepat. Baiklah, _so, what next?_ Dirinya menyarankan untuk berkeliling Bandung dengan pergi ke Braga. Benar-benar orang yang tepat menurutku, dirinya secara aktif mengambil keputusan dan aku suka hal sederhana seperti itu. Karena aku cenderung lupa arah ke Bandung, aku gunakan saja intuisiku dengan melihat papan penunjuk jalan. Seperti biasa di perjalanan kami masih berbincang banyak hal. Sampailah kami di Braga. Pertanyaan pertama adalah, apakah dirinya memiliki kenangan bersama pria sebelumnya? Mengingat dirinya pernah kencan juga disini. Sebenarnya tidak masalah jika ia pernah memiliki kenangan indah disana, akan aku timpa kenangan itu dengan kenangan bersama diriku, _I love to do what they say I can't_. _Yeah I dunno_. Kami pun berkeliling Braga dengan berbincang-bincang apa yang selama ini aku pendam. Aku lupa bilang apa, intinya lalu kita berfoto. Dari foto _selfie_ yang masih malu-malu di Starbucks tanggal 5 Februari 2023, terlewat foto saat bertemu di 5 Maret 2023, mendapat pap muka di tanggal 17 Agustus 2023, akhirnya sampai dapat berfoto dengannya tepat di sampingnya. Berbagai efek pun kami coba dan dirinya benar-benar cantik, ya Tuhan... Benar-benar indah ciptaan-Mu. Setelah itu kami pun berlanjut keliling-keliling (Eh shalat dulu apa keliling dulu yaa wkwkwk). Dan ketika di tengah perjalanan, di saat senja menyapa, cinta merekah meletup-letup bagai kembang api yang meledak di angkasa. Ohh Tuhan, bolehkah aku meminta kesempatan lagi untuk mencintainya selamanya? Aku akan mencintainya dengan cara yang benar, dengan _ridha_-Mu. Perasaan senang ini tak pernah aku dapatkan sebelumnya, bukan maksud merendahkan masa laluku, tapi dirinya membuat suasana saat itu berbeda. Aku mohon Tuhan izinkan aku mencintainya dengan perasaan yang tak pernah berakhir. Karena sudah _maghrib_ juga kami pun shalat dan bergegas pulang. Di jalanpun tetap saja sedikit-sedikit masih berbincang banyak hal. Aku membawa dirinya ngebut wkwkwk _sorry_ aku pengen usil sama kamu. Maaf juga kalau aku bawa kamu ke toko kue yaa, karena prinsipku kalau seseorang berbuat baik kepadaku, pasti aku akan balas secara lebih. Karena dirimu sudah membuatku spesial dengan hal dimsum sederhana, aku akan balas dengan hal yang lain. Tapi, aku tahu kamu pasti akan menolaknya, jadi aku membeli sesuatu yang bisa aku berikan kepada keluargamu juga. Selain daripada itu, itu merupakan sinyal dariku untuk orang tuanya kalau aku memang ingin serius dengan anaknya itu hehe. 20 Agustus 2023, pasti aku akan ingat selalu tanggal itu, momen itu, detik-detik yang aku habiskan bersamamu. Aku harap kenanganmu itu abadi, dapat diceritakan kembali kepada penerus kita, kepada teman-teman kita. Dan aku harap kenanganmu juga tetap dalam pikiranku, ditambah dengan perasaan yang masih awet sampai dunia berakhir. Aku sangat berharap lebih kalau engkau memang orang yang tepat untukku. Ya Allah, mohon kabulkanlah doa hamba-Mu yang kesepian ini. Aamiin.
+
+## Good Dream, Nightmare, Spoiled and Clingy
+
+Senin, 21 Agustus 2023.
+
+Karena di hari pekanku aku sangat tidak beraturan dalam jam makan, ditambah menunya sama sekali tidak ada nasi. Aku pun baru makan lagi dimsum darinya. SUMPAHHH ENAK BANGETTT😋. Ya walaupun Senin pagi aku mulai dengan muntah cairan empedu, itu bukan salah kamu Ray. Itu emang salah aku makannya ngga teratur:(. Di samping itu, aku sangat senang memulai hari, seolah aku tak percaya aku melewati momen yang sangat menyenangkan di hari kemarin. Hari Senin ini bukanlah Senin biasa, sepertinya minggu ini akan aku lewati dengan sangat senang. Mungkin istilahnya aku kuat tidak usah sarapan, sarapan dengan melihat kembali foto kami berdua pun sudah cukup, hahaha dasar cinta membuatku gila dan buta. Aku sadar bahwa aku tidak biasanya selalu memasang wajah tersenyum kepada kota yang agak kejam ini. Aku menatap langit seraya berkata, "_Good morning city, good morning Monday, good morning you all_". Baru buka laptop, hal yang pertama dibuka adalah OneDrive dan foto kami lagi hehe. Pokoknya kali ini _tab browser_ chrome harus selalu tampil foto dia. Akhirnya selama ini hanya foto dirinya yang aku simpan dan kulihat sebagai _mood booster_, tak kusangka dapat melihat foto kami berdua. Bisa dibilang walau pekerjaanku saat itu cukup padat, dan pasti ada hal yang membuatku lelah, aku buru-buru melihat foto kami akhirnya aku bisa tersenyum kembali. Bolehkah aku jadikan hari kemarin dan hari Senin ini sebagai hari terbaik sejauh ini? Pokoknya foto dirinya dan foto diriku adalah hal yang paling sering aku lihat tatkala emosi sedang berkecamuk. Ahh indahnya hari ini dan hari kemarin.
+
+Selasa, 22 Agustus 2023.
+Di saat Senin malam saat aku sudah pulang dari pekerjaan, kepalaku pun sedikit pusing karena mungkin aku belum cukup tidur karena aku baru sampai Jakarta di jam 12 malam, ditambah lagi aku muntah dan tidak makan cukup, so tubuhku memberi sinyal kepada diriku untuk beristirahat. Karena masih dalam suasana senang, aku pun ingin tetap berkomunikasi dengan dirinya jadi aku memberitahunya bahwa kalau dirinya sudah pulang tolong bangunkan diriku, karena akupun ingin makan malam.
+
+"Kamu masi tidurr?" <br />
+"Belom makan lohhh" <br />
+"Bangun gaa!!" <br />
+
+Ya ampun gemes bangettt, pengen deh diomelin kek gitu setiap hari. Aku sadar aku pun sudah sedikit mulai ingin memunculkan sisi manjaku. Saking larutnya kami bertukar pesan, aku pun sampai lupa kalau aku belum makan:(. Aku ingat kalau aku lapar itu ketika perutku mulai perih dam nyeri. Aku pun ingin diomelin kalau aku belum makan dan disuruh dirinya makan. Ya ya ya walaupun makan mah tinggal makan, tapi kan namanya lagi _bucin_ kan emang bego banget wkwkwk. Tapi dirinya menghilang:(. Yahh aku sedih dan agak sedikit _bete_ tatkala aku sangat ingin diperhatikan olehnya, ingin ditanya kabarnya, ditanya hariku, dan dihibur. Aku pun sadar sifat manjaku mulai semakin bergejolak dan aku tak ingin _denial_. Bolehlah aku bersikap kuat saat orang lain membutuhkan _support_-ku dan aku pun tidak mengharapkan balasan dari mereka. Tapi untuk kasus ini, aku sangat ingin sekali diperhatikan olehnya dan memberitahu kalau aku pun bisa lemah hanya dihadapannya. Berhubung Senin pagi muntah, tidak sarapan, siang hari makan seperti biasa, dan malam aku tidak makan lagi membuat maag-ku semakin kumat. Akhirnya aku pun terlelap tidur dengan rasa sakit dan _bete_.
+
+_Bete_ itu pun sampai terbawa sampai mimpi. Di mimpiku, diriku sangat manja padahal aku sehat-sehat saja seperti biasa. Aku manja ingin dimasakkin kembali dimsum, terus aku pun sakit dan ingin diperhatikan olehnya, mungkin karena risih dirinya pun pergi membiarkan komunikasi kami mati begitu saja. Sadar itu mimpi buruk, di tengah tidurku pun aku terbangun dengan rasa mual yang tak tertahankan. Aku langsung saja pergi menuju toilet dan yapp muntah cairan empedu berkali-kali hingga aku pun lemas. Aku yang masih terbawa suasana _bete_ dan sedih dari ditinggal pergi olehnya membuat tak sadar aku pun berkaca-kaca. Rasa sakit fisik dan sakit hati, kombinasi yang pas untuk membuat air mataku jatuh. Karena aku pun enggan untuk bangkit, aku pun masih tiduran di tutup _cover_ toilet kost ku. Akhirnya karena pegel setelah lama berlutut dan tak ingin tertidur di toilet, aku pun bangkit dan kembali ke tempat tidur. Ya Allah, aku benar-benar ingin menjadikan dirinya sebagai pasanganku kelak. Aku membutuhkan seseorang yang dapat mengisi hatiku, yang dapat memberikan perhatian tulusnya kepadaku. Aku pun tak lupa ingin segera sembuh dari penyakit maag-ku ini. Sejujurnya aku ingin sekali manja kepadanya, namun aku takut aku malah makin bete atau dirinya benar-benar seperti dalam mimpiku yang risih dan _ilfeel_ dengan sikap manjaku yang _spoiled_, sedikit _clingy_ dan _annoying_. Hufttt..._Please God_ kabulkanlah keinginanku.
 
 ## Note
+
+WOWWW TULISAN TERPANJANG!!!
+Emang bener sih setiap hari terhitung dari tanggal 17 memang sangat-sangat berarti bagiku. Akhirnya tulisan ini selesai dan akhirnya aku dapat menyimpan kenangan ini dalam bentuk tulisan. Kalau aku lagi _down_ pasti akan ku baca ulang kisah ini karena isinya yang sarat akan kebahagiaan. Pengennya juga sihh aku _attach_ foto kami disini, cuma ya dirinya ingin _keep private_ saja, so yaudah foto kami ya kami nikmati sendiri.
+
+Ohh iya, aku punya pesan khusus untukmu, _maybe someday_ aku akan mengirim pesan ini untukku. _So here we are_:
+
+Untuk Syara,
+
+Dalam hidup ini, pintalan benang takdir sering mempertemukanku dengan sosok-sosok istimewa yang mengubah segalanya. Kamu adalah orang yang dengan cepat merajut tali hubungan di dalam hatiku juga yang menyembuhkan hati yang hancur. Setiap momen bersamamu adalah harta yang tak ternilai, dan aku ingin berbagi kata-kata ini untuk mengungkapkan betapa berartinya dirimu bagiku.
+
+Syara, engkau adalah kilauan cahaya dalam setiap langkah hidupku. Engkau adalah bintangku karena setiap malam yang gelap engkau mampu menerangi jiwaku. Keberanianmu, kemandirianmu, dan karismamu (nama kakakmu wkwkwk) menginspirasi aku setiap harinya. Dedikasi yang tinggi terhadap apa yang kamu lakukan adalah cermin dari jiwa yang tangguh dan tekad yang tak tergoyahkan. Melihatmu berjuang dan berkembang membawa semangat baru dalam hidupku.
+
+Aku bersyukur karena engkau ada dalam hidupku. Harapanku adalah kita dapat terus bersama, berjalan melalui setiap rintangan dan suka cita. Aku ingin hadir di sampingmu, memberikan dukungan tanpa henti dalam segala hal yang kamu lakukan. Bersamamu, aku merasa seperti kita bisa mengatasi apa pun, dan aku percaya bahwa kita mampu mencapai mimpi-mimpi besar bersama.
+
+Jadilah dirimu yang luar biasa, Syara. Teruslah bersinar, teruslah tumbuh, dan teruslah menjadi sosok yang menginspirasi banyak orang di sekitarmu. Aku akan selalu mendukungmu, setiap langkah, setiap usaha, dan setiap perjuangan yang engkau jalani. Dalam kisah hidupku, engkaulah hal yang sangat berarti. Aku bersyukur dan berharap, bahwa kita akan terus berjalan bersama, benar-benar bersama. _So that is from me and cheers_. Dan kali ini aku ingin mengatakan, aku benar mencintaimu.
