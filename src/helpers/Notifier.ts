@@ -9,12 +9,18 @@ const notify = (telegramToken: string) => {
       components: { platform },
     } = await fp.get();
 
+    // @ts-ignore
+    const userAgent = platform.value;
+
+    if (userAgent.toLowerCase() === "iphone") {
+      return;
+    }
+
     const headers = new Headers();
     headers.append("Content-Type", "application/json");
 
     const raw = JSON.stringify({
-      // @ts-ignore
-      text: `Hello, there new visitors with user agent ${platform.value}`,
+      text: `Hello, there new visitors with user agent ${userAgent}`,
       chat_id: 612060297,
     });
 
