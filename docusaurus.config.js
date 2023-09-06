@@ -108,8 +108,7 @@ const config = {
   themeConfig: {
     announcementBar: {
       id: "announcement_bithubby",
-      content:
-        "Aku sedang mencoba untuk membuat novel hehe. <i>Please stay tuned</i>.",
+      content: "Welcome September✨.",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
