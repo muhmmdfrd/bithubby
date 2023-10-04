@@ -2,10 +2,28 @@
 slug: september-recap-full-of-stories
 title: "September Recap: Full of Stories"
 authors: [farid]
-tags: [life, love, friend, story, griszha, shafa, indri, laras, anca, fiza]
-keywords: [september, recap, full, story, stories, bithubby]
+tags: [life, love, friend, story]
+keywords:
+  [
+    september,
+    recap,
+    full,
+    story,
+    stories,
+    syara,
+    syara azzahra,
+    griszha azzahra,
+    griszha,
+    azzahra,
+    shafa,
+    indri,
+    laras,
+    anca,
+    fiza,
+    bithubby,
+  ]
 description: Bulan September yang penuh cerita
-image: "/blog/kid-3498473_640.jpg"
+image: "/blog/september-3614870_640.jpg"
 date: "2023-10-04T16:51:00"
 draft: true
 ---
@@ -27,6 +45,14 @@ Saat aku tiba di kantorku, baru saja aku mengeluarkan gawaiku untuk aku simpan d
 > "Semua yang ada di grup ini jadi _tester_ dan _quality assurance_ aplikasi SuperApp POLRI ya."
 
 Yapp, aku diberi tugas yang berbeda. lagi dan lagi aku menjadi _tester_ aplikasi. Anggota grupku pun hanya CEO, VP, Fara, Putra, dan aku. Artinya aku bersama dua rekan kerjaku akan diberi tugas baru untuk 1-2 minggu ke depan. Putra sihh walau bukan satu divisi karena dirinya adalah admin operasional jadi sudah cukup akrab. Lalu ada Fara, satu-satunya karyawan wanita yang baru masuk di awal tahun 2023 yang umurnya 2 tahun di atas diriku. Walaupun umurnya tidak jauh berbeda dengan diriku, aku tidak terlalu akrab dengannya. Pada kesempatan ini aku harus bekerja sama dengan mereka. Selang beberapa waktu, kami pun menghadiri _meet_ untuk membahas teknis pengerjaan kami sebagai _tester_. Karena aku paling "kompatibel" dengan pekerjaan terkait _software_, maka atasanku menunjuk diriku sebagai _project leader_ untuk _tester_ ini. Singkat cerita kami mengerjakannya. Namun, karena Putra masih banyak pekerjaan yang tidak bisa ditinggalkan jadi dirinya memberitahu bahwa tidak bisa melanjutkan menjadi _tester_. Jadi, tersisa dua orang: aku dan Fara.
+
+## It's Your Birthday
+
+Aku teringat setiap mendengar bulan September adalah hari spesial bagi dirinya. Bulan itu juga menjadi sarana untuk diriku bisa kembali berkomunikasi dengannya, seandainya sejak bulan Maret kami berhenti total berkomunikasi. Walau pada bulan Juli aku bisa kembali menghubunginya, tidak lantas membuat diriku berhenti pada projek ambisius ini yang sudah aku garap sejak bulan April itu. Apalagi membeli mainannya yang sudah aku beli dan aku pajang lengkap dengan bungkusnya sejak bulan Mei. Tentu aku sangat menginginkan hasil yang terbaik, benar-benar terbaik mengalahkan semua kenangan yang pernah dia lalui, dari siapapun. Namun, tentunya aku tidak bisa mengalahkan kenangan yang sudah dia alami yang diberikan oleh keluarganya karena keluarga adalah kekuatan yang absolut. Namun untuk teman, sahabatnya, bahkan mantan gebetannya? Masih bisa aku kalahkan dan mungkin akan menjadi kenangan yang tidak akan tergantikan.
+
+Membuat _website_ sudah rampung dengan desain dan lagu Heaven yang sudah melengkapi tampilan ciamik. Lagu Heaven-nya pun sebenarnya sudah aku _spoiler_ kepada dirinya bahwa dia adalah bintang bagiku, yang dimana aku tidak akan menghitung banyak bintang karena ia adalah bintang, sebagaimana pada lirik pertama, "_I used to count the stars in the sky. Now I count the ones in your eyes_".
+
+_Playlist_ sudah, web sudah, mainan _action figure_ Hermione sudah. Kurang hadiah barangnya. Tapi... Aku tak tahu apa yang harus aku belikan untuknya ya?:( Berhubung aku belum mengenal dirinya terlalu jauh sehingga aku pun bingung barang apa yang dia sukai. Aku pun terbesit untuk memberikannya hadiah berupa _skin and body care_. Ahh itu pasti cocok untuk semua wanita ya kan. Aku pun meminta pendapat kepada temanku Jihan dan Farah mengenai hal itu. Mereka sama-sama mengatakan, "Kalau make-up itu tergantung jenis kulitnya Rid, takutnya kan gacocok". Yahhh sedihh deh dan iya juga sayang banget kalau beliin tapi ngga cocok dan ngga kepakai, tidak berkesan hadiahnya. Lalu apa dong? Aku berpikiran apa beliin aja _canvas_? Tapi itu sesuatu yang biasa baginya. Ahh tak mengapa aku berencana memang ingin membelikannya sebuah _canvas_ beserta cat dan juga buku.
 
 ## Five Girls
 

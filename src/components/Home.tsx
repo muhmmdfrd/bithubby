@@ -16,7 +16,7 @@ interface HomeProps {
 }
 
 export function Home({ recentPosts }: HomeProps): JSX.Element {
-  const [pageSize] = React.useState(10);
+  const [pageSize] = React.useState(15);
   const [page, setPage] = React.useState(1);
   const [posts, setPosts] = React.useState(recentPosts);
   const [usePaging, setUsePaging] = React.useState(true);
