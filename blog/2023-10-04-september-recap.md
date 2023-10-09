@@ -28,7 +28,7 @@ date: "2023-10-04T17:06:00"
 ---
 
 :::success _Summary_
-Setiap awal bulan adalah awal dari babak baru dalam perjalanan hidupku, tak terkecuali Bulan September.Bulan ini penuh dengan janji-janji, peluang, dan pengalaman baru yang menunggu. Bulan September, yapp pada bulan ini aku merasakan semangat awal seperti halnya anak sekolah yang memulai tahun ajaran baru, dan memang pada bulan ini juga merupakan tahun ajaran baru untuk perkuliahanku. Aku juga merasa segar dan penuh semangat. Ada orang-orang baru juga yang aku temui, teman-teman baru yang mungkin akan menjadi bagian penting dalam hidupku. Setiap wajah baru adalah cerita baru yang siap untuk ditulis. Namun, di antara kegembiraan dan semangat awal, September juga membawa beban rasa kecewa. Terkadang, harapan yang tinggi tidak selalu terwujud sesuai yang aku inginkan. Mungkin pekerjaan yang aku impikan belum juga tercapai, atau rencana besar yang aku susun terhambat oleh kenyataan yang kompleks. Rasa kecewa itu adalah pengingat bahwa hidup adalah perjalanan yang penuh dengan tantangan dan ketidakpastian.
+Setiap awal bulan adalah awal dari babak baru dalam perjalanan hidupku, tak terkecuali Bulan September. Bulan ini penuh dengan janji-janji, peluang, dan pengalaman baru yang menunggu. Bulan September, yapp pada bulan ini aku merasakan semangat awal seperti halnya anak sekolah yang memulai tahun ajaran baru, dan memang pada bulan ini juga merupakan tahun ajaran baru untuk perkuliahanku. Aku juga merasa segar dan penuh semangat. Ada orang-orang baru juga yang aku temui, teman-teman baru yang mungkin akan menjadi bagian penting dalam hidupku. Setiap wajah baru adalah cerita baru yang siap untuk ditulis. Namun, di antara kegembiraan dan semangat awal, September juga membawa beban rasa kecewa. Terkadang, harapan yang tinggi tidak selalu terwujud sesuai yang aku inginkan. Mungkin pekerjaan yang aku impikan belum juga tercapai, atau rencana besar yang aku susun terhambat oleh kenyataan yang kompleks. Rasa kecewa itu adalah pengingat bahwa hidup adalah perjalanan yang penuh dengan tantangan dan ketidakpastian.
 :::
 
 <!-- truncate -->
@@ -112,10 +112,10 @@ Aku pun becanda bahwa aku ingin menimpali salah satu teman Anca yang ikut komen 
 _At the end of the day_, teman Anca ingin berkenalan dengan kami bertiga. Namun, aku teringat bahwa aku sudah terjalin pada hubungan yang _private_. Aku ingin sedikit _spill_ hubunganku pun tidak bisa. Aku harus bagaimana? Entahlah. Aku iyakan saja untuk berkenalan. Aku pun tidak berharap lebih dari sekadar teman dengan mereka. Setelah ini-itu, Anca memberi tahu bahwa terdapat lima orang yang ingin berkenalan dengan kami:
 
 1. Shafa, akuntan yang berkuliah di Trisakti dan sekarang lagi magang menjadi auditor.
-2. Fiza, akuntan _full time_ dan juga berkuliah pada malah harinya seperti diriku. Namun, dirinya paling dewasa.
+2. Fiza, akuntan _full time_ dan juga berkuliah pada malam harinya seperti diriku. Namun, dirinya paling dewasa.
 3. Laras, jurusan Ilmu Komunikasi UPN Veteran Yogyakarta yang _photogenic_ dan juga pintar dalam _public speaking_.
 4. Indri, perawat yang sedang menunggu masa wisuda yang paling "senja".
-5. Griszha, paling pintar karena mengambil jurusan Fisika FMIPA di Universitas Diponegoro dan jug paling ambis.
+5. Griszha, paling pintar karena mengambil jurusan Fisika FMIPA di Universitas Diponegoro dan juga paling ambis.
 
 Hmmm...dari deskripsi awal fokusku tertuju pada Griszha. Selain namanya paling unik, dirinya pun paling sesuai dengan tipeku walau aku belum tahu fisiknya seperti apa. Aku memang tertarik kepada wanita yang cerdas, baik akademik ataupun non-akademik. Namun, tetap saja aku tidak terlalu tertarik. Setelah itu kami bertiga juga membuat deskripsi untuk diri kami. Iklan lah kasarnya wkwkwk. Setelah itu kami pun diberi _username_ Instagram. Aku pun mengikutinya dan aku melihat dari sisi fisiknya. Tebakanku sesuai, memang Griszha yang paling menarik untukku. Disusul Laras -> Shafa -> Indri -> Fiza. Karena sudah mengantuk, aku pun bergegas untuk tidur.
 
