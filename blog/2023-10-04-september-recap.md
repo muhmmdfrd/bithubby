@@ -3,25 +3,7 @@ slug: september-recap-full-of-stories
 title: "September Recap: Full of Stories"
 authors: [farid]
 tags: [life, love, friend, story]
-keywords:
-  [
-    september,
-    recap,
-    full,
-    story,
-    stories,
-    syara,
-    syara azzahra,
-    griszha azzahra,
-    griszha,
-    azzahra,
-    shafa,
-    indri,
-    laras,
-    anca,
-    fiza,
-    bithubby,
-  ]
+keywords: [september, recap, full, story, stories, bithubby]
 description: Bulan September yang penuh cerita
 image: "/blog/september-3614870_640.jpg"
 date: "2023-10-04T17:06:00"
