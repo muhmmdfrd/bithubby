@@ -6,7 +6,7 @@ tags: [story, life, love]
 keywords: [youth, embracing, loss, deffering, love]
 description: Kamu tetap pilihanku satu-satunya
 image: "/blog/woman-591576_640.jpg"
-date: "2023-11-04T39:04:00"
+date: "2023-11-06T04:39:00"
 ---
 
 :::success _Summary_
