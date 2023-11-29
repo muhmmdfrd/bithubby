@@ -30,7 +30,7 @@ const config = {
       async: false,
     },
     {
-      src: "https://cdn.ingest-lr.com/LogRocket.min.js",
+      src: "https://cdn.intake-lr.com/LogRocket.min.js",
       async: false,
     },
     {
