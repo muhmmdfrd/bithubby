@@ -26,10 +26,6 @@ const config = {
   },
   scripts: [
     {
-      src: "/hotjar.js",
-      async: false,
-    },
-    {
       src: "https://cdn.intake-lr.com/LogRocket.min.js",
       async: false,
     },
@@ -108,7 +104,7 @@ const config = {
   themeConfig: {
     announcementBar: {
       id: "announcement_bithubby",
-      content: "Welcome November. Be wise and cheerful✨.",
+      content: "December...Still thinking about you!✨.",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
