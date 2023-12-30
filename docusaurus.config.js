@@ -104,7 +104,7 @@ const config = {
   themeConfig: {
     announcementBar: {
       id: "announcement_bithubby",
-      content: "December...Still thinking about you!✨.",
+      content: "2024 still wishing you!✨.",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
