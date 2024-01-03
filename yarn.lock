@@ -4976,6 +4976,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@vercel/speed-insights@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "@vercel/speed-insights@npm:1.0.2"
+  checksum: 074213d71684d618eb1e755df192d4a8bffa4921d1ff3314796d4fb883aad73672d7ce68ae059426def308cf3a4cd176f870803e880e31eb4d633759eb6a6ed4
+  languageName: node
+  linkType: hard
+
 "@webassemblyjs/ast@npm:1.11.6, @webassemblyjs/ast@npm:^1.11.5":
   version: 1.11.6
   resolution: "@webassemblyjs/ast@npm:1.11.6"
@@ -5689,6 +5696,7 @@ __metadata:
     "@fingerprintjs/fingerprintjs": ^4.0.0
     "@mdx-js/react": ^3.0.0
     "@vercel/analytics": ^1.0.0
+    "@vercel/speed-insights": ^1.0.2
     dotenv: ^16.3.1
     moment: ^2.29.4
     prism-react-renderer: ^2.1.0

@@ -1,9 +1,9 @@
 import React from "react";
 import Layout from "@theme/Layout";
 import { Content } from "@theme/BlogPostPage";
-// @ts-ignore
 import { BlogPostProvider } from "@docusaurus/theme-common/internal";
 import { inject } from "@vercel/analytics";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import Head from "@docusaurus/Head";
 import BlogSidebar from "@theme/BlogSidebar";
 import PaginatorNavLink from "@theme/PaginatorNavLink";
@@ -62,6 +62,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
 
   return (
     <Layout>
+      <SpeedInsights />
       <Head>
         <meta
           name="google-site-verification"
@@ -84,6 +85,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
         <div className="row">
           <BlogSidebar
             sidebar={{
+              // @ts-ignore
               items: items,
               title: "Recents posts",
             }}
