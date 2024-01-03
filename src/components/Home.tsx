@@ -3,7 +3,7 @@ import Layout from "@theme/Layout";
 import { Content } from "@theme/BlogPostPage";
 import { BlogPostProvider } from "@docusaurus/theme-common/internal";
 import { inject } from "@vercel/analytics";
-import { SpeedInsights } from "@vercel/speed-insights/next";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import Head from "@docusaurus/Head";
 import BlogSidebar from "@theme/BlogSidebar";
 import PaginatorNavLink from "@theme/PaginatorNavLink";
