@@ -6,11 +6,11 @@ tags: [story, life, love]
 keywords: [jatuh cinta, cinta, daily, bithubby]
 description: Daily Journey
 image: "/blog/clock-2696234_640.jpg"
-date: "2024-01-01T10:00:00"
+date: "2024-01-02T00:34:00"
 ---
 
 :::success _Summary_
-1/366
+2/366
 :::
 
 <!-- truncate -->
@@ -44,3 +44,11 @@ Aku pun tidak tahu mengapa aku menyukai dua orang dalam waktu yang sama walaupun
 Ya Allah, Engkau pun tahu aku sangat kesepian ketika berada di Jakarta. Aku pun tahu di 2023 aku sering Shubuh di jam 6 dan Isya di jam Shubuh karena jadwal tidurku sangat berantakan. Aku tahu aku belum mampu untuk memiliki pasangan. Di 2023 kemarin aku bertemu dengan 2 orang yang sangat aku inginkan. Namun, jika terus berharap kepada mereka aku pun akan sakit. Lagipula mereka juga tidak pernah menganggapku. Jadi, kuatkanlah aku dan sabarkan aku dalam penantian ini. Bantulah aku memperoleh rezeki yang banyak dan berkah agar aku dapat menikahi seseorang dengan layak. Tunjukilah aku sebuah petunjuk tentang wanita yang baik untukku dan untuknya. Aamiin.
 
 Setelah bengong itu, keluargaku pun mengajakku untuk pergi makan, lalu Shalat dan pulang. 2 Jam lagi aku akan pulang ke Jakarta. Aku harus siap menghadapi kalau aku yang _single_ ini tidak mempunyai sesorang wanita yang aku harus perjuangkan, dan juga tidak ada yang menginginkanku. Aku harap penantianku ini akan berbuah manis. Aamiin. _Dear_ Syara dan Zahra, terima kasih sudah mengisi momen di tahun 2023 yang sangat _memorable_ ini, walau mungkin bagi kalian berdua bertemu denganku adalah hal yang biasa saja. Semoga kalian bertemu dengan jalan yang sangat baik dan sukses selalu untuk Syara kuliah dan kerjanya dan Zahra untuk menjadi mahasiswi akhirnya. _See ya_, walau sangat tidak mungkin untuk kita dapat bertemu lagi.
+
+## 2 Januari 2024
+
+Hari kerja pertama di tahun ini aku awali dengan bermain badminton dengan rekan kantor. Setelah itu aku lanjut bekerja. Uniknya, kerjaan pertamaku adalah mem-_service_ laptop milik kerabat bosku wkwkwkw. Aku pikir itu adalah pekerjaan yang mudah. Tak disangka terdapat banyak kendala disana. Aku sudah _install driver_, namun saat _restart_ _driver_ yang sudah di-_install_ hilang semua. Belum lagi tidak ada _driver_ untuk menghubungkan laptop dengan internet sehingga harus aku hubungkan dengan LAN. Aku sudah _install driver_ tersebut dua kali sampai lebih dari jam 16:30. Hal itu tentu membuatku sedikit gusar. Belum lagi aku tak enak kepada rekan kerjaku yang ditugaskan untuk mengantar laptop tersebut ke kerabat bosku.
+
+Ahhh kenapa seharusnya pekerjaan _simple_ ini menjadi lebih rumit. Setelah selesai bergelut hingga jam 17:30, aku pun bergegas pulang. Badan yang lelah ini karena sudah badminton dan juga sudah bekerja seharian lantas lanjut _laying up my body_. Sembari beristirahat, aku pun membalas pesan-pesan dari temanku di Bumble, Line, dan di Instagram. Memang aku belum siap menjalin hubungan karena aku sendiri tak jarang melupakan untuk membalas pesan temanku. Tapi, dulu aku sangat menantikan kabar darinya. Apakah memang aku malas untuk membalas karena aku tak ada rasa? Mungkin iya.
+
+Jadi aku senang sekadar _chat_ dengan temanku ini adalah aku tidak merasa sedih atau gimana-gimana kalau temanku tidak membalas lagi. Kalau masih balas yaa aku pun menimpalinya. Kalau tidak ya yasudah cari lagi wkwkwkw. Hingga kini, teman yang masih kontak denganku sejak lama adalah Ayu dan juga Nanda. Entahlah untuk temanku yang lain wkwkwkwk. Yang pasti tidak menghilang adalah perasaanku dua orang ini dan sampai sekarang aku belum bisa memutuskan, "aku harus memperjuangkan siapa?". Karena terlalu lelah dan mengantuk, aku pun tertidur. Lagi dan lagi aku mengulangi kesalahan yang sama, tidur sebelum shalat Isya😢. Orang lain bangun malam buat Tahajud. Ini buat shalat Isya _astaghfirullah_. Semoga ini hanya awal dari sekian banyak tantangan yang aku hadapi
