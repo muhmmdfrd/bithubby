@@ -6,11 +6,11 @@ tags: [story, life, love]
 keywords: [jatuh cinta, cinta, daily, bithubby]
 description: Daily Journey
 image: "/blog/clock-2696234_640.jpg"
-date: "2024-01-02T00:34:00"
+date: "2024-01-16T01:08:00"
 ---
 
 :::success _Summary_
-2/366
+16/366
 :::
 
 <!-- truncate -->
@@ -52,3 +52,7 @@ Hari kerja pertama di tahun ini aku awali dengan bermain badminton dengan rekan 
 Ahhh kenapa seharusnya pekerjaan _simple_ ini menjadi lebih rumit. Setelah selesai bergelut hingga jam 17:30, aku pun bergegas pulang. Badan yang lelah ini karena sudah badminton dan juga sudah bekerja seharian lantas lanjut _laying up my body_. Sembari beristirahat, aku pun membalas pesan-pesan dari temanku di Bumble, Line, dan di Instagram. Memang aku belum siap menjalin hubungan karena aku sendiri tak jarang melupakan untuk membalas pesan temanku. Tapi, dulu aku sangat menantikan kabar darinya. Apakah memang aku malas untuk membalas karena aku tak ada rasa? Mungkin iya.
 
 Jadi aku senang sekadar _chat_ dengan temanku ini adalah aku tidak merasa sedih atau gimana-gimana kalau temanku tidak membalas lagi. Kalau masih balas yaa aku pun menimpalinya. Kalau tidak ya yasudah cari lagi wkwkwkw. Hingga kini, teman yang masih kontak denganku sejak lama adalah Ayu dan juga Nanda. Entahlah untuk temanku yang lain wkwkwkwk. Yang pasti tidak menghilang adalah perasaanku dua orang ini dan sampai sekarang aku belum bisa memutuskan, "aku harus memperjuangkan siapa?". Karena terlalu lelah dan mengantuk, aku pun tertidur. Lagi dan lagi aku mengulangi kesalahan yang sama, tidur sebelum shalat Isya😢. Orang lain bangun malam buat Tahajud. Ini buat shalat Isya _astaghfirullah_. Semoga ini hanya awal dari sekian banyak tantangan yang aku hadapi
+
+## 16 Januari 2024
+
+Akhirnya tugas yang selama ini aku kerjakan selesai juga. Dengan begitu, akhirnya telah resmi bahwa aku telah melewati semester 3 perkuliahan ini. Aku sadari di 2024 ini tidak ada perubahan apapun. Hidupku begitu begitu saja. Yang paling menyakitkan adalah aku kehilangan rasa _sparkling_. Sekarang aku sadar cinta itu anugerah dari Tuhan. Sekarang pun aku sadar kata-kata darinya yang mengatakan bahwa dia _numb_ karena itu yang aku rasakan. Disebut gamon yaa ngga karena aku tidak dapat merasakan apapun, disebut _move on_ ya ngga juga karena aku masih sedikitnya berharap padanya. Aku pun kehilangan gairah untuk mengungkapkan perasaanku. Aku harap masih ada kejutan yang dapat mengisi hari-hari yang kelabu ini.
