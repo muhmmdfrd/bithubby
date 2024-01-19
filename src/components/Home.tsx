@@ -10,6 +10,7 @@ import PaginatorNavLink from "@theme/PaginatorNavLink";
 import BlogPostItem from "../theme/BlogPostItem";
 import { notify } from "../helpers";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import { Qotd } from "./Qotd";
 
 interface HomeProps {
   readonly recentPosts: readonly { readonly content: Content }[];
@@ -92,6 +93,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
           />
 
           <main className="col col--7">
+            <Qotd />
             {posts.map(({ content: BlogPostContent }) => (
               <BlogPostProvider
                 key={BlogPostContent.metadata.permalink}
