@@ -6,11 +6,11 @@ tags: [story, life, love]
 keywords: [jatuh cinta, cinta, daily, bithubby]
 description: Daily Journey
 image: "/blog/clock-2696234_640.jpg"
-date: "2024-01-16T01:08:00"
+date: "2024-01-24T01:08:00"
 ---
 
 :::success _Summary_
-16/366
+24/366
 :::
 
 <!-- truncate -->
@@ -56,3 +56,11 @@ Jadi aku senang sekadar _chat_ dengan temanku ini adalah aku tidak merasa sedih 
 ## 16 Januari 2024
 
 Akhirnya tugas yang selama ini aku kerjakan selesai juga. Dengan begitu, akhirnya telah resmi bahwa aku telah melewati semester 3 perkuliahan ini. Aku sadari di 2024 ini tidak ada perubahan apapun. Hidupku begitu begitu saja. Yang paling menyakitkan adalah aku kehilangan rasa _sparkling_. Sekarang aku sadar cinta itu anugerah dari Tuhan. Sekarang pun aku sadar kata-kata darinya yang mengatakan bahwa dia _numb_ karena itu yang aku rasakan. Disebut gamon yaa ngga karena aku tidak dapat merasakan apapun, disebut _move on_ ya ngga juga karena aku masih sedikitnya berharap padanya. Aku pun kehilangan gairah untuk mengungkapkan perasaanku. Aku harap masih ada kejutan yang dapat mengisi hari-hari yang kelabu ini.
+
+## 24 Januari 2024
+
+Aku kira setelah libur semester aku akan lebih produktif. Nyatanya aku tidak bisa menuangkan isi kepalaku. Walau sudah banyak hal-hal yang ingin aku tulis, tetap saja aku tetap diam membeku saat sudah di depan laptop. Apa yang aku pikirkan? Kehilangan rasa terhadap sesuatu adalah hal yang aku alami sekarang. Baru di fase ini aku benar-benar tidak memiliki rasa suka kepada seseorang. Aku rindu semua sensasi jatuh cinta. Tidak memiliki rasa yang menggebu-gebu seperti dulu kala.
+
+Setelah aku paksakan untuk menuangkan isi kepalaku, baru saja menulis sebuah prolog aku langsung tidak bersemangat, aku hilang _desire_ untuk mengemukakan ideku. Ahh pada akhirnya aku membuka kembali One Drive tempat dimana semua kenangan tersimpan. Yaa walau aku mati rasa, tetap masih tersimpan rasaku padanya. Hanya saja tidak se-_excited_ dahulu.
+
+Orang-orang sekililing mungkin tahu kalau aku orang yang agresif dan _ngegas_. Setiap ada kesempatan pasti aku langsung _gaspoll_. Namun saat ini aku tidak melihat kesempatan apapun. Baik untuk orang yang aku kenal sebelumnya dari Reihan ataupun orang yang _match_ denganku di Bumble semuanya tidak serta menjadikan aku orang yang jatuh cinta kembali. Kembali pada dirinya, aku kembali melihat foto-foto diriku dengannya. Sebenarnya itu sangat-sangat indah. Paling mengesankan adalah diriku saat foto sepatu dan foto _selfie_ dengannya. Rasanya ingin aku _upload_ pada medsosku. Walau aku telah bertemu dengan banyak orang, tetap saja foto dengannya adalah satu-satunya yang ingin aku _upload_ foto bersamanya. Jadi semalam aku hanya membuka tulisan yang terbengkalai dan membuka foto-foto dengannya. Kapan aku bisa kembali merasakan rasa cinta itu?
