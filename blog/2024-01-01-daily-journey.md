@@ -6,11 +6,11 @@ tags: [story, life, love]
 keywords: [jatuh cinta, cinta, daily, bithubby]
 description: Daily Journey
 image: "/blog/clock-2696234_640.jpg"
-date: "2024-01-24T01:08:00"
+date: "2024-01-29T14:10:00"
 ---
 
 :::success _Summary_
-24/366
+29/366
 :::
 
 <!-- truncate -->
@@ -64,3 +64,15 @@ Aku kira setelah libur semester aku akan lebih produktif. Nyatanya aku tidak bis
 Setelah aku paksakan untuk menuangkan isi kepalaku, baru saja menulis sebuah prolog aku langsung tidak bersemangat, aku hilang _desire_ untuk mengemukakan ideku. Ahh pada akhirnya aku membuka kembali One Drive tempat dimana semua kenangan tersimpan. Yaa walau aku mati rasa, tetap masih tersimpan rasaku padanya. Hanya saja tidak se-_excited_ dahulu.
 
 Orang-orang sekililing mungkin tahu kalau aku orang yang agresif dan _ngegas_. Setiap ada kesempatan pasti aku langsung _gaspoll_. Namun saat ini aku tidak melihat kesempatan apapun. Baik untuk orang yang aku kenal sebelumnya dari Reihan ataupun orang yang _match_ denganku di Bumble semuanya tidak serta menjadikan aku orang yang jatuh cinta kembali. Kembali pada dirinya, aku kembali melihat foto-foto diriku dengannya. Sebenarnya itu sangat-sangat indah. Paling mengesankan adalah diriku saat foto sepatu dan foto _selfie_ dengannya. Rasanya ingin aku _upload_ pada medsosku. Walau aku telah bertemu dengan banyak orang, tetap saja foto dengannya adalah satu-satunya yang ingin aku _upload_ foto bersamanya. Jadi semalam aku hanya membuka tulisan yang terbengkalai dan membuka foto-foto dengannya. Kapan aku bisa kembali merasakan rasa cinta itu?
+
+## 27 Januari 2024
+
+Malam itu di Vila Lembang, dengan suasana yang dingin di tepi kolam namun penuh dengan kehangatan teman merupakan tempat dan waktu yang tepat untuk kami _deep talk_. Seketika temanku mempunyai ide, "Bagaimana kalau kita adakan _triple_ atau _quadruple date_?". Tentu saja itu pertanyaan sepele yang membuatku agak sedih sejujurnya hahaha. Yaa Alfien sihh udah punya Syifa, Reihan punya Anca, Rey walau belum jadian yaa udah dekat dengan Dhiya, lahh aku?
+
+"Berarti maneh tong ngilu Rid wkwkwkw"
+
+Ahh sial iya juga aku benar-benar tidak sedang dekat dengan siapapun. Walaupun aku _chat_ intens dengan Ayu, sudah jelas kalau aku tidak mungkin bersama dia karena aku memang berniat menjalin pertemanan saja. Begitu pun dengan Nanda, aku saat ini tidak memiliki perasaan padanya walau dia pun sering intens _chat_ denganku dan dirinya benar-benar tipeku. Aku tidak ingin menjalin hubungan jika diriku tidak memiliki perasaan. Ahh mengapa keadaan berbalik? Dulu hanya aku seorang yang memiliki kekasih. Sekarang hanya aku seorang yang tidak dekat dengan siapapun.
+
+Sejujurnya _quadruple date_ adalah hal yang paling aku idamkan, bahkan aku sering memikirkan skenario saat kami berempat membawa pasangan masing-masing. Namun hal tersebut sirna karena kenyataannya aku sedang tidak dekat dengan siapapun. Sepertinya lebih asyik jika aku dapat mengajak Syara. Aku pasti dengan bangga dapat memperkenalkannya pada teman-temanku. Namun hal itu mustahil karena kami sudah tidak dapat berkomunikasi kembali. Lagian, kalau pun berandai-andai aku dapat membawa Syara, pasti jadwalnya sangat sibuk. Dipastikan bahwa aku tidak bisa membawa siapapun kesana.
+
+Di malam itu aku pun memang agak sedih karena di sisi lain aku tidak dapat merasakan _euforia_ rasa suka terhadap seseorang dan juga aku tertinggal dengan teman-temanku yang masing-masing sudah memiliki pacar. Sepertinya 2024 akan menjadi tahun yang berat dan hampa. Siapakah yang dapat mengisi hatiku kelak?
