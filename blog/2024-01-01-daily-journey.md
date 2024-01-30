@@ -6,11 +6,11 @@ tags: [story, life, love]
 keywords: [jatuh cinta, cinta, daily, bithubby]
 description: Daily Journey
 image: "/blog/clock-2696234_640.jpg"
-date: "2024-01-29T14:10:00"
+date: "2024-01-29T01:07:00"
 ---
 
 :::success _Summary_
-29/366
+30/366
 :::
 
 <!-- truncate -->
@@ -76,3 +76,7 @@ Ahh sial iya juga aku benar-benar tidak sedang dekat dengan siapapun. Walaupun a
 Sejujurnya _quadruple date_ adalah hal yang paling aku idamkan, bahkan aku sering memikirkan skenario saat kami berempat membawa pasangan masing-masing. Namun hal tersebut sirna karena kenyataannya aku sedang tidak dekat dengan siapapun. Sepertinya lebih asyik jika aku dapat mengajak Syara. Aku pasti dengan bangga dapat memperkenalkannya pada teman-temanku. Namun hal itu mustahil karena kami sudah tidak dapat berkomunikasi kembali. Lagian, kalau pun berandai-andai aku dapat membawa Syara, pasti jadwalnya sangat sibuk. Dipastikan bahwa aku tidak bisa membawa siapapun kesana.
 
 Di malam itu aku pun memang agak sedih karena di sisi lain aku tidak dapat merasakan _euforia_ rasa suka terhadap seseorang dan juga aku tertinggal dengan teman-temanku yang masing-masing sudah memiliki pacar. Sepertinya 2024 akan menjadi tahun yang berat dan hampa. Siapakah yang dapat mengisi hatiku kelak?
+
+## 30 Januari 2024
+
+Malam tadi aku merasakan hal yang tak bisa aku ungkapkan. Entahlah rasanya seperti karuan. Ya aku tahu semua orang punya _strugle_-nya masing-masing. Aku berkutat pada kenyataan bahwa aku sedang menanggung banyak biaya, terutama biaya kuliah. 24 sks ternyata memakan banyak uang yaa wkwkwwk. Ya mau tidak mau aku harus mengumpulkan uang lagi untuk aku berkuliah di semester depan. Bukan hanya itu, di samping 24 sks pun aku mulai mengerjakan pekerjaan "lembur" demi bisa meraih bonus. Ya bonus itu akan ku pakai untuk bayar kuliah juga. Tapi apakah bisa aku mengimbangi kuliah 24 sks dan juga lembur yang dimana aku akan bekerja setiap hari, _literally_ setiap hari sampai satu bulan lamanya? Tak lupa aku pun mengambil _freelance_ demi uang kuliahku. Jadi lengkap sudah antara 24 sks + lembur setiap hari + freelance. Oh tidak, belum lengkap. Semua dikerjakan oleh kesendirian wkwkwk. Lagi dan lagi aku terus "kepikiran" siapa sihh yang akan aku perjuangkan nantinya? Siapa yang akan berada di sampingku? Siapa yang dapat mencintai dengan penuh tanpa perlu untuk menutupi bagian yang aku tutupi?
