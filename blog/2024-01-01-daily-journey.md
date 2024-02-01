@@ -6,7 +6,7 @@ tags: [story, life, love]
 keywords: [jatuh cinta, cinta, daily, bithubby]
 description: Daily Journey
 image: "/blog/clock-2696234_640.jpg"
-date: "2024-01-31T02:12:00"
+date: "2024-02-01T02:12:00"
 ---
 
 :::success _Summary_
