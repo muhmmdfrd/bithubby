@@ -6,11 +6,11 @@ tags: [story, life, love]
 keywords: [jatuh cinta, cinta, daily, bithubby]
 description: Daily Journey
 image: "/blog/clock-2696234_640.jpg"
-date: "2024-01-29T01:07:00"
+date: "2024-01-31T02:12:00"
 ---
 
 :::success _Summary_
-30/366
+32/366
 :::
 
 <!-- truncate -->
@@ -80,3 +80,9 @@ Di malam itu aku pun memang agak sedih karena di sisi lain aku tidak dapat meras
 ## 30 Januari 2024
 
 Malam tadi aku merasakan hal yang tak bisa aku ungkapkan. Entahlah rasanya seperti karuan. Ya aku tahu semua orang punya _strugle_-nya masing-masing. Aku berkutat pada kenyataan bahwa aku sedang menanggung banyak biaya, terutama biaya kuliah. 24 sks ternyata memakan banyak uang yaa wkwkwwk. Ya mau tidak mau aku harus mengumpulkan uang lagi untuk aku berkuliah di semester depan. Bukan hanya itu, di samping 24 sks pun aku mulai mengerjakan pekerjaan "lembur" demi bisa meraih bonus. Ya bonus itu akan ku pakai untuk bayar kuliah juga. Tapi apakah bisa aku mengimbangi kuliah 24 sks dan juga lembur yang dimana aku akan bekerja setiap hari, _literally_ setiap hari sampai satu bulan lamanya? Tak lupa aku pun mengambil _freelance_ demi uang kuliahku. Jadi lengkap sudah antara 24 sks + lembur setiap hari + freelance. Oh tidak, belum lengkap. Semua dikerjakan oleh kesendirian wkwkwk. Lagi dan lagi aku terus "kepikiran" siapa sihh yang akan aku perjuangkan nantinya? Siapa yang akan berada di sampingku? Siapa yang dapat mencintai dengan penuh tanpa perlu untuk menutupi bagian yang aku tutupi?
+
+## 1 Februari 2024
+
+Bulan Februari akhirnya telah tiba. Bulan kelahiranku yang menandakan bahwa aku genap 22 tahun. Bulan Februari juga menjadi _checkpoint_ bahwa sudah sebulan di tahun 2024 ini aku belum juga merasakan kembali rasa menggebu-gebunya jatuh cinta. Jika dilihat di tahun 2023, bulan Januari sepertinya menjadi bulan yang penuh akan kupu-kupu di perutku. Bagaimana rasanya menunggu balasan dari dirinya, _dag dig dug_ saat mendengar notifikasinya. Ya walau terlalu cepat sih aku _confess_ padanya hahaha. Tak lupa di bulan ini juga aku pertama kalinya bertemu lagi dengan mantanku setelah 7 tahun berpisah, walau ya itu tidak bertahan lama. 2023 yang penuh warna.
+
+sedangkan di Februari 2024, entahlah apa yang akan terjadi selain aku yang lembur setiap hari pada bulan ini. Tidak ada lagi yang namanya hati berbunga-bunga, tidak ada lagi yang dapat mengingat diriku, tidak ada lagi orang yang aku tunggu notifikasinya. Aku tetap percaya di depan sana akan ada hal yang membuat aku sangat bahagia. _Well, just wait and see it_.
