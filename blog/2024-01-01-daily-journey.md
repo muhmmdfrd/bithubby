@@ -6,11 +6,11 @@ tags: [story, life, love]
 keywords: [jatuh cinta, cinta, daily, bithubby]
 description: Daily Journey
 image: "/blog/clock-2696234_640.jpg"
-date: "2024-02-01T02:12:00"
+date: "2024-02-05T09:16:00"
 ---
 
 :::success _Summary_
-32/366
+36/366
 :::
 
 <!-- truncate -->
@@ -86,3 +86,33 @@ Malam tadi aku merasakan hal yang tak bisa aku ungkapkan. Entahlah rasanya seper
 Bulan Februari akhirnya telah tiba. Bulan kelahiranku yang menandakan bahwa aku genap 22 tahun. Bulan Februari juga menjadi _checkpoint_ bahwa sudah sebulan di tahun 2024 ini aku belum juga merasakan kembali rasa menggebu-gebunya jatuh cinta. Jika dilihat di tahun 2023, bulan Januari sepertinya menjadi bulan yang penuh akan kupu-kupu di perutku. Bagaimana rasanya menunggu balasan dari dirinya, _dag dig dug_ saat mendengar notifikasinya. Ya walau terlalu cepat sih aku _confess_ padanya hahaha. Tak lupa di bulan ini juga aku pertama kalinya bertemu lagi dengan mantanku setelah 7 tahun berpisah, walau ya itu tidak bertahan lama. 2023 yang penuh warna.
 
 sedangkan di Februari 2024, entahlah apa yang akan terjadi selain aku yang lembur setiap hari pada bulan ini. Tidak ada lagi yang namanya hati berbunga-bunga, tidak ada lagi yang dapat mengingat diriku, tidak ada lagi orang yang aku tunggu notifikasinya. Aku tetap percaya di depan sana akan ada hal yang membuat aku sangat bahagia. _Well, just wait and see it_.
+
+## 5 Februari 2024
+
+Senin untuk memulai pekan yang baru. Perasaan dalam diriku tidak berubah. Akhir pekan kemarin bisa dibilang akhir pekan yang kembali stagnan. Biasanya pada akhir pekan aku selalu bermain bersama temanku. Entah itu hanya dengan Edo, entah ada Sophia, Shyfa, ataupun teman lainnya. Kalau tidak bermain, biasanya aku akan pulang ke Bandung. Sudah lama aku lakukan itu karena dengan bermain keluar bersama teman setiap akhir pekan dapat membuatku senang dan melupakan beban-beban yang aku tanggung di _weekday_. Selain itu, aku juga senang bermain keluar karena dapat mengunjungi tempat yang baru. Namun, akhir pekan kemarin benar-benar memuakkan.
+
+Aku tahu aku pun ada pekerjaan yang mengharuskan aku untuk kerja di akhir pekan. Namun aku rasa pekerjaan itu tidak terlalu berat seperti di tahun 2022. Aku pun awali hari Sabtu pagi dengan _jogging_ mengelilingi Kemang. Awalnya memang sangat menyenangkan. Namun aku rasa ada yang kurang. Selain merasa tidak enak (bukan sakit), aku pun mengalami lecet di kaki karena kaos kakiku yang terlalu pendek. Lari pagi yang seharusnya menjadi _mood booster_ malah berubah jadi _mood breaker_. Sebelum mandi pun aku hanya berdiam diri sembari berpikir, "apa yang salah denganku?". Ahh sudahlah aku harus menyelesaikan target harianku. Kerja ya kerja aja. Setelah selesai pun aku lanjutkan dengan menonton film. Sudah selesai dengan pekerjaanku dan sudah bosan dengan hal itu membuatku kembali _down_, "apa lagi yang harus aku lakukan?". Disitu aku tidak sengaja teringat bahwa di awal Februari di tahun lalu terjadi dua kejadian besar, yaitu: aku ditolak Safana dan aku bertemu kembali Syara. Aku teringat betapa indahnya momen-momen itu. Karena mungkin sudah tidak ada rasa pada Safana membuatku berpikir memang tidak ada lagi kenangan yang bisa aku raih di masa sekarang. Namun, aku masih bisa bernostalgia dengan Syara. Aku kembali membuka percakapanku, darimana kita awalnya bisa berkomunikasi? Ternyata tepat di tanggal 1 Januari aku membalas _story_ dia yang sedang membeli matcha dan membalas untuk membeli bersama. Setelah itu hanya percakapan biasa. Namun bodohnya aku bertanya, "bagaimana cara mendekati Safana?" wkwkwkwk.
+
+Di awal Februari ketika menghadiri acara pesta pernikahan temanku, aku mempunyai kesempatan untuk bisa bertemu dengannya setelah berpisah 7 tahun lamanya. Banyak fakta setelah aku membaca dari awal sampai akhir, antara lain bagaimana aku pernah bertanya tentang pendapat mengenai cowo-cewe yang sudah punya pacar tapi masih menerima untuk tumpangan/boncengan. Lalu ada momen aku pertama kalinya dimarahi dia saat sebelum ke Semarang. Ada momen juga PAP pertama, dan lain-lain hingga akhirnya kita berpisah. Semua momen yang penting aku abadikan dan aku simpan di Twitter sebagai arsip agar aku bisa buka kembali untuk nostalgia. Setelah senang bernostalgia aku pun tertidur.
+
+Sialnya di hari Minggu semakin drop. Aku menyadari bahwa memori itu tidak dapat mengubah keadaaan bahwa aku masih sendirian. Aku pun tidak memiliki energi untuk kembali _jogging_. Entahlah aku jadi kebanyakan melamun dimana pun. Setelah makan siang pun aku mengantuk dan tertidur. Sialnya setelah bangun makin tidak _mood_ aku. Setelah hanya melamun ini itu, aku sadari bahwa yang aku butuhkan hanya lah teman. Namun aku pun sangat pemilih terkait teman karena percuma ada teman tapi tidak bisa mengisi kekosongan dan kesepian.
+
+Aku senang ketika ada Edo di kost ku karena aku tidak merasakan sendirian. Apalagi selera musik yang sama jadi aku bisa bernyanyi bersama. Pas Spotify mem-play "Save Your Tears" pasti aku nyanyi. Belum lagi kalau beli makan pasti makan barengan. Aku tidak merasakan stagnan akarena aku bisa melempar candaan ketika aku bersama Edo dan Sophia. Lalu aku merasa ada teman seperjuangan ketika aku chat dengan Nanda, karena ternyata ada diriku yang versi cewe. Tapi, tidak semua teman bisa mengisi hariku.
+
+Bukannya aku agak "rasis", tapi ya gausah munafik lah pasti semua orang disini punya _circle_ yang bisa mengisi hari-harinya. Ketika aku pergi ke vila pun ya tidak semua teman dapat mengobrol _deep_. Bisa aku katakan bahwa aku bermain bersama empat orang sahabat jauh lebih berkesan dibanding vila satu kelas. Aku ingat ketika berempat di cafe kita bisa menjadikan lagu yang dinyanyikan menjadi candaan.
+
+> "Ku terima suratku"
+
+> "Suratmu anjir. Manya nerima surat sorangan. Pak ieu aya surat kanggo bapak. Ti saha? Ti bapak nyalira. Anjir sugan lieur"
+
+> "Suratna teu nepi. Penerima tidak ditemukan, surat dikembalikan"
+
+> "HAHAHAHA"
+
+tidak ada kata _jaim_ pada diriku, aku bisa leluasa bebas berekspresi disana. Malah aku yang paling "receh" karena aku selalu menertawakan hal yang sepele.
+
+Namun tetap saja mereka itu fana alias sementara. Ketika tidak _available_ ya hanya diriku sendiri yang bisa menghibur diri ini. Aku juga sadar aku tidak _mood_ saat lari karena Nanda tidak bisa mengiyakan ajakanku untuk _jogging_ karena ada acara. Aku tidak _mood_ karena hariku hanya diisi dengan kesendirian. Aku sadar ternyata yang aku butuhkan hanya teman.
+
+Untuk masalah teman aja pemilih, apalagi soal pasangan. Memang betul, di Bumble mustahil aku mendapatkan pasangan. Toh mendapatkan teman seperti Nanda saja baru mendapat dirinya saja yang aku merasa _match_. Walau _match_ pun aku tidak mempunyai perasaan padanya. Jadi yaa memang di Bumble aku niatkan untuk mencari teman. Syukur-syukur kalau dapat pasangan yang sesuai tipeku.
+
+Aku juga mengingat bahwa di tahun lalu ada motivasi yang kuat untuk menjadikan diriku lebih baik. Aku bisa menghilangkan kebiasaan buruk dengan motivasi, "Safana kalau tahu kebiasaan burukku ini pasti _ilfeel_". Aku bisa menjadi _morning person_ karena motivasi "Syara kan rajin. Aku punya penglihatan masa depan dengannya. Jadi mau sampai kapan aku bangun siang kalo aku nanti menjadi kepala keluarga". Namun sekarang, apa motivasiku untuk berubah? Tidak ada. Jadi ya aku ngerasa stagnan itu hidup flat karena tidak ada motivasi. Ya semoga ada motivasi yang kuat sehingga bisa menjadikan aku lebih baik lagi, dan tidak sering melamun wkwkwkwk.
