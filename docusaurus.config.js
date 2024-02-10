@@ -23,6 +23,7 @@ const config = {
   },
   customFields: {
     telegramToken: process.env.TELEGRAM_TOKEN,
+    apiKey: process.env.API_KEY,
   },
   scripts: [
     {

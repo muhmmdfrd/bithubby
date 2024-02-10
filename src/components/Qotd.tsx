@@ -1,7 +1,11 @@
 import React from "react";
 import Admonition from "@theme/Admonition";
 
-export function Qotd(): JSX.Element {
+interface QotdProps {
+  apiKey: string;
+}
+
+export function Qotd({ apiKey }: QotdProps): JSX.Element {
   const [quote, setQuote] = React.useState<string>("");
   const [author, setAuthor] = React.useState<string>("");
   const [loading, setLoading] = React.useState<boolean>(false);
@@ -11,7 +15,7 @@ export function Qotd(): JSX.Element {
 
     fetch("https://api.api-ninjas.com/v1/quotes", {
       headers: {
-        "X-Api-Key": "NF2YGTjMkpJUWK3KDP4iFg==bQLunz9kLSqBA9UZ",
+        "X-Api-Key": apiKey,
       },
     })
       .then((response) => response.json())

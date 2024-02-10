@@ -93,7 +93,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
           />
 
           <main className="col col--7">
-            <Qotd />
+            <Qotd apiKey={customFields.apiKey.toString()} />
             {posts.map(({ content: BlogPostContent }) => (
               <BlogPostProvider
                 key={BlogPostContent.metadata.permalink}
