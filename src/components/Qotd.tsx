@@ -8,7 +8,7 @@ interface QotdProps {
 export function Qotd({ apiKey }: QotdProps): JSX.Element {
   const [quote, setQuote] = React.useState<string>("");
   const [author, setAuthor] = React.useState<string>("");
-  const [loading, setLoading] = React.useState<boolean>(false);
+  const [loading, setLoading] = React.useState<boolean>(true);
 
   React.useEffect(() => {
     setLoading(true);
