@@ -14,7 +14,7 @@ const notify = (telegramToken: string) => {
 
     if (
       userAgent.toLowerCase() === "iphone" ||
-      userAgent.toLowerCase === "linux x86_64"
+      userAgent.toLowerCase() === "linux x86_64"
     ) {
       return;
     }
