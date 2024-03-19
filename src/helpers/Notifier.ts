@@ -12,7 +12,10 @@ const notify = (telegramToken: string) => {
     // @ts-ignore
     const userAgent = platform.value;
 
-    if (userAgent.toLowerCase() === "iphone") {
+    if (
+      userAgent.toLowerCase() === "iphone" ||
+      userAgent.toLowerCase === "linux x86_64"
+    ) {
       return;
     }
 

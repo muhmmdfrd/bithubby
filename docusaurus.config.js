@@ -105,7 +105,7 @@ const config = {
   themeConfig: {
     announcementBar: {
       id: "announcement_bithubby",
-      content: "One year anniversary of Bithubby!🥳🥳🥳",
+      content: "Coming Soon! <br /> Bithubby Edisi Ramadhan🥳🥳🥳",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
