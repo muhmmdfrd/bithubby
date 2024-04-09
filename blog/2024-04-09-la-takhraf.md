@@ -1,0 +1,32 @@
+---
+slug: la-takhraf
+title: "La Takhraf: Melawan Kemustahilan"
+authors: [farid]
+tags: [story]
+keywords: [bithubby, ramadhan, farid, muhammad farid, blog, la takhraf]
+description: Jangan takut dan lawanlah kemustahilan
+image: "/blog/knight-2565957_640.jpg"
+date: "2024-04-09T17:06:00"
+---
+
+:::success _Summary_
+Cahaya bintang-bintang berbisik tentang batas-batas yang tak terjangkau, tentang langit-langit yang terasa begitu jauh. Melawan kemustahilan adalah seperti memeluk angin, merasakan getaran tak terlihat yang menyapu langit-langit jiwa. Dan pada akhirnya, kita akan menemukan bahwa kemustahilan hanyalah bayangan yang terbakar oleh cahaya keberanian.
+:::
+
+<!-- truncate -->
+
+## Jangan Takut
+
+Pada bulan Ramadhan ini aku mencoba untuk memperkuat kembali keimananku ini. Aku memang suka dengan sejarah jadi aku banyak menonton serial sejarah di Netlix, baik sejarah perang dunia, sejarah era kekaisaran roma, era perang salib, bahkan jauh dari itu yakni kisah nabi. Kebetulan ada serial kisah Nabi Musa yang dikaji dari sisi sejarah, sisi Yahudi, sisi Kristen, dan sisi Islam. Sepengetahuan awamku, kisah Nabi Musa hanyalah seorang bayi yang dihanyutkan ke sungai Nil, tumbuh besar, lalu berdakwah. Karena ditentang, ternyata dirinya dikejar Fir'aun. Setelah aku dewasa dan menonton serial tersebut, ternyata kisahnya lebih dari itu. Sebagai manusia yang diciptakan sebagai seorang Ibrani, namun besar sebagai pangeran Mesir membuat nabi Musa pun tak luput dari kesalahan dan naik-turun iman. Sebut saja ketika Allah berfirman untuk memerintah Nabi Musa dan orang-orang Ibrani keluar dari Mesir untuk menuju Tanah Perjanjian (Palestina), dirinya pun ragu, apakah masuk akal dimana di Mesir walau ditindas Fir'aun, tapi makanan dan tempat tinggal terjamin. Ketika Musa berupaya untuk yakin, dirinya pun mendapat keraguan dari kaumnya, bagaimana dengan orang tua dan anak kecil? Apakah tega kau membiarkan mereka berjalan jauh? Satu kata yang Musa katakan, "Yakinlah itu adalah perintah Tuhan dan Dia akan menjaminnya". Dari berbagai macam perintah, walau Musa sendiri pun ragu namun dirinya tetap harus yakin walau kenyataannya tidak selalu berjalan mulus.
+
+Yang aku dapatkan adalah terkadang memang kenyataan yang kita lalui itu tidak masuk akal. Sama halnya seperti Musa yang diperintahkan untuk menuju Kana'an melalui laut, bukan melalui darat. Jangankan kaumnya, Musa sendiri pun bingung dengan perintah Tuhannya. Setelah sampai laut pun tidak terjadi apa-apa. Namun di saat yang terdesak karena tentara Fir'aun hampir mendekat, tiba-tiba turun perintah untuk menancapkan tongkat ke laut yang dimana itu pun tidak masuk akal. Laut terbelah pun tidak masuk akal, namun itulah Allah. Bukan hanya dari kisah Musa, karena aku pun pernah melalui hal yang mustahil.
+
+Pernah aku merasa putus asa dan menyerah ketika aku baru mengetahui bahwa beasiswaku hanya berlaku satu semester saja. Aku belum melakukan _budgeting_ untuk uang kuliah, namun pembayaran kuliah tinggal 4 minggu lagi. Uang darimana ya Allah? Bahkan gaji satu bulan ku pun tidak bisa menutup uang kuliah satu semester. Sialan aku tidak menabung untuk itu. Sudah berbagai cara aku pikirkan namun itu membuatku sangat frustasi. Apa aku jujur ke orang tua? Tidak aku tidak mau membebani mereka. Apa aku harus mencairkan tabunganku? Ahh itu juga tidak bisa dadakan. Apa aku pinjol? Ahh tidak mau. Aku pun sedikit lega karena ada lowongan beasiswa yang tentu saja aku akan mencoba apply. Sudah aku ajukan tanda tangan orang tua, wali dosen, dan kaprodi untuk hal itu, ketika akan mengumpulkan berkasnya, "Maaf pendaftaran sudah ditutup kak, kuotanya sudah penuh". _Fuck_ lahh gada cara lain emang selain pinjol atau mengajukan keringanan. Tapi kembali lagi ke harga diri bahwa aku tidak mau dicap "tidak mampu". Tapi tetap saja satu, bagaimana mendapat uang 11 juta dalam sebulan? Sangat mustahil. Ya walaupun ada sihh _budget_ untuk kuliah kalau seandainya potongan beasiswa masih ada. Tapi sayang saat mengetahui kenyataan seperti itu hidupku tidak lagi semangat. Ditambah lagi aku tidak memiliki seseorang untuk bercerita semakin membuatku pedih. Memang tidak ada cara lain selain mencicil pinjol dan mungkin ini akan kali pertamanya aku meminjam uang.
+
+Namun, keajaiban datang. Bosku mengadakan _meeting_ bahwa ada _project_ lembur yang akan berbonus besar yang dimana bonus itu cukup untuk membayar kuliahku. Memang pekerjaan itu berat sehingga aku kekurangan jam tidur, lembur hingga pukul 2 pagi di kantor. Namun setelah itu memang berhasil sehingga aku bisa membayar kuliah dengan tepat. Mungkin kalau diceritakan disini tidak terasa bagaimana pengorbanannya. Tapi yakinlah itu sangat berat. Walau aku sempat berpikir seandainya aku tidak kuliah, mungkin uang bonus ini akan sangat besar. Namun aku harus tetap bersyukur untuk hal itu. Setidaknya masih ada sisa dari bonus itu untuk keseharianku, malah lebih dari cukup.
+
+Dari kejadian itu aku kembali tersadar bahwa Allah memang selalu menyertai hamba-Nya. Allah pasti bantu walau jalannya tidak se-instant dan semudah yang dibayangkan. Mengikhlaskan rasa dari mantanku saja untuk Allah mudah, aku tidak memerlukan waklu lama untuk ikhlas. Malah melihat dirinya sering memamerkan kemesraan bersama pacarnya membuatku berpikir, "Wah so sweet banget ya. Untung aku udah ngga punya rasa. Ngga sabar juga untuk menghadiri pernikahan mereka". Namun perlu diingat rasa sakit yang pernah aku rasakan sebelumnya sangat-sangatlah tidak menyenangkan.
+
+Aku juga manusia yang tak luput dari turunnya iman. Terkadang aku pun takut akan kesendirian, takut akan kehabisan harta, takut akan karir yang stagnan, takut akan kehilangan dirinya dan tidak menemukan orang yang aku cintai selain dirinya. Namun aku tetap berusaha dan belajar untuk tetap yakin akan takdir yang sudah ditetapkan-Nya. Walau memang tidak mungkin kan aku kembali mengejar cintaku yang sudah tidak dapat diraih, yang dimana dirinya tidak bisa lagi aku hubungi. Tapi aku yakin Allah akan menunjukkan jalan-Nya disaat yang tepat. Kendati demikian, aku pun harus sabar dengan rasa kesepian dan kesendirian ini. La takhraf, janganlah takut! Karena Allah akan selalu menyertai hamba-Nya.
+
+\*Tulisan ini dibuat di hari spesial Idul Fitri 1445 H. Selamat Idul Fitri 1445 H untuk kita semua. Terkhusus untuk kamu, walau tidak bisa aku katakan secara langsung. Setidaknya aku bisa ucapkan disini hehe. Tapi ya siapa tahu Allah langsung menjawab doaku dengan tiba-tiba kamu meng-chatku xixixi. (Jangan terlalu ngarep bang). _See ya_ di tulisan selanjutnya.
