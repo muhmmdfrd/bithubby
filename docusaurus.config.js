@@ -105,7 +105,7 @@ const config = {
   themeConfig: {
     announcementBar: {
       id: "announcement_bithubby",
-      content: "Coming Soon! Bithubby Edisi Ramadhan🥳🥳🥳",
+      content: "Selamat Hari raya IdulFitri 1445 H🥳🥳🥳",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
