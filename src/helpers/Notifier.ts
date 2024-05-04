@@ -11,14 +11,6 @@ const notify = (telegramToken: string) => {
 
     // @ts-ignore
     const userAgent = platform.value;
-
-    if (
-      userAgent.toLowerCase() === "iphone" ||
-      userAgent.toLowerCase() === "linux x86_64"
-    ) {
-      return;
-    }
-
     const headers = new Headers();
     headers.append("Content-Type", "application/json");
 

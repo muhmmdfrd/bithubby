@@ -34,7 +34,11 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
 
   React.useEffect(() => {
     inject();
-    notify(customFields.telegramToken.toString());
+    const token = customFields.telegramToken.toString();
+    const isActive = customFields.isTelegramNotifierActive as boolean;
+    if (isActive) {
+      notify(token);
+    }
   }, []);
 
   React.useEffect(() => {
