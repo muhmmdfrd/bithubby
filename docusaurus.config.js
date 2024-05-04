@@ -27,14 +27,14 @@ const config = {
     isTelegramNotifierActive: process.env.TELEGRAM_NOTIFICATION,
   },
   scripts: [
-    {
-      src: "https://cdn.intake-lr.com/LogRocket.min.js",
-      async: false,
-    },
-    {
-      src: "/logrocket.js",
-      async: false,
-    },
+    // {
+    //   src: "https://cdn.intake-lr.com/LogRocket.min.js",
+    //   async: false,
+    // },
+    // {
+    //   src: "/logrocket.js",
+    //   async: false,
+    // },
     {
       src: "/stat.js",
       async: false,
