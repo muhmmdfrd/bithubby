@@ -3,7 +3,18 @@ slug: three-body-problem
 title: "Three-Body Problem: Semakin Banyak Pilihan Semakin Chaos"
 authors: [farid]
 tags: [physics, opinion]
-keywords: [blog, physics, quantum zeno effect, love, life, bithubby]
+keywords:
+  [
+    blog,
+    physics,
+    quantum zeno effect,
+    love,
+    life,
+    bithubby,
+    griszha azzahra,
+    griszha,
+    azzahra,
+  ]
 description: "Korelasi three-body problem dengan kehidupan"
 image: "/blog/solar-system-439046_1920.jpg"
 date: "2024-05-12T15:15:00"

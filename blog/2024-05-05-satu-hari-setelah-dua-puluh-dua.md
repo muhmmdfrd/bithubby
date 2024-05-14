@@ -3,7 +3,16 @@ slug: satu-hari-setelah-dua-puluh-dua
 title: Satu Hari Setelah Dua Puluh Dua
 authors: [farid]
 tags: [story]
-keywords: [bithubby, zahraisza, karyakarsa, satu hari sebelum sembilan belas]
+keywords:
+  [
+    bithubby,
+    zahraisza,
+    karyakarsa,
+    satu hari sebelum sembilan belas,
+    griszha azzahra,
+    griszha,
+    azzahra,
+  ]
 description: Balasan untuk Satu Hari Sebelum Sembilan Belas
 image: "/blog/calendar-1763587_640.png"
 date: "2024-05-04T16:35:00"

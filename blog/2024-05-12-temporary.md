@@ -3,7 +3,7 @@ slug: temporary
 title: "Temporary: Semua Hanya Sementara"
 authors: [farid]
 tags: [story]
-keywords: [bithubby, temp, temporary, blog]
+keywords: [bithubby, temp, temporary, blog, griszha azzahra, griszha, azzahra]
 description: Semua hanya sementara
 image: "/blog/overtake-3396909_640.jpg"
 date: "2024-05-12T08:07:00"
