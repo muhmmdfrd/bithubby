@@ -1,6 +1,3 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require("prism-react-renderer").themes.github;
 const darkCodeTheme = require("prism-react-renderer").themes.dracula;
 
@@ -138,13 +135,6 @@ const config = {
               label: "Github",
               href: "https://github.com/muhmmdfrd",
             },
-            {
-              html: `
-                  <a href="https://github.com" target="_blank" rel="noreferrer noopener" aria-label="Stored at Github">
-                    <img src="/img/github-white.png" alt="Github Logo" width="114" />
-                  </a>
-                `,
-            },
           ],
         },
         {
@@ -153,14 +143,6 @@ const config = {
             {
               label: "Twitter",
               href: "https://twitter.com/bithubby",
-            },
-            {
-              html: `
-                  <div style="margin-bottom: 8px"></div>
-                  <a href="https://twitter.com" target="_blank" rel="noreferrer noopener" aria-label="twitter">
-                    <img src="/img/twitter-white.png" alt="Twitter Logo" width="44" />
-                  </a>
-                `,
             },
           ],
         },
@@ -171,14 +153,6 @@ const config = {
               label: "Facebook",
               href: "https://web.facebook.com/muhmmdfrd",
             },
-            {
-              html: `
-                  <div style="margin-bottom: 8px"></div>
-                  <a href="https://facebook.com" target="_blank" rel="noreferrer noopener" aria-label="fb">
-                    <img src="/img/fb-white.png" alt="Facebook Logo" width="44" />
-                  </a>
-                `,
-            },
           ],
         },
         {
@@ -187,14 +161,6 @@ const config = {
             {
               label: "Instagram",
               href: "https://www.instagram.com/muhmmdfrd_",
-            },
-            {
-              html: `
-                  <div style="margin-bottom: 8px"></div>
-                  <a href="https://instagram.com" target="_blank" rel="noreferrer noopener" aria-label="ig">
-                    <img src="/img/ig-white.png" alt="Instagram Logo" width="44" />
-                  </a>
-                `,
             },
           ],
         },
