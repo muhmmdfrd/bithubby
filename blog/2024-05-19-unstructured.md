@@ -5,7 +5,7 @@ authors: [farid]
 tags: [story]
 keywords: [blog, bithubby]
 description: Unstructured
-image: "/blog/tree-30974191280.jpg"
+image: "/blog/tree-3097419_1280.jpg"
 date: "2024-05-19T09:04:00"
 ---
 
