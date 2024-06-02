@@ -1,0 +1,28 @@
+---
+slug: rumah-demi-rumah
+title: Rumah demi Rumah
+authors: [farid]
+tags: [story]
+keywords: [blog, bithubby]
+description: Farid yang membutuhkan rumah
+image: "/blog/home-5889366_1280.jpg"
+date: "2024-06-02T08:04:00"
+---
+
+:::success Summary
+"Berharap bisa berujung indah. Walau akhirnya harus berpisah. Mengambil pelajaran jika berpisah" ~ Hindia
+:::
+
+<!-- truncate -->
+
+## Arti Rumah
+
+BLAKKK!!! Pintu kamar tertutup sangat keras dan ia menangis dengan sejadi-jadinya. Tak peduli tangisan tersebut memecahkan suasana disana. Tak peduli juga apa komentar penghuni rumah, yang penting dirinya sangat nyaman bisa meluapkan apa yang dirasakannya. Mungkin berbeda jika dirinya menangis di saat dirinya berada di kota perantauan atau mungkin pekerjaan yang begitu besar dan berat yang ia emban membuat dirinya tak kuasa atas bebannya. Namun, akan berbeda walau dirinya di rumah menangis dengan pekik dan tidak ada yang memerdulikannya. Semua hal itu tergantung pada rumah yang ia tempati. Rumah itu kebutuhan _primary_ yang harus ada sebagai tempat berlindung dari panas dan hujan. Selain itu, rumah secara psikologi juga adalah tempat untuk bisa kembali pulang setelah berperang dengan keadaan di luar yang tak tentu.
+
+Jumat lalu aku tidak merasa fit, tubuhku serasa panas. Karena sebelumnya aku memang sedang radang dan entah mengapa Kamis sore saat di kantor aku sudah merasa meriang dan terbukti bahwa aku tertidur sangat lelap dari sore sampai pagi hari, mungkin kurang lebih 12 jam lamanya aku tertidur dengan lengkap menggunakan pakaiaan saat bekerja. Notifikasiku hanya terdapat pemberitahuan bahwa kelas malam akan segera dimulai. Sial aku melewatinya. Selain itu tidak ada apa-apa lagi disana. Perasaan ini seperti me-recall ingatanku kala itu yang berdarah-darah menghadapi rasa yang campur aduk sendiri, bahkan orang yang setia padaku tak peduli dengan keadaaanku. Kost ini sepertinya bukan tempatku untuk pulang karena aku bingung apa yang aku lakukan setelah sampai di kost. Berlama-lama di kantorku pun aku tidak tahu harus apa karena aku sendiri tidak bermain game layaknya teman-temanku. Setibanya di kost, apa lagi? Yang aku harapkan setiap detik adalah mukjizat bahwa sesuatu yang magis datang menghampiriku. Benar bahwa "_But I love to be in trouble with you_". Punya pacar iya pusing sihh tapi aku rasa lebih pusing gaada kegiatan apapun.
+
+Sudah menjadi kebiasaanku kalau aku sering memasukkan lagu yang masuk di telingaku ke _playlist_ tanpa tahu apa artinya atau apa makna di balik lagu tersebut. Aku sudah lama tahu dan dengar lagu Hindia "Rumah ke Rumah". Setelah melihat MV-nya di YouTube... WOW INI SEPERTI IMPIANKU. Aku rasa wanitanya pun seperti tipeku karena ia tidak mengenakan busana yang aneh-aneh, lalu juga dari wajahnya sangat terlihat natural dan gaya pacarannya menurutku _goals_ banget. Apalagi aku suka dengan mengabadikan momen. Aku sangat ngebet mempunyai seseorang. Dan aku pikir setidaknya sebelum ke jenjang pernikahan aku ingin menjalankan pacaran seperti itu dulu, karena yaa kalau udah nikah sepertinya beda ya rasanya. Belum lagi banyak pikiran tentang galon air, gas, token listrik dan ini-itu. Kalau masih pacaran kan masih _having fun_ belum ada pikiran ke arah sana dengan semua problematika rumah tangga. Masalahnya tidak ada yang bisa aku ajak _have fun_ seperti di MV Hindia Rumah ke Rumah.
+
+Lagu itu menggambarkan orang-orang yang sudah pernah menjadi rumah bagi Baskara walau ya tidak semuanya berujung indah. Aku sulit sekali menggambarkan rumah yang aku inginkan karena seringkali aku terlalu pemilih untuk sosok "rumah" itu. Jangankan mencari rumah dalam pengandaian, rumah secara harafiah di masa mendatang pun sepertinya aku akan sangat pemilih. Kamar mandinya harus bagus, kamar tidur juga nyaman dan adem, tidak ada satu titik yang kotor nan kumuh. Pokoknya setiap pojok itu harus bersih. Sama halnya aku tidak pindah kost karena aku sudah sangat nyaman dengan kamar kost ku kini. Baik rumah secara harfiah atau rumah secara makna sama-sama aku terlalu pemilih. Sekarang ini aku selalu dibuat frustasi dibuatnya. Saat sudah bosan dengan _scrolling_ medsos secara vertikal ataupun horizontal (main Bumble) selalu terucap, "Kapan rumahku datang? Sampai kapan aku selalu merasa asing?"
+
+Entah berapa purnama lagi harus aku lewati, berapa musim hujan lagi aku tempuh, berapa banyak tulisan lagi hingga datang seseorang yang memahamiku "Rid, _I know how you feel_ karena aku udah baca semua uneg-uneg kamu disini". "Rid dont push yourself too hard". Aku tidak bisa terus sendirian. Aku sudah berapa kali mengurungkan diri untuk pergi keluar sendiri karena tetap saja tidak _fullfilled_ bagian yang hampa ini. Saat akhir pekan di kost, aku berpikiran "Entah weekend aku jalan aja ahh ke mall terus ngopi sambil nulis/nugas". Begitu akhir pekan tiba, "Ahh ngapain harus keluar kalau sendiri males banget gabisa ngobrol" akhirnya yaa aku urungkan niatku. Sama halnya ketika di Bandung "Entah weekend ke PVJ ahh cari baju sama sepatu". Lagi dan lagi aku urungkan "Lebih baik tidur deng ngapain cari-cari baju sendiri kalau gaada yang ngasih rekomendasi" atau "Gabut banget ke mall sendiri terus pulang lagi". Sampai kapan aku harus biarkan bagian dari ini kosong melompong? Kapan aku bisa menjadi diriku sendiri dan bisa meluapkan apa yang aku rasakan? Aku pun tak malu jika memang aku sangat sedih dan ingin menangis. Kapan lagi aku harus memberitahu bahwa aku ingin ditemani _chat_ saat pergi ke toilet di malam hari? Kapan aku harus bisa memberitahu sesuatu hal yang random yang tiba-tiba terlintas dalam benakku? Kapan ada seseorang yang bisa mengetahui titik buta pada diriku? Aku butuh rumah untuk semua hal itu. Semua hal yang ada tidak ada artinya jika aku tidak memiliki rumah.
