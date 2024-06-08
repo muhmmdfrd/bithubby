@@ -103,4 +103,4 @@ Yang belum pergi hanya perasaan berharap padanya. Masih saja menempel dan aku ti
 
 Benar juga:)
 
-Pada akhirnya aku memang tidak pantas dimiliki oleh siapapun.
+Nulis nulis sendiri. yang baca juga sendiri. Excited sendiri. Sedih sendiri. Marah sendiri. Sakit sendiri. Pada akhirnya aku memang tidak pantas dimiliki oleh siapapun.
