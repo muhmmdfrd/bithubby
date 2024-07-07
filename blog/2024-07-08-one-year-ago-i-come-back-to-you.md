@@ -6,7 +6,7 @@ tags: [story]
 keywords: [blog, bithubby]
 description: Kejadian 8 Juli
 image: "/blog/road-3186188_1280.jpg"
-date: "2024-07-07T08:01:00"
+date: "2024-07-07T17:00:00"
 ---
 
 :::success Summary
