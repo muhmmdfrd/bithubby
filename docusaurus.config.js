@@ -22,16 +22,9 @@ const config = {
     telegramToken: process.env.TELEGRAM_TOKEN,
     apiKey: process.env.API_KEY,
     isTelegramNotifierActive: process.env.TELEGRAM_NOTIFICATION,
+    cdnImageUrl: process.env.CDN_IMAGE_URL,
   },
   scripts: [
-    // {
-    //   src: "https://cdn.intake-lr.com/LogRocket.min.js",
-    //   async: false,
-    // },
-    // {
-    //   src: "/logrocket.js",
-    //   async: false,
-    // },
     {
       src: "/stat.js",
       async: false,
@@ -103,7 +96,7 @@ const config = {
   themeConfig: {
     announcementBar: {
       id: "announcement_bithubby",
-      content: "It's Over",
+      content: "New Website on progress: https://casava.bithubby.com",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
