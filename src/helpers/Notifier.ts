@@ -1,6 +1,10 @@
 import FingerprintJS from "@fingerprintjs/fingerprintjs";
 
+const isDevelopment = process.env.NODE_ENV === "development";
+
 const notify = (telegramToken: string) => {
+  if (isDevelopment) return;
+
   const fpPromise = FingerprintJS.load();
 
   (async () => {
