@@ -96,8 +96,7 @@ const config = {
   themeConfig: {
     announcementBar: {
       id: "announcement_bithubby",
-      content:
-        "New Website on progress: <a href='https://casava.bithubby.com'>Bithubby</a>",
+      content: "Blog ini akan tetap menjadi website utama Bithubby:)",
       backgroundColor: "#fafbfc",
       textColor: "#091E42",
       isCloseable: true,
