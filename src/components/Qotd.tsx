@@ -9,9 +9,14 @@ export function Qotd({ apiKey }: QotdProps): JSX.Element {
   const [quote, setQuote] = React.useState<string>("");
   const [author, setAuthor] = React.useState<string>("");
   const [loading, setLoading] = React.useState<boolean>(true);
+  const [isDebug] = React.useState<boolean>(
+    process.env.NODE_ENV === "development"
+  );
 
   React.useEffect(() => {
     setLoading(true);
+
+    if (process.env.NODE_ENV === "development") return;
 
     fetch("https://api.api-ninjas.com/v1/quotes", {
       headers: {
@@ -32,7 +37,9 @@ export function Qotd({ apiKey }: QotdProps): JSX.Element {
 
   return (
     <Admonition title={"QOTD"} type={"success"}>
-      {loading ? (
+      {isDebug ? (
+        "debug mode"
+      ) : loading ? (
         "..."
       ) : (
         <i>
