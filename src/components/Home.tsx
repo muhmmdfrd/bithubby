@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "@theme/Layout";
 import { Content } from "@theme/BlogPostPage";
-import { BlogPostProvider } from "@docusaurus/theme-common/internal";
+import { BlogPostProvider } from "@docusaurus/plugin-content-blog/client";
 import { inject } from "@vercel/analytics";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 import Head from "@docusaurus/Head";

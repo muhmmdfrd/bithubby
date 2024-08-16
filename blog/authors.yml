@@ -1,6 +1,13 @@
 farid:
   name: Muhammad Farid
   title: Bithubby's Author
-  url: https://www.linkedin.com/in/muhammad-farid-81564a167
+  url: https://bithubby.com/authors/farid
   image_url: https://avatars.githubusercontent.com/u/40193232?v=4
+  description: Certitied as Aglio Olio Lovers
+  page: true
   email: m.farid@bithubby.com
+  socials:
+    x: bithubby
+    linkedin: muhmmdfrd
+    github: muhmmdfrd
+    newsletter: https://safeplace.id

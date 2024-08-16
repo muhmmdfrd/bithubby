@@ -1,3 +1,6 @@
+const blogPlugin = require("./plugins/blog-plugin");
+const sidebars = require("./sidebars");
+
 const lightCodeTheme = require("prism-react-renderer").themes.github;
 const darkCodeTheme = require("prism-react-renderer").themes.dracula;
 
@@ -24,12 +27,12 @@ const config = {
     isTelegramNotifierActive: process.env.TELEGRAM_NOTIFICATION,
     cdnImageUrl: process.env.CDN_IMAGE_URL,
   },
-  scripts: [
-    {
-      src: "/stat.js",
-      async: false,
-    },
-  ],
+  // scripts: [
+  //   {
+  //     src: "/stat.js",
+  //     async: false,
+  //   },
+  // ],
   plugins: [
     [
       "./plugins/blog-plugin",
@@ -94,6 +97,11 @@ const config = {
     ],
   ],
   themeConfig: {
+    blog: {
+      sidebar: {
+        groupByYear: false,
+      },
+    },
     announcementBar: {
       id: "announcement_bithubby",
       content: "Blog ini akan tetap menjadi website utama Bithubby:)",
