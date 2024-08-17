@@ -27,12 +27,12 @@ const config = {
     isTelegramNotifierActive: process.env.TELEGRAM_NOTIFICATION,
     cdnImageUrl: process.env.CDN_IMAGE_URL,
   },
-  // scripts: [
-  //   {
-  //     src: "/stat.js",
-  //     async: false,
-  //   },
-  // ],
+  scripts: [
+    {
+      src: "/stat.js",
+      async: false,
+    },
+  ],
   plugins: [
     [
       "./plugins/blog-plugin",
