@@ -1,6 +1,6 @@
 ---
-slug: i-guest-good-for-u
-title: I Guest, Good for You
+slug: i-guess-good-for-u
+title: I Guess, Good for You
 authors: [farid]
 tags: [story]
 keywords: [blog, bithubby]
