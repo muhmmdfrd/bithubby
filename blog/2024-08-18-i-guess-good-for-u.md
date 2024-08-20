@@ -11,6 +11,7 @@ date: "2024-08-19T11:43:00"
 
 :::success Summary
 Ini bagus untuk kamu, tapi tidak denganku.
+:::
 
 <!-- truncate -->
 
