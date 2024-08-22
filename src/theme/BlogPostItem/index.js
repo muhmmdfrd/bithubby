@@ -28,6 +28,7 @@ export default function BlogPostItem({ children, className }) {
       <BlogPostItemHeader />
       {image && <Image img={imageUrl} />}
       <BlogPostItemContent>{children}</BlogPostItemContent>
+      <br />
       <DiscussionEmbed
         shortname="bithubby"
         config={{
