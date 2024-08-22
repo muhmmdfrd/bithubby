@@ -29,16 +29,15 @@ export default function BlogPostItem({ children, className }) {
       {image && <Image img={imageUrl} />}
       <BlogPostItemContent>{children}</BlogPostItemContent>
       <DiscussionEmbed
-        shortname="https-bithubby-com"
+        shortname="bithubby"
         config={{
           url: metadata.permalink,
           identifier: name,
           title: metadata.title,
-          language: "id",
         }}
       />
       <CommentCount
-        shortname="https-bithubby-com"
+        shortname="bithubby"
         config={{
           url: metadata.permalink,
           identifier: name,
