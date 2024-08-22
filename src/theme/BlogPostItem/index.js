@@ -7,7 +7,7 @@ import BlogPostItemContent from "./Content";
 import BlogPostItemFooter from "./Footer";
 import Image from "@theme/IdealImage";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import { DiscussionEmbed, CommentCount } from "disqus-react";
+import { DiscussionEmbed } from "disqus-react";
 
 function useContainerClassName() {
   const { isBlogPostPage } = useBlogPost();
@@ -15,7 +15,7 @@ function useContainerClassName() {
 }
 export default function BlogPostItem({ children, className }) {
   const containerClassName = useContainerClassName();
-  const { frontMatter, assets, metadata, name } = useBlogPost();
+  const { frontMatter, assets, metadata } = useBlogPost();
   const image = assets.image ?? frontMatter.image;
   const {
     siteConfig: { customFields },
@@ -31,22 +31,11 @@ export default function BlogPostItem({ children, className }) {
       <DiscussionEmbed
         shortname="bithubby"
         config={{
-          url: metadata.permalink,
-          identifier: name,
+          url: `https://bithubby.com${metadata.permalink}`,
+          identifier: metadata.frontMatter.slug,
           title: metadata.title,
         }}
       />
-      <CommentCount
-        shortname="bithubby"
-        config={{
-          url: metadata.permalink,
-          identifier: name,
-          title: metadata.title,
-        }}
-      >
-        {/* Placeholder Text */}
-        Comments
-      </CommentCount>
       <BlogPostItemFooter />
     </BlogPostItemContainer>
   );
