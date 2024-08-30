@@ -53,6 +53,8 @@ Gua selama ini nunggu-nunggu respons lu. _At least_ chat gua lu baca dehh. Selam
 
 _I'll be waiting, all there's left to do is you with me_.
 
+Ehh BTW _story_ lu hari ini CAKEPPPP BENER DSAKDLSAJFASKJKAJEKAEA HAHAHAHAHA.
+
 ## Note
 
 _Sorry_ lagi agak gamood sihh aku nulis. Lagi menikmati era bucin dengan orang yang belum bisa digapai hahaha. Yuk lanjut dengerin dan cari-cari lagi lagu Taylor Swift. _YOU BELONG WITH MEEEE YEAHHHH_
