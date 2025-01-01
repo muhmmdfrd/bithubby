@@ -6,14 +6,16 @@ tags: [story, life, love]
 keywords: [jatuh cinta, cinta, daily, bithubby]
 description: Daily Journey
 image: "/blog/clock-2696234_640.jpg"
-date: "2024-02-05T09:16:00"
+date: "2025-01-01T15:46:00"
 ---
 
 :::success _Summary_
-36/366
+1/366 2025
 :::
 
 <!-- truncate -->
+
+# 2024
 
 ## Prologue
 
@@ -116,3 +118,24 @@ Namun tetap saja mereka itu fana alias sementara. Ketika tidak _available_ ya ha
 Untuk masalah teman aja pemilih, apalagi soal pasangan. Memang betul, di Bumble mustahil aku mendapatkan pasangan. Toh mendapatkan teman seperti Nanda saja baru mendapat dirinya saja yang aku merasa _match_. Walau _match_ pun aku tidak mempunyai perasaan padanya. Jadi yaa memang di Bumble aku niatkan untuk mencari teman. Syukur-syukur kalau dapat pasangan yang sesuai tipeku.
 
 Aku juga mengingat bahwa di tahun lalu ada motivasi yang kuat untuk menjadikan diriku lebih baik. Aku bisa menghilangkan kebiasaan buruk dengan motivasi, "Safana kalau tahu kebiasaan burukku ini pasti _ilfeel_". Aku bisa menjadi _morning person_ karena motivasi "Syara kan rajin. Aku punya penglihatan masa depan dengannya. Jadi mau sampai kapan aku bangun siang kalo aku nanti menjadi kepala keluarga". Namun sekarang, apa motivasiku untuk berubah? Tidak ada. Jadi ya aku ngerasa stagnan itu hidup flat karena tidak ada motivasi. Ya semoga ada motivasi yang kuat sehingga bisa menjadikan aku lebih baik lagi, dan tidak sering melamun wkwkwkwk.
+
+# 2025
+
+## 1 Januari 2025
+
+Tidak ada yang spesial sihh di awal tahun ini. Mungkin karena kehidupan dewasa, bukan? Tidak lagi merayakan tahun baru (aku tidur jam 11 malam). Lalu bangun seperti biasa dan tidur lagi wkwkwk. Namun yang berbeda adalah notifikasi teleponku yang mempunyai pesan:
+
+> "Happy new year Farid"
+
+Ternyata itu dari Nisa, orang yang baru saja match di akhir tahun 2024. Entah dia akan menjadi pasanganku selanjutnya atau ya seperti sebelumnya: match-chat-asing. Sudah tidak aneh bagiku mendapatkan siklus itu. Karena belum terlalu "jleb" rasa sukaku jadi yaa ngga terlalu nungguin dia. Udah sarapan niat tidur 1 jam (Jam 11 ngantuk set alarm jam 12), EHH MALAH TIDUR SAMPE JAM 2😭😭😭😭. BEGADANG LAGI DONG SUSAH TIDUR INIMAHH.
+
+Tapi yaa untungnya aku mencintai hari kerja jadi bukan masalah besar. Besok aku sudah siap bekerja hehehe. Itu aja sihh untuk _update_ awal tahun 2025 karena hanya itu yang aku pikirkan di awal tahun.
+
+Awal tahun ini yang ada di kepalaku:
+
+1. Besok di kerjaan mau ngerjain apa
+2. 2024 ternyata stagnan dan aku masih kesal dengan si "dia" di kantorku sebelumnya
+3. Ada Nisa yeeee
+4. Grisa nomor satu
+
+HAHAHAHA GAMON MULU RIDDD!!! APAKAH NISA AKAN MENJADI NANDA SELANJUTNYA?? KITA TUNGGU SAJA.
